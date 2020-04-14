@@ -10,3 +10,7 @@ A high-quality, soundtrack mod that adds over **200** songs to your Zeus experie
 ### Radium's Awesome Soundpack
 
 Unique, high-quality sounds packaged and tailored for use in the Zeus editor.
+
+### Want to Contribute?
+- ArmA 3 only accepts `.ogg` files. Please don't send me `.mp3` or other file formats.
+- Make sure you name the filename appropriately. Although most of the mod is not in it, I would prefer if you use camelCase for file names. *e.g. RCS_songName.ogg*
