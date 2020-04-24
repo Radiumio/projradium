@@ -10,7 +10,7 @@ assignees: ''
 **Describe the bug**
 *A clear and concise description of what the bug is.*
 
-**Steps to Reproduce*
+**Steps to Reproduce**
 *List the steps to reproduce the bug.*
 
 **Expected Behavior**
@@ -24,5 +24,6 @@ assignees: ''
 *Radium's Awesome Soundpacks x.x*
 *Radium's Custom Soundtracks x.x*
 
-**Additional context**
-Add any other context about the problem here.
+**Additional Mods used:**
+
+
