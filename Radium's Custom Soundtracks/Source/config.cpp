@@ -1831,6 +1831,14 @@ class CfgMusic
         duration = 120;
         musicClass = "RCTRELAX";
     };
+    class RCS_busyEarning
+    {
+        name = "Jungle - Busy Earning";
+        sound[] = {"\rcs\RCS_busyEarning.ogg",1,1};
+        theme = "Lead";
+        duration = 185;
+        musicClass = "RCTMISC";
+    };
 }; 
 
 
