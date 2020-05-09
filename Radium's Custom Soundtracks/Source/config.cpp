@@ -1823,6 +1823,14 @@ class CfgMusic
         duration = 215;
         musicClass = "RCTACTION";
     };
+    class RCS_blackHeat
+    {
+        name = "Ross Bugden - Black Heat";
+        sound[] = {"\rcs\RCS_blackHeat.ogg",1,1};
+        theme = "Lead";
+        duration = 120;
+        musicClass = "RCTRELAX";
+    };
 }; 
 
 
