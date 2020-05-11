@@ -1839,6 +1839,22 @@ class CfgMusic
         duration = 185;
         musicClass = "RCTMISC";
     };
+    class RCS_madameExecutioner
+    {
+        name = "Mac Quayle - Madame Executioner";
+        sound[] = {"\rcs\RCS_madameExecutioner.ogg",1,1};
+        theme = "Lead";
+        duration = 248;
+        musicClass = "RCTSAD";
+    };
+    class RCS_steelDivision
+    {
+        name = "Steel Division";
+        sound[] = {"\rcs\RCS_steelDivision.ogg",1,1};
+        theme = "Lead";
+        duration = 155;
+        musicClass = "RCTACTION";
+    };
 }; 
 
 
