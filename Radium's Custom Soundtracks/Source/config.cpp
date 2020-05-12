@@ -1823,6 +1823,38 @@ class CfgMusic
         duration = 215;
         musicClass = "RCTACTION";
     };
+    class RCS_blackHeat
+    {
+        name = "Ross Bugden - Black Heat";
+        sound[] = {"\rcs\RELAX\RCS_blackHeat.ogg",1,1};
+        theme = "Lead";
+        duration = 120;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_busyEarning
+    {
+        name = "Jungle - Busy Earning";
+        sound[] = {"\rcs\MISC\RCS_busyEarning.ogg",1,1};
+        theme = "Lead";
+        duration = 185;
+        musicClass = "RCTMISC";
+    };
+    class RCS_madameExecutioner
+    {
+        name = "Mac Quayle - Madame Executioner";
+        sound[] = {"\rcs\SAD\RCS_madameExecutioner.ogg",1,1};
+        theme = "Lead";
+        duration = 248;
+        musicClass = "RCTSAD";
+    };
+    class RCS_steelDivision
+    {
+        name = "Steel Division";
+        sound[] = {"\rcs\ACTION\RCS_steelDivision.ogg",1,1};
+        theme = "Lead";
+        duration = 155;
+        musicClass = "RCTACTION";
+    };
 }; 
 
 
