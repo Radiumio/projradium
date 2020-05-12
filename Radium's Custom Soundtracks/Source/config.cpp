@@ -53,7 +53,6 @@ class CfgMusic
         duration = 252; 
         musicClass = "RCTACTION";
     };
-
     class RCS_Neo
     {
         name = "Neosphere";
@@ -62,7 +61,6 @@ class CfgMusic
         duration = 217;
         musicClass = "RCTACTION";
     };
-
     class RCS_KILL
     {
         name = "K.I.L.L - Xtortion Audio";
@@ -71,7 +69,6 @@ class CfgMusic
         duration = 134;
         musicClass = "RCTACTION";
     };
-
     class RCS_Bones
     {
         name = "Bones - Xtortion Audio";
@@ -80,16 +77,14 @@ class CfgMusic
         duration = 131;
         musicClass = "RCTACTION";
     };
-
-    class RCS_Get_Trucked
+    class RCS_getTrucked
     {
         name = "Get Trucked";
-        sound[] = {"\rcs\ACTION\RCS_Get_Trucked.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_getTrucked.ogg",1,1};
         theme = "Lead";
         duration = 127;
         musicClass = "RCTACTION";
     };
-
     class RCS_Neotropolis
     {
         name = "Neotropolis";
@@ -98,7 +93,6 @@ class CfgMusic
         duration = 168;
         musicClass = "RCTACTION";
     };
-
     class RCS_IN
     {
         name = "Insignia";
@@ -107,7 +101,6 @@ class CfgMusic
         duration = 234;
         musicClass = "RCTACTION";
     };
-
     class RCS_DW
     {
         name = "Dogs Of War";
@@ -116,7 +109,6 @@ class CfgMusic
         duration = 82;
         musicClass = "RCTACTION";
     };
-
     class RCS_PI
     {
         name = "Pumpin' Irony";
@@ -125,7 +117,6 @@ class CfgMusic
         duration = 156;
         musicClass = "RCTACTION";
     };
-
     class RCS_SF
     {
         name = "Smokin' Fire";
@@ -134,8 +125,6 @@ class CfgMusic
         duration = 84;
         musicClass = "RCTACTION";
     };
-
-
     class RCS_IDISS
     {
         name = "I'm So Sorry";
@@ -144,7 +133,6 @@ class CfgMusic
         duration = 202;
         musicClass = "RCTACTION";
     };
-
     class RCS_P
     {
         name = "Short Peace";
@@ -153,7 +141,6 @@ class CfgMusic
         duration = 60;
         musicClass = "RCTRELAX";
     };
-
     class RCS_CTTC
     {
         name = "Cut To The Chase";
@@ -162,8 +149,6 @@ class CfgMusic
         duration = 179;
         musicClass = "RCTACTION";
     };
-
-
     class RCS_Creep
     {
         name = "In Shadows";
@@ -172,7 +157,6 @@ class CfgMusic
         duration = 204;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_BMR
     {
         name = "Bad Moon Rising";
@@ -181,7 +165,6 @@ class CfgMusic
         duration = 139;
         musicClass = "RCTRELAX";
     };
-
     class RCS_HYSTR
     {
         name = "Have You Seen The Rain?";
@@ -190,7 +173,6 @@ class CfgMusic
         duration = 158;
         musicClass = "RCTRELAX";
     };
-
     class RCS_POTE
     {
         name = "Protectors Of The Earth";
@@ -199,7 +181,6 @@ class CfgMusic
         duration = 170;
         musicClass = "RCTACTION";
     };
-
     class RCS_CW
     {
         name = "Containminated Water";
@@ -208,8 +189,6 @@ class CfgMusic
         duration = 145;
         musicClass = "RCTSTEALTH";
     };
-
-
     class RCS_SNA
     {
         name = "Seven Nation Army [GLITCH MOB]";
@@ -218,7 +197,6 @@ class CfgMusic
         duration = 237;
         musicClass = "RCTACTION";
     };
-
     class RCS_VP
     {
         name = "Viper Team";
@@ -227,7 +205,6 @@ class CfgMusic
         duration = 176;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_Communications
     {
         name = "Communications Down";
@@ -236,7 +213,6 @@ class CfgMusic
         duration = 193;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_CTRG
     {
         name = "Combat Technology Research Group";
@@ -245,7 +221,6 @@ class CfgMusic
         duration = 172;
         musicClass = "RCTACTION";
     };
-
     class RCS_Remnant
     {
         name = "Remnants";
@@ -254,7 +229,6 @@ class CfgMusic
         duration = 266;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_NATO
     {
         name = "North Atlantic Treaty Organisation";
@@ -263,7 +237,6 @@ class CfgMusic
         duration = 150;
         musicClass = "RCTACTION";
     };
-
     class RCS_SLBTTS
     {
         name = "Sophi Lu - Bike To The Saturn";
@@ -272,8 +245,6 @@ class CfgMusic
         duration = 76;
         musicClass = "RCTSAD";
     };
-
-
     class RCS_CSAT
     {
         name = "Canton-Protocol Strategic Alliance Treaty";
@@ -282,7 +253,6 @@ class CfgMusic
         duration = 213;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_SYDKT
     {
         name = "Syndikat Leadership";
@@ -291,7 +261,6 @@ class CfgMusic
         duration = 138;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_BCM
     {
         name = "An Old Shootout";
@@ -300,7 +269,6 @@ class CfgMusic
         duration = 221;
         musicClass = "RCTACTION";
     };
-
     class RCS_IWUBJ5
     {
         name = "I Want You Back";
@@ -309,7 +277,6 @@ class CfgMusic
         duration = 179;
         musicClass = "RCTRELAX";
     };
-
     class RCS_I
     {
         name = "Invasion";
@@ -318,7 +285,6 @@ class CfgMusic
         duration = 159;
         musicClass = "RCTACTION";
     };
-
     class RCS_TBG
     {
         name = "The Big Guns";
@@ -327,7 +293,6 @@ class CfgMusic
         duration = 114;
         musicClass = "RCTACTION";
     };
-
     class RCS_suspense
     {
         name = "Suspense";
@@ -336,7 +301,6 @@ class CfgMusic
         duration = 64;
         musicClass = "RCTACTION";
     };
-
     class RCS_warfare
     {
         name = "Warfare";
@@ -345,7 +309,6 @@ class CfgMusic
         duration = 169;
         musicClass = "RCTACTION";
     };
-
     class RCS_sixshooter
     {
         name = "Six Shooter";
@@ -363,7 +326,6 @@ class CfgMusic
         duration = 164;
         musicClass = "RCTRELAX";
     };
-
     class RCS_TEH
     {
         name = "This Ends Here";
@@ -372,7 +334,6 @@ class CfgMusic
         duration = 165;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_Action
     {
         name = "Action";
@@ -381,7 +342,6 @@ class CfgMusic
         duration = 138;
         musicClass = "RCTACTION";
     };
-
     class RCS_Apocalypse
     {
         name = "Apocalypse";
@@ -390,7 +350,6 @@ class CfgMusic
         duration = 66;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_TEOAT
     {
         name = "The End Of All Things";
@@ -399,7 +358,6 @@ class CfgMusic
         duration = 138;
         musicClass = "RCTACTION";
     };
-
     class RCS_orange
     {
         name = "Warm Orange";
@@ -408,7 +366,6 @@ class CfgMusic
         duration = 384;
         musicClass = "RCTRELAX";
     };
-
     class RCS_io
     {
         name = "It's Over";
@@ -417,7 +374,6 @@ class CfgMusic
         duration = 202;
         musicClass = "RCTRELAX";
     };
-
     class RCS_Fury
     {
         name = "Fury";
@@ -426,7 +382,6 @@ class CfgMusic
         duration = 343;
         musicClass = "RCTACTION";
     };
-
     class RCS_Gone
     {
         name = "All Gone";
@@ -435,7 +390,6 @@ class CfgMusic
         duration = 174;
         musicClass = "RCTSAD";
     };
-
     class RCS_LB
     {
         name = "Left Behind";
@@ -444,7 +398,6 @@ class CfgMusic
         duration = 182;
         musicClass = "RCTSAD";
     };
-
     class RCS_V
     {
         name = "Valleys";
@@ -453,7 +406,6 @@ class CfgMusic
         duration = 125;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_TIMW
     {
         name = "This Is My World";
@@ -462,7 +414,6 @@ class CfgMusic
         duration = 185;
         musicClass = "RCTACTION";
     };
-
     class RCS_EOTS
     {
         name = "Eye Of The Storm";
@@ -471,7 +422,6 @@ class CfgMusic
         duration = 195;
         musicClass = "RCTACTION";
     };
-
     class RCS_ITD
     {
         name = "In The Darkness";
@@ -480,7 +430,6 @@ class CfgMusic
         duration = 159;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_RBH
     {
         name = "Right Behind You";
@@ -489,7 +438,6 @@ class CfgMusic
         duration = 176;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_Hunted
     {
         name = "Hunted";
@@ -498,7 +446,6 @@ class CfgMusic
         duration = 124;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_TII
     {
         name = "This Is It";
@@ -507,7 +454,6 @@ class CfgMusic
         duration = 124;
         musicClass = "RCTSAD";
     };
-
     class RCS_NTB
     {
         name = "Never Turn Your Back";
@@ -516,7 +462,6 @@ class CfgMusic
         duration = 249;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_NTBA
     {
         name = "Never Turn Your Back (AMBIENT)";
@@ -525,7 +470,6 @@ class CfgMusic
         duration = 165;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_FU
     {
         name = "Follow-Up";
@@ -534,7 +478,6 @@ class CfgMusic
         duration = 274;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_Evacuation
     {
         name = "Evacuation";
@@ -543,7 +486,6 @@ class CfgMusic
         duration = 141;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_TD
     {
         name = "The Depression";
@@ -552,7 +494,6 @@ class CfgMusic
         duration = 113;
         musicClass = "RCTSAD";
     };
-
     class RCS_L
     {
         name = "Loyal";
@@ -561,7 +502,6 @@ class CfgMusic
         duration = 75;
         musicClass = "RCTACTION";
     };
-
     class RCS_M
     {
         name = "The March";
@@ -570,7 +510,6 @@ class CfgMusic
         duration = 147;
         musicClass = "RCTACTION";
     };
-
     class RCS_Strategicassault
     {
         name = "Strategic Assault";
@@ -579,7 +518,6 @@ class CfgMusic
         duration = 329;
         musicClass = "RCTACTION";
     };
-
     class RCS_MB
     {
         name = "Mother Base Is Attacked";
@@ -588,7 +526,6 @@ class CfgMusic
         duration = 213;
         musicClass = "RCTACTION";
     };
-
     class RCS_Hot
     {
         name = "Hotzone";
@@ -597,7 +534,6 @@ class CfgMusic
         duration = 91;
         musicClass = "RCTACTION";
     };
-
     class RCS_Met
     {
         name = "Metallic Archaea";
@@ -606,7 +542,6 @@ class CfgMusic
         duration = 129;
         musicClass = "RCTACTION";
     };
-
     class RCS_NL
     {
         name = "No Light";
@@ -615,7 +550,6 @@ class CfgMusic
         duration = 113;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_HWA
     {
         name = "Here We Are";
@@ -624,7 +558,6 @@ class CfgMusic
         duration = 440;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_TT
     {
         name = "Tunnel Trouble";
@@ -633,7 +566,6 @@ class CfgMusic
         duration = 183;
         musicClass = "RCTACTION";
     };
-
     class RCS_AP
     {
         name = "Apex Protocol";
@@ -642,7 +574,6 @@ class CfgMusic
         duration = 117;
         musicClass = "RCTACTION";
     };
-
     class RCS_LITF
     {
         name = "Lurking In The Fog";
@@ -651,7 +582,6 @@ class CfgMusic
         duration = 118;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_TDIA
     {
         name = "The Device Is Active";
@@ -660,7 +590,6 @@ class CfgMusic
         duration = 123;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_Restless
     {
         name = "Restless";
@@ -669,7 +598,6 @@ class CfgMusic
         duration = 261;
         musicClass = "RCTRELAX";
     };
-
     class RCS_farewell
     {
         name = "Farewell Life";
@@ -678,7 +606,6 @@ class CfgMusic
         duration = 398;
         musicClass = "RCTSAD";
     };
-
     class RCS_itbguitar
     {
         name = "ITB - Guitar";
@@ -687,7 +614,6 @@ class CfgMusic
         duration = 190;
         musicClass = "RCTACTION";
     };
-
     class RCS_itbice
     {
         name = "ITB - Ice";
@@ -696,7 +622,6 @@ class CfgMusic
         duration = 149;
         musicClass = "RCTACTION";
     };
-
     class RCS_itbtrain
     {
         name = "ITB - Train";
@@ -705,7 +630,6 @@ class CfgMusic
         duration = 245;
         musicClass = "RCTACTION";
     };
-
     class RCS_itbzimmer
     {
         name = "ITB - Zimmer";
@@ -714,7 +638,6 @@ class CfgMusic
         duration = 181;
         musicClass = "RCTACTION";
     };
-
     class RCS_traced
     {
         name = "Tracer";
@@ -723,7 +646,6 @@ class CfgMusic
         duration = 330;
         musicClass = "RCTACTION";
     };
-
 	class RCS_tp
     {
         name = "Thought Process";
@@ -732,7 +654,6 @@ class CfgMusic
         duration = 233;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_godray
     {
         name = "Godrays";
@@ -741,7 +662,6 @@ class CfgMusic
         duration = 251;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_boss
     {
         name = "ITB - Final Boss";
@@ -750,7 +670,6 @@ class CfgMusic
         duration = 257;
         musicClass = "RCTACTION";
     };
-
 	class RCS_rushhour
     {
         name = "Rush Hour";
@@ -759,7 +678,6 @@ class CfgMusic
         duration = 138;
         musicClass = "RCTACTION";
     };
-
 	class RCS_aboveandbeyond
     {
         name = "Above and Beyond";
@@ -768,16 +686,14 @@ class CfgMusic
         duration = 173;
         musicClass = "RCTACTION";
     };
-
 	class RCS_aquavitae
     {
         name = "Aqua Vitae";
-        sound[] = {"\rcs\ACTIONRCS_aquavitae.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_aquavitae.ogg",1,1};
         theme = "Lead";
         duration = 156;
         musicClass = "RCTACTION";
     };
-	
 	class RCS_endofmyjourney
     {
         name = "End of My Journey";
@@ -786,7 +702,6 @@ class CfgMusic
         duration = 196;
         musicClass = "RCTACTION";
     };
-
 	class RCS_firenation
     {
         name = "Fire Nation";
@@ -795,7 +710,6 @@ class CfgMusic
         duration = 181;
         musicClass = "RCTACTION";
     };
-	
 	class RCS_hztime
     {
         name = "Time";
@@ -804,7 +718,6 @@ class CfgMusic
         duration = 310;
         musicClass = "RCTACTION";
     };
-
 	class RCS_imperatixmundi
     {
         name = "Imperatix Mundi";
@@ -813,7 +726,6 @@ class CfgMusic
         duration = 179;
         musicClass = "RCTACTION";
     };
-	
 	class RCS_invincible
     {
         name = "Invincible";
@@ -822,7 +734,6 @@ class CfgMusic
         duration = 172;
         musicClass = "RCTACTION";
     };
-	
 	class RCS_lostbutwon
     {
         name = "Lost But Won";
@@ -831,7 +742,6 @@ class CfgMusic
         duration = 385;
         musicClass = "RCTACTION";
     };
-	
 	class RCS_passionofvictory
     {
         name = "Passion of Victory";
@@ -840,7 +750,6 @@ class CfgMusic
         duration = 138;
         musicClass = "RCTACTION";
     };
-	
 	class RCS_revival
     {
         name = "Revival";
@@ -849,7 +758,6 @@ class CfgMusic
         duration = 427;
         musicClass = "RCTACTION";
     };
-
 	class RCS_supermarine
     {
         name = "Supermarine";
@@ -858,7 +766,6 @@ class CfgMusic
         duration = 483;
         musicClass = "RCTACTION";
     };
-	
 	class RCS_themole
     {
         name = "The Mole";
@@ -867,7 +774,6 @@ class CfgMusic
         duration = 336;
         musicClass = "RCTACTION";
     };
-
     class RCS_longhaul
     {
         name = "Long Haul";
@@ -876,7 +782,6 @@ class CfgMusic
         duration = 158;
         musicClass = "RCTACTION";
     };
-
 	class RCS_megalovania
     {
         name = "Megalovania";
@@ -885,7 +790,6 @@ class CfgMusic
         duration = 139;
         musicClass = "RCTACTION";
     };
-
 	class RCS_togalaxy
     {
         name = "To Galaxy";
@@ -894,7 +798,6 @@ class CfgMusic
         duration = 213;
         musicClass = "RCTACTION";
     };
-
 	class RCS_swordsinsky
     {
         name = "Swords In The Sky";
@@ -903,7 +806,6 @@ class CfgMusic
         duration = 169;
         musicClass = "RCTACTION";
     };
-
 	class RCS_battletanks
     {
         name = "Battle Tanks";
@@ -912,7 +814,6 @@ class CfgMusic
         duration = 164;
         musicClass = "RCTACTION";
     };
-
 	class RCS_zeroed
     {
         name = "Zeroed";
@@ -921,16 +822,14 @@ class CfgMusic
         duration = 311;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_assault
     {
         name = "Assault";
-        sound[] = {"\rcs\STEALTHRCS_assault.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_assault.ogg",1,1};
         theme = "Lead";
         duration = 305;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_alienworld
     {
         name = "Alien World";
@@ -939,7 +838,6 @@ class CfgMusic
         duration = 172;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_bestlaidplans
     {
         name = "Best Laid Plans";
@@ -948,7 +846,6 @@ class CfgMusic
         duration = 191;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_ticktock
     {
         name = "Time Rush";
@@ -957,7 +854,6 @@ class CfgMusic
         duration = 108;
         musicClass = "RCTSTEALTH";
     };
-
     class RCS_abattlebegins
     {
         name = "A Battle Begins";
@@ -966,7 +862,6 @@ class CfgMusic
         duration = 81;
         musicClass = "RCTACTION";
     };
-
 	class RCS_rescuemission
     {
         name = "Rescue Mission";
@@ -975,7 +870,6 @@ class CfgMusic
         duration = 77;
         musicClass = "RCTACTION";
     };
-
 	class RCS_thefewthebrave
     {
         name = "The Few the Brave";
@@ -984,7 +878,6 @@ class CfgMusic
         duration = 192;
         musicClass = "RCTACTION";
     };
-
 	class RCS_invincibleextend
     {
         name = "Invincible (Extended)";
@@ -993,7 +886,6 @@ class CfgMusic
         duration = 270;
         musicClass = "RCTACTION";
     };
-
 	class RCS_desolate
     {
         name = "Desolate";
@@ -1002,7 +894,6 @@ class CfgMusic
         duration = 320;
         musicClass = "RCTACTION";
     };
-
 	class RCS_beyondapocalypse
     {
         name = "Beyond Apocalypse";
@@ -1011,7 +902,6 @@ class CfgMusic
         duration = 180;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_presence
     {
         name = "Presence";
@@ -1020,7 +910,6 @@ class CfgMusic
         duration = 180;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_roamingthedeadzone
     {
         name = "Roaming The Deadzone";
@@ -1029,7 +918,6 @@ class CfgMusic
         duration = 200;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_visibility
     {
         name = "Visibility";
@@ -1038,7 +926,6 @@ class CfgMusic
         duration = 320;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_entryteamgo
     {
         name = "Entry Team Go";
@@ -1047,7 +934,6 @@ class CfgMusic
         duration = 154;
         musicClass = "RCTACTION";
     };
-
 	class RCS_armedarrival
     {
         name = "Armed Arrival";
@@ -1056,7 +942,6 @@ class CfgMusic
         duration = 179;
         musicClass = "RCTACTION";
     };
-
 	class RCS_wlb
     {
         name = "What Lies Beyond";
@@ -1065,7 +950,6 @@ class CfgMusic
         duration = 72;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_unspotted
     {
         name = "Unspotted";
@@ -1074,7 +958,6 @@ class CfgMusic
         duration = 163;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_fromthewild
     {
         name = "From The Wild";
@@ -1083,7 +966,6 @@ class CfgMusic
         duration = 259;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_requiemofadream
     {
         name = "Requiem Of a Dream";
@@ -1092,7 +974,6 @@ class CfgMusic
         duration = 241;
         musicClass = "RCTACTION";
     };
-
 	class RCS_berlinfootchase
     {
         name = "Berlin Foot Chase";
@@ -1101,7 +982,6 @@ class CfgMusic
         duration = 319;
         musicClass = "RCTACTION";
     };
-
 	class RCS_vengeance
     {
         name = "Vengeance";
@@ -1110,7 +990,6 @@ class CfgMusic
         duration = 393;
         musicClass = "RCTACTION";
     };
-
 	class RCS_jesperkydapocalypse
     {
         name = "Jesper Kyd - Apocalypse";
@@ -1119,7 +998,6 @@ class CfgMusic
         duration = 241;
         musicClass = "RCTACTION";
     };
-
 	class RCS_daybreak
     {
         name = "Daybreak";
@@ -1128,7 +1006,6 @@ class CfgMusic
         duration = 381;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_asimov
     {
         name = "Asimov";
@@ -1137,7 +1014,6 @@ class CfgMusic
         duration = 351;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_runthroughthejungle
     {
         name = "Run Through the Jungle";
@@ -1146,7 +1022,6 @@ class CfgMusic
         duration = 186;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_caverns
     {
         name = "Caverns";
@@ -1155,7 +1030,6 @@ class CfgMusic
         duration = 141;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_crashsite
     {
         name = "Crash Site";
@@ -1173,7 +1047,6 @@ class CfgMusic
         duration = 134;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_grasshopper
     {
         name = "Grasshopper";
@@ -1182,7 +1055,6 @@ class CfgMusic
         duration = 170;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_maneuvers
     {
         name = "Maneuvers";
@@ -1191,7 +1063,6 @@ class CfgMusic
         duration = 159;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_flora
     {
         name = "Flora";
@@ -1200,7 +1071,6 @@ class CfgMusic
         duration = 138;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_feelingstrange
     {
         name = "Feeling Strange";
@@ -1209,7 +1079,6 @@ class CfgMusic
         duration = 131;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_alienpassageways
     {
         name = "Alien Passageways";
@@ -1218,7 +1087,6 @@ class CfgMusic
         duration = 137;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_alienspaces
     {
         name = "Alien Spaces";
@@ -1227,7 +1095,6 @@ class CfgMusic
         duration = 106;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_arclights
     {
         name = "Arc Lights";
@@ -1236,7 +1103,6 @@ class CfgMusic
         duration = 94;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_newsights
     {
         name = "New Sights";
@@ -1245,7 +1111,6 @@ class CfgMusic
         duration = 131;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_sunbeam
     {
         name = "Sunbeam";
@@ -1254,7 +1119,6 @@ class CfgMusic
         duration = 78;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_juggernaut
     {
         name = "Juggernaut";
@@ -1263,7 +1127,6 @@ class CfgMusic
         duration = 311;
         musicClass = "RCTACTION";
     };
-
 	class RCS_juggernautalt
     {
         name = "Juggernaut [Alt. Version]";
@@ -1272,7 +1135,6 @@ class CfgMusic
         duration = 250;
         musicClass = "RCTACTION";
     };
-
 	class RCS_fortunateson
     {
         name = "Fortunate Son";
@@ -1281,7 +1143,6 @@ class CfgMusic
         duration = 141;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_outbreak
     {
         name = "Outbreak";
@@ -1290,7 +1151,6 @@ class CfgMusic
         duration = 316;
         musicClass = "RCTACTION";
     };
-
 	class RCS_chase
     {
         name = "Chase";
@@ -1299,7 +1159,6 @@ class CfgMusic
         duration = 222;
         musicClass = "RCTACTION";
     };
-
 	class RCS_evasion
     {
         name = "Evasion";
@@ -1308,7 +1167,6 @@ class CfgMusic
         duration = 121;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_escape
     {
         name = "Escape";
@@ -1317,7 +1175,6 @@ class CfgMusic
         duration = 458;
         musicClass = "RCTACTION";
     };
-
 	class RCS_greatrun
     {
         name = "Great Run";
@@ -1326,7 +1183,6 @@ class CfgMusic
         duration = 143;
         musicClass = "RCTACTION";
     };
-
 	class RCS_sandstorm
     {
         name = "Sandstorm";
@@ -1335,7 +1191,6 @@ class CfgMusic
         duration = 253;
         musicClass = "RCTACTION";
     };
-
 	class RCS_heist
     {
         name = "Heist";
@@ -1344,7 +1199,6 @@ class CfgMusic
         duration = 200;
         musicClass = "RCTACTION";
     };
-
 	class RCS_versalife
     {
         name = "Versalife";
@@ -1353,7 +1207,6 @@ class CfgMusic
         duration = 386;
         musicClass = "RCTACTION";
     };
-
 	class RCS_completion
     {
         name = "Mission Completion A";
@@ -1362,7 +1215,6 @@ class CfgMusic
         duration = 52;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_insertion
     {
         name = "Insertion";
@@ -1371,7 +1223,6 @@ class CfgMusic
         duration = 89;
         musicClass = "RCTACTION";
     };
-
 	class RCS_nuclearsilence
     {
         name = "Nuclear Silence";
@@ -1380,7 +1231,6 @@ class CfgMusic
         duration = 233;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_scatteredforces
     {
         name = "Scattered Forces";
@@ -1389,7 +1239,6 @@ class CfgMusic
         duration = 299;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_gamma
     {
         name = "ITB - Gamma";
@@ -1398,7 +1247,6 @@ class CfgMusic
         duration = 164;
         musicClass = "RCTACTION";
     };
-
 	class RCS_scavengers
     {
         name = "ITB - Scavengers";
@@ -1407,7 +1255,6 @@ class CfgMusic
         duration = 172;
         musicClass = "RCTACTION";
     };
-
 	class RCS_tacticaldecision
     {
         name = "ITB - Tactical Decision";
@@ -1416,7 +1263,6 @@ class CfgMusic
         duration = 119;
         musicClass = "RCTACTION";
     };
-
 	class RCS_goodmorningtakistan
     {
         name = "Good Morning Takistan";
@@ -1425,7 +1271,6 @@ class CfgMusic
         duration = 159;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_crudeoil
     {
         name = "Crude Oil";
@@ -1434,7 +1279,6 @@ class CfgMusic
         duration = 235;
         musicClass = "RCTACTION";
     };
-
 	class RCS_arrowhead
     {
         name = "Arrowhead";
@@ -1443,7 +1287,6 @@ class CfgMusic
         duration = 220;
         musicClass = "RCTACTION";
     };
-
 	class RCS_revolverjam
     {
         name = "Revolver Jam";
@@ -1452,7 +1295,6 @@ class CfgMusic
         duration = 254;
         musicClass = "RCTRELAX";
     };
-
 	class RCS_thebeast
     {
         name = "The Beast";
@@ -1461,7 +1303,6 @@ class CfgMusic
         duration = 195;
         musicClass = "RCTSTEALTH";
     };
-
 	class RCS_worldoftanks
     {
         name = "World of Tanks";
@@ -1470,7 +1311,6 @@ class CfgMusic
         duration = 198;
         musicClass = "RCTACTION";
     };
-	// CONTACT TRACKS START HERE
     class RCS_transilience
     {
         name = "Transilience";
@@ -1582,7 +1422,7 @@ class CfgMusic
         theme = "Lead";
         duration = 101;
         musicClass = "RCTCONTACT";
-    }; // CONTACT TRACKS END HERE
+    }; 
     class RCS_leadfoot
     {
         name = "Lead Foot";
@@ -1826,11 +1666,7 @@ class CfgMusic
     class RCS_blackHeat
     {
         name = "Ross Bugden - Black Heat";
-<<<<<<< HEAD
-        sound[] = {"\rcs\RCS_blackHeat.ogg",1,1};
-=======
         sound[] = {"\rcs\RELAX\RCS_blackHeat.ogg",1,1};
->>>>>>> overhaul+newmusic
         theme = "Lead";
         duration = 120;
         musicClass = "RCTRELAX";
@@ -1838,11 +1674,7 @@ class CfgMusic
     class RCS_busyEarning
     {
         name = "Jungle - Busy Earning";
-<<<<<<< HEAD
-        sound[] = {"\rcs\RCS_busyEarning.ogg",1,1};
-=======
         sound[] = {"\rcs\MISC\RCS_busyEarning.ogg",1,1};
->>>>>>> overhaul+newmusic
         theme = "Lead";
         duration = 185;
         musicClass = "RCTMISC";
@@ -1850,11 +1682,7 @@ class CfgMusic
     class RCS_madameExecutioner
     {
         name = "Mac Quayle - Madame Executioner";
-<<<<<<< HEAD
-        sound[] = {"\rcs\RCS_madameExecutioner.ogg",1,1};
-=======
         sound[] = {"\rcs\SAD\RCS_madameExecutioner.ogg",1,1};
->>>>>>> overhaul+newmusic
         theme = "Lead";
         duration = 248;
         musicClass = "RCTSAD";
@@ -1862,11 +1690,7 @@ class CfgMusic
     class RCS_steelDivision
     {
         name = "Steel Division";
-<<<<<<< HEAD
-        sound[] = {"\rcs\RCS_steelDivision.ogg",1,1};
-=======
         sound[] = {"\rcs\ACTION\RCS_steelDivision.ogg",1,1};
->>>>>>> overhaul+newmusic
         theme = "Lead";
         duration = 155;
         musicClass = "RCTACTION";
