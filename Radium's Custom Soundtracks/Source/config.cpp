@@ -731,7 +731,7 @@ class CfgMusic
         name = "Lost But Won";
         sound[] = {"\rcs\ACTION\RCS_lostButWon.ogg",1,1};
         theme = "Lead";
-        duration = 385;
+        duration = 367;
         musicClass = "RCTACTION";
     };
 	class RCS_passionofvictory
