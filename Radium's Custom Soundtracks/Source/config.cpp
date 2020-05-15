@@ -590,14 +590,6 @@ class CfgMusic
         duration = 123;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_Restless
-    {
-        name = "Restless";
-        sound[] = {"\rcs\RELAX\RCS_Restless.ogg",1,1};
-        theme = "Lead";
-        duration = 261;
-        musicClass = "RCTRELAX";
-    };
     class RCS_farewell
     {
         name = "Farewell Life";
@@ -734,10 +726,10 @@ class CfgMusic
         duration = 172;
         musicClass = "RCTACTION";
     };
-	class RCS_lostbutwon
+	class RCS_lostButWon
     {
         name = "Lost But Won";
-        sound[] = {"\rcs\ACTION\RCS_lostbutwon.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_lostButWon.ogg",1,1};
         theme = "Lead";
         duration = 385;
         musicClass = "RCTACTION";
@@ -997,14 +989,6 @@ class CfgMusic
         theme = "Lead";
         duration = 241;
         musicClass = "RCTACTION";
-    };
-	class RCS_daybreak
-    {
-        name = "Daybreak";
-        sound[] = {"\rcs\RELAX\RCS_daybreak.ogg",1,1};
-        theme = "Lead";
-        duration = 381;
-        musicClass = "RCTRELAX";
     };
 	class RCS_asimov
     {
