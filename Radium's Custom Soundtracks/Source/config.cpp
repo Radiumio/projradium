@@ -765,18 +765,18 @@ class CfgMusic
         duration = 305;
         musicClass = "RCTSTEALTH";
     };
-	class RCS_alienworld
+	class RCS_alienWorld
     {
         name = "Alien World";
-        sound[] = {"\rcs\RELAX\RCS_alienworld.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_alienWorld.ogg",1,1};
         theme = "Lead";
         duration = 172;
         musicClass = "RCTRELAX";
     };
-	class RCS_bestlaidplans
+	class RCS_bestLaidPlans
     {
         name = "Best Laid Plans";
-        sound[] = {"\rcs\RELAX\RCS_bestlaidplans.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_bestLaidPlans.ogg",1,1};
         theme = "Lead";
         duration = 191;
         musicClass = "RCTRELAX";
@@ -893,10 +893,10 @@ class CfgMusic
         duration = 163;
         musicClass = "RCTSTEALTH";
     };
-	class RCS_fromthewild
+	class RCS_fromTheWild
     {
         name = "From The Wild";
-        sound[] = {"\rcs\RELAX\RCS_fromthewild.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_fromTheWild.ogg",1,1};
         theme = "Lead";
         duration = 259;
         musicClass = "RCTRELAX";
@@ -941,10 +941,10 @@ class CfgMusic
         duration = 351;
         musicClass = "RCTRELAX";
     };
-	class RCS_runthroughthejungle
+	class RCS_runThroughTheJungle
     {
         name = "Run Through the Jungle";
-        sound[] = {"\rcs\RELAX\RCS_runthroughthejungle.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_runThroughTheJungle.ogg",1,1};
         theme = "Lead";
         duration = 186;
         musicClass = "RCTRELAX";
@@ -1022,18 +1022,18 @@ class CfgMusic
         duration = 106;
         musicClass = "RCTSTEALTH";
     };
-	class RCS_arclights
+	class RCS_arcLights
     {
         name = "Arc Lights";
-        sound[] = {"\rcs\RELAX\RCS_arclights.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_arcLights.ogg",1,1};
         theme = "Lead";
         duration = 94;
         musicClass = "RCTRELAX";
     };
-	class RCS_newsights
+	class RCS_newSights
     {
         name = "New Sights";
-        sound[] = {"\rcs\RELAX\RCS_newsights.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_newSights.ogg",1,1};
         theme = "Lead";
         duration = 131;
         musicClass = "RCTRELAX";
@@ -1062,10 +1062,10 @@ class CfgMusic
         duration = 250;
         musicClass = "RCTACTION";
     };
-	class RCS_fortunateson
+	class RCS_fortunateSon
     {
         name = "Fortunate Son";
-        sound[] = {"\rcs\RELAX\RCS_fortunateson.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_fortunateSon.ogg",1,1};
         theme = "Lead";
         duration = 141;
         musicClass = "RCTRELAX";
@@ -1150,18 +1150,18 @@ class CfgMusic
         duration = 89;
         musicClass = "RCTACTION";
     };
-	class RCS_nuclearsilence
+	class RCS_nuclearSilence
     {
         name = "Nuclear Silence";
-        sound[] = {"\rcs\RELAX\RCS_nuclearsilence.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_nuclearSilence.ogg",1,1};
         theme = "Lead";
         duration = 233;
         musicClass = "RCTRELAX";
     };
-	class RCS_scatteredforces
+	class RCS_scatteredForces
     {
         name = "Scattered Forces";
-        sound[] = {"\rcs\RELAX\RCS_scatteredforces.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_scatteredForces.ogg",1,1};
         theme = "Lead";
         duration = 299;
         musicClass = "RCTRELAX";
@@ -1190,10 +1190,10 @@ class CfgMusic
         duration = 119;
         musicClass = "RCTACTION";
     };
-	class RCS_goodmorningtakistan
+	class RCS_goodMorningTakistan
     {
         name = "Good Morning Takistan";
-        sound[] = {"\rcs\RELAX\RCS_goodmorningtakistan.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_goodMorningTakistan.ogg",1,1};
         theme = "Lead";
         duration = 159;
         musicClass = "RCTRELAX";
@@ -1214,10 +1214,10 @@ class CfgMusic
         duration = 220;
         musicClass = "RCTACTION";
     };
-	class RCS_revolverjam
+	class RCS_revolverJam
     {
         name = "Revolver Jam";
-        sound[] = {"\rcs\RELAX\RCS_revolverjam.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_revolverJam.ogg",1,1};
         theme = "Lead";
         duration = 254;
         musicClass = "RCTRELAX";
@@ -1350,10 +1350,10 @@ class CfgMusic
         duration = 101;
         musicClass = "RCTCONTACT";
     }; 
-    class RCS_leadfoot
+    class RCS_leadFoot
     {
         name = "Lead Foot";
-        sound[] = {"\rcs\RELAX\RCS_leadfoot.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_leadFoot.ogg",1,1};
         theme = "Lead";
         duration = 128;
         musicClass = "RCTRELAX";
@@ -1478,10 +1478,10 @@ class CfgMusic
         duration = 246;
         musicClass = "RCTACTION";
     };
-    class RCS_ghostcoil
+    class RCS_ghostCoil
     {
         name = "Ghost Coil";
-        sound[] = {"\rcs\RELAX\RCS_ghostcoil.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_ghostCoil.ogg",1,1};
         theme = "Lead";
         duration = 165;
         musicClass = "RCTRELAX";
