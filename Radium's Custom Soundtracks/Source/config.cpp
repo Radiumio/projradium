@@ -389,10 +389,10 @@ class CfgMusic
         duration = 124;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_TII
+    class RCS_thisIsIt
     {
         name = "This Is It";
-        sound[] = {"\rcs\SAD\RCS_TII.ogg",1,1};
+        sound[] = {"\rcs\SAD\RCS_thisIsIt.ogg",1,1};
         theme = "Lead";
         duration = 124;
         musicClass = "RCTSAD";
@@ -429,10 +429,10 @@ class CfgMusic
         duration = 141;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_TD
+    class RCS_theDepression
     {
         name = "The Depression";
-        sound[] = {"\rcs\SAD\RCS_TD.ogg",1,1};
+        sound[] = {"\rcs\SAD\RCS_theDepression.ogg",1,1};
         theme = "Lead";
         duration = 113;
         musicClass = "RCTSAD";
@@ -1246,18 +1246,18 @@ class CfgMusic
         duration = 244;
         musicClass = "RCTCONTACT";
     };
-    class RCS_acclivitydawn
+    class RCS_acclivityDawn
     {
         name = "Acclivity Dawn";
-        sound[] = {"\rcs\CONTACT\RCS_acclivitydawn.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_acclivityDawn.ogg",1,1};
         theme = "Lead";
         duration = 59;
         musicClass = "RCTCONTACT";
     };
-    class RCS_waveringbase
+    class RCS_waveringBase
     {
         name = "Wavering Base";
-        sound[] = {"\rcs\CONTACT\RCS_waveringbase.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_waveringBase.ogg",1,1};
         theme = "Lead";
         duration = 61;
         musicClass = "RCTCONTACT";
@@ -1278,42 +1278,42 @@ class CfgMusic
         duration = 208;
         musicClass = "RCTCONTACT";
     };
-    class RCS_sharperclaws
+    class RCS_sharperClaws
     {
         name = "Sharper Claws";
-        sound[] = {"\rcs\CONTACT\RCS_sharperclaws.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_sharperClaws.ogg",1,1};
         theme = "Lead";
         duration = 242;
         musicClass = "RCTCONTACT";
     };
-    class RCS_nighteyeszeroone
+    class RCS_nightEyesOne
     {
         name = "Night Eyes - Zero One";
-        sound[] = {"\rcs\CONTACT\RCS_nighteyeszeroone.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_nightEyesOne.ogg",1,1};
         theme = "Lead";
         duration = 402;
         musicClass = "RCTCONTACT";
     };
-    class RCS_nighteyeszerotwo
+    class RCS_nightEyesTwo
     {
         name = "Night Eyes - Zero Two";
-        sound[] = {"\rcs\CONTACT\RCS_nighteyeszerotwo.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_nightEyesTwo.ogg",1,1};
         theme = "Lead";
         duration = 402;
         musicClass = "RCTCONTACT";
     };
-    class RCS_sunrisezeroone
+    class RCS_sunriseOne
     {
         name = "Sunrise - Zero One";
-        sound[] = {"\rcs\CONTACT\RCS_sunrisezeroone.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_sunriseOne.ogg",1,1};
         theme = "Lead";
         duration = 250;
         musicClass = "RCTCONTACT";
     };
-    class RCS_sunrisezerotwo
+    class RCS_sunriseTwo
     {
         name = "Sunrise - Zero Two";
-        sound[] = {"\rcs\CONTACT\RCS_sunrisezerotwo.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_sunriseTwo.ogg",1,1};
         theme = "Lead";
         duration = 247;
         musicClass = "RCTCONTACT";
@@ -1342,10 +1342,10 @@ class CfgMusic
         duration = 259;
         musicClass = "RCTCONTACT";
     };
-    class RCS_tensionshigh
+    class RCS_tensionsHigh
     {
         name = "Tensions High";
-        sound[] = {"\rcs\CONTACT\RCS_tensionshigh.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_tensionsHigh.ogg",1,1};
         theme = "Lead";
         duration = 101;
         musicClass = "RCTCONTACT";
@@ -1382,10 +1382,10 @@ class CfgMusic
         duration = 188;
         musicClass = "RCTACTION";
     };
-    class RCS_gbdesolate
+    class RCS_gbDesolate
     {
         name = "Geneburn - Desolate";
-        sound[] = {"\rcs\SAD\RCS_gbdesolate.ogg",1,1};
+        sound[] = {"\rcs\SAD\RCS_gbDesolate.ogg",1,1};
         theme = "Lead";
         duration = 211;
         musicClass = "RCTSAD";
@@ -1414,26 +1414,26 @@ class CfgMusic
         duration = 181;
         musicClass = "RCTACTION";
     };
-    class RCS_jesperkydfamily
+    class RCS_ezioFamily
     {
         name = "Jesper Kyd - Ezio's Family";
-        sound[] = {"\rcs\SAD\RCS_jesperkydfamily.ogg",1,1};
+        sound[] = {"\rcs\SAD\RCS_ezioFamily.ogg",1,1};
         theme = "Lead";
         duration = 239;
         musicClass = "RCTSAD";
     };
-    class RCS_paintitblack
+    class RCS_paintItBlack
     {
         name = "Rolling Stones - Paint it Black";
-        sound[] = {"\rcs\MISC\RCS_paintitblack.ogg",1,1};
+        sound[] = {"\rcs\MISC\RCS_paintItBlack.ogg",1,1};
         theme = "Lead";
         duration = 202;
         musicClass = "RCTMISC";
     };
-    class RCS_whatibecome
+    class RCS_seeWhatIBecome
     {
         name = "Zack Hemsey - See What I've Become";
-        sound[] = {"\rcs\MISC\RCS_whatibecome.ogg",1,1};
+        sound[] = {"\rcs\MISC\RCS_seeWhatIBecome.ogg",1,1};
         theme = "Lead";
         duration = 234;
         musicClass = "RCTMISC";
@@ -1446,10 +1446,10 @@ class CfgMusic
         duration = 157;
         musicClass = "RCTACTION";
     };
-    class RCS_whereallroadsend
+    class RCS_whereAllRoadsEnd
     {
         name = "Where All Roads End";
-        sound[] = {"\rcs\MISC\RCS_whereallroadsend.ogg",1,1};
+        sound[] = {"\rcs\MISC\RCS_whereAllRoadsEnd.ogg",1,1};
         theme = "Lead";
         duration = 210;
         musicClass = "RCTMISC";
@@ -1502,10 +1502,10 @@ class CfgMusic
         duration = 87;
         musicClass = "RCTACTION";
     };
-    class RCS_SCPMainTheme
+    class RCS_finalFlashOfExistence
     {
-        name = "SCP:SL Main Theme";
-        sound[] = {"\rcs\MISC\RCS_SCPMainTheme.ogg",1,1};
+        name = "Final Flash of Existence";
+        sound[] = {"\rcs\MISC\RCS_finalFlashOfExistence.ogg",1,1};
         theme = "Lead";
         duration = 251;
         musicClass = "RCTMISC";
