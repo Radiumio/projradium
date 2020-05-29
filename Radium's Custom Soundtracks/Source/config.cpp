@@ -1622,6 +1622,22 @@ class CfgMusic
         duration = 155;
         musicClass = "RCTACTION";
     };
+    class RCS_intercepted
+    {
+        name = "Intercepted";
+        sound[] = {"\rcs\ACTION\RCS_intercepted.ogg",1,1};
+        theme = "Lead";
+        duration = 70;
+        musicClass = "RCTACTION";
+    };
+    class RCS_overthrown
+    {
+        name = "Overthrown";
+        sound[] = {"\rcs\ACTION\RCS_overthrown.ogg",1,1};
+        theme = "Lead";
+        duration = 279;
+        musicClass = "RCTACTION";
+    };
 }; 
 
 
