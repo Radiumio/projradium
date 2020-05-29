@@ -333,10 +333,10 @@ class CfgMusic
         duration = 174;
         musicClass = "RCTSAD";
     };
-    class RCS_leftBehind
+    class RCS_lostPages
     {
         name = "Left Behind";
-        sound[] = {"\rcs\SAD\RCS_leftBehind.ogg",1,1};
+        sound[] = {"\rcs\SAD\RCS_lostPages.ogg",1,1};
         theme = "Lead";
         duration = 182;
         musicClass = "RCTSAD";
