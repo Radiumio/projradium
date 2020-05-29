@@ -45,34 +45,34 @@ class cfgMusicClasses
 
 class CfgMusic
 { 
-    class RCS_JNCK
+    class RCS_jamieKarma
     {
-        name = "Jamie N Commons Karma";
-        sound[] = {"\rcs\ACTION\RCS_JNCK.ogg",1,1}; 
+        name = "Jamie N Commons - Karma";
+        sound[] = {"\rcs\ACTION\RCS_jamieKarma.ogg",1,1}; 
         theme = "Lead";
         duration = 252; 
         musicClass = "RCTACTION";
     };
-    class RCS_Neo
+    class RCS_neosphere
     {
         name = "Neosphere";
-        sound[] = {"\rcs\ACTION\RCS_Neo.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_neosphere.ogg",1,1};
         theme = "Lead";
         duration = 217;
         musicClass = "RCTACTION";
     };
-    class RCS_KILL
+    class RCS_xtortionKill
     {
         name = "K.I.L.L - Xtortion Audio";
-        sound[] = {"\rcs\ACTION\RCS_KILL.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_xtortionKill.ogg",1,1};
         theme = "Lead";
         duration = 134;
         musicClass = "RCTACTION";
     };
-    class RCS_Bones
+    class RCS_xtortionBones
     {
         name = "Bones - Xtortion Audio";
-        sound[] = {"\rcs\ACTION\RCS_Bones.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_xtortionBones.ogg",1,1};
         theme = "Lead";
         duration = 131;
         musicClass = "RCTACTION";
@@ -85,221 +85,173 @@ class CfgMusic
         duration = 127;
         musicClass = "RCTACTION";
     };
-    class RCS_Neotropolis
+    class RCS_neotropolis
     {
         name = "Neotropolis";
-        sound[] = {"\rcs\ACTION\RCS_Neotropolis.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_neotropolis.ogg",1,1};
         theme = "Lead";
         duration = 168;
         musicClass = "RCTACTION";
     };
-    class RCS_IN
+    class RCS_insignia
     {
         name = "Insignia";
-        sound[] = {"\rcs\ACTION\RCS_IN.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_insignia.ogg",1,1};
         theme = "Lead";
         duration = 234;
         musicClass = "RCTACTION";
     };
-    class RCS_DW
+    class RCS_dogsOfWar
     {
         name = "Dogs Of War";
-        sound[] = {"\rcs\ACTION\RCS_DW.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_dogsOfWar.ogg",1,1};
         theme = "Lead";
         duration = 82;
         musicClass = "RCTACTION";
     };
-    class RCS_PI
+    class RCS_pumpingIrony
     {
         name = "Pumpin' Irony";
-        sound[] = {"\rcs\ACTION\RCS_PI.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_pumpingIrony.ogg",1,1};
         theme = "Lead";
         duration = 156;
         musicClass = "RCTACTION";
     };
-    class RCS_SF
+    class RCS_smokingFire
     {
         name = "Smokin' Fire";
-        sound[] = {"\rcs\ACTION\RCS_SF.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_smokingFire.ogg",1,1};
         theme = "Lead";
         duration = 84;
         musicClass = "RCTACTION";
     };
-    class RCS_IDISS
+    class RCS_imSoSorry
     {
         name = "I'm So Sorry";
-        sound[] = {"\rcs\ACTION\RCS_IDISS.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_imSoSorry.ogg",1,1};
         theme = "Lead";
         duration = 202;
         musicClass = "RCTACTION";
     };
-    class RCS_P
+    class RCS_shortPeace
     {
         name = "Short Peace";
-        sound[] = {"\rcs\RELAX\RCS_P.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_shortPeace.ogg",1,1};
         theme = "Lead";
         duration = 60;
         musicClass = "RCTRELAX";
     };
-    class RCS_CTTC
+    class RCS_cutToTheChase
     {
         name = "Cut To The Chase";
-        sound[] = {"\rcs\ACTION\RCS_CTTC.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_cutToTheChase.ogg",1,1};
         theme = "Lead";
         duration = 179;
         musicClass = "RCTACTION";
     };
-    class RCS_Creep
+    class RCS_inShadows
     {
         name = "In Shadows";
-        sound[] = {"\rcs\STEALTH\RCS_Creep.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_inShadows.ogg",1,1};
         theme = "Lead";
         duration = 204;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_BMR
+    class RCS_badMoonRising
     {
         name = "Bad Moon Rising";
-        sound[] = {"\rcs\RELAX\RCS_BMR.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_badMoonRising.ogg",1,1};
         theme = "Lead";
         duration = 139;
         musicClass = "RCTRELAX";
     };
-    class RCS_HYSTR
+    class RCS_haveYouSeenTheRain
     {
         name = "Have You Seen The Rain?";
-        sound[] = {"\rcs\RELAX\RCS_HYSTR.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_haveYouSeenTheRain.ogg",1,1};
         theme = "Lead";
         duration = 158;
         musicClass = "RCTRELAX";
     };
-    class RCS_POTE
+    class RCS_protectorsOfTheEarth
     {
         name = "Protectors Of The Earth";
-        sound[] = {"\rcs\ACTION\RCS_POTE.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_protectorsOfTheEarth.ogg",1,1};
         theme = "Lead";
         duration = 170;
         musicClass = "RCTACTION";
     };
-    class RCS_CW
+    class RCS_contaminatedWater
     {
-        name = "Containminated Water";
-        sound[] = {"\rcs\STEALTH\RCS_CW.ogg",1,1};
+        name = "Contaminated Water";
+        sound[] = {"\rcs\STEALTH\RCS_contaminatedWater.ogg",1,1};
         theme = "Lead";
         duration = 145;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_SNA
+    class RCS_sevenNationArmy
     {
         name = "Seven Nation Army [GLITCH MOB]";
-        sound[] = {"\rcs\ACTION\RCS_SNA.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_sevenNationArmy.ogg",1,1};
         theme = "Lead";
         duration = 237;
         musicClass = "RCTACTION";
     };
-    class RCS_VP
+    class RCS_viperTeam
     {
         name = "Viper Team";
-        sound[] = {"\rcs\STEALTH\RCS_VP.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_viperTeam.ogg",1,1};
         theme = "Lead";
         duration = 176;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_Communications
+    class RCS_communicationsDown
     {
         name = "Communications Down";
-        sound[] = {"\rcs\STEALTH\RCS_Communications.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_communicationsDown.ogg",1,1};
         theme = "Lead";
         duration = 193;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_CTRG
-    {
-        name = "Combat Technology Research Group";
-        sound[] = {"\rcs\ACTION\RCS_CTRG.ogg",1,1};
-        theme = "Lead";
-        duration = 172;
-        musicClass = "RCTACTION";
-    };
-    class RCS_Remnant
+    class RCS_remnants
     {
         name = "Remnants";
-        sound[] = {"\rcs\STEALTH\RCS_Remnant.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_remnants.ogg",1,1};
         theme = "Lead";
         duration = 266;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_NATO
-    {
-        name = "North Atlantic Treaty Organisation";
-        sound[] = {"\rcs\ACTION\RCS_NATO.ogg",1,1};
-        theme = "Lead";
-        duration = 150;
-        musicClass = "RCTACTION";
-    };
-    class RCS_SLBTTS
+    class RCS_bikeToTheSaturn
     {
         name = "Sophi Lu - Bike To The Saturn";
-        sound[] = {"\rcs\SAD\RCS_SLBTTS.ogg",1,1};
+        sound[] = {"\rcs\SAD\RCS_bikeToTheSaturn.ogg",1,1};
         theme = "Lead";
         duration = 76;
         musicClass = "RCTSAD";
     };
-    class RCS_CSAT
+    class RCS_combatTechnology
     {
-        name = "Canton-Protocol Strategic Alliance Treaty";
-        sound[] = {"\rcs\STEALTH\RCS_CSAT.ogg",1,1};
+        name = "Combat Technology";
+        sound[] = {"\rcs\STEALTH\RCS_combatTechnology.ogg",1,1};
         theme = "Lead";
         duration = 213;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_SYDKT
+    class RCS_syndicateDoubleCross
     {
-        name = "Syndikat Leadership";
-        sound[] = {"\rcs\STEALTH\RCS_SYDKT.ogg",1,1};
+        name = "Syndicate Double Cross";
+        sound[] = {"\rcs\STEALTH\RCS_syndicateDoubleCross.ogg",1,1};
         theme = "Lead";
         duration = 138;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_BCM
-    {
-        name = "An Old Shootout";
-        sound[] = {"\rcs\ACTION\RCS_BCM.ogg",1,1};
-        theme = "Lead";
-        duration = 221;
-        musicClass = "RCTACTION";
-    };
-    class RCS_IWUBJ5
+    class RCS_iWantYouBack
     {
         name = "I Want You Back";
-        sound[] = {"\rcs\RELAX\RCS_IWUBJ5.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_iWantYouBack.ogg",1,1};
         theme = "Lead";
         duration = 179;
         musicClass = "RCTRELAX";
-    };
-    class RCS_I
-    {
-        name = "Invasion";
-        sound[] = {"\rcs\ACTION\RCS_I.ogg",1,1};
-        theme = "Lead";
-        duration = 159;
-        musicClass = "RCTACTION";
-    };
-    class RCS_TBG
-    {
-        name = "The Big Guns";
-        sound[] = {"\rcs\ACTION\RCS_TBG.ogg",1,1};
-        theme = "Lead";
-        duration = 114;
-        musicClass = "RCTACTION";
-    };
-    class RCS_suspense
-    {
-        name = "Suspense";
-        sound[] = {"\rcs\ACTION\RCS_suspense.ogg",1,1};
-        theme = "Lead";
-        duration = 64;
-        musicClass = "RCTACTION";
     };
     class RCS_warfare
     {
@@ -309,283 +261,274 @@ class CfgMusic
         duration = 169;
         musicClass = "RCTACTION";
     };
-    class RCS_sixshooter
+    class RCS_sixShooter
     {
         name = "Six Shooter";
-        sound[] = {"\rcs\ACTION\RCS_sixshooter.ogg",1,1};
+        sound[] = {"\rcs\MISC\RCS_sixShooter.ogg",1,1};
         theme = "Lead";
         duration = 212;
-        musicClass = "RCTACTION";
+        musicClass = "RCTMISC";
     };
-
-    class RCS_T
+    class RCS_thinking
     {
         name = "Thinking";
-        sound[] = {"\rcs\RELAX\RCS_T.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_thinking.ogg",1,1};
         theme = "Lead";
         duration = 164;
         musicClass = "RCTRELAX";
     };
-    class RCS_TEH
+    class RCS_thisEndsHere
     {
         name = "This Ends Here";
-        sound[] = {"\rcs\STEALTH\RCS_TEH.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_thisEndsHere.ogg",1,1};
         theme = "Lead";
         duration = 165;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_Action
-    {
-        name = "Action";
-        sound[] = {"\rcs\ACTION\RCS_Action.ogg",1,1};
-        theme = "Lead";
-        duration = 138;
-        musicClass = "RCTACTION";
-    };
-    class RCS_Apocalypse
+    class RCS_apocalypse
     {
         name = "Apocalypse";
-        sound[] = {"\rcs\STEALTH\RCS_Apocalypse.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_apocalypse.ogg",1,1};
         theme = "Lead";
         duration = 66;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_TEOAT
+    class RCS_theEndOfAllThings
     {
         name = "The End Of All Things";
-        sound[] = {"\rcs\ACTION\RCS_TEOAT.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_theEndOfAllThings.ogg",1,1};
         theme = "Lead";
         duration = 138;
         musicClass = "RCTACTION";
     };
-    class RCS_orange
+    class RCS_warmOrange
     {
         name = "Warm Orange";
-        sound[] = {"\rcs\RELAX\RCS_orange.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_warmOrange.ogg",1,1};
         theme = "Lead";
         duration = 384;
         musicClass = "RCTRELAX";
     };
-    class RCS_io
+    class RCS_itsOver
     {
         name = "It's Over";
-        sound[] = {"\rcs\RELAX\RCS_io.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_itsOver.ogg",1,1};
         theme = "Lead";
         duration = 202;
         musicClass = "RCTRELAX";
     };
-    class RCS_Fury
+    class RCS_fury
     {
         name = "Fury";
-        sound[] = {"\rcs\ACTION\RCS_Fury.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_fury.ogg",1,1};
         theme = "Lead";
         duration = 343;
         musicClass = "RCTACTION";
     };
-    class RCS_Gone
+    class RCS_allGone
     {
         name = "All Gone";
-        sound[] = {"\rcs\SAD\RCS_Gone.ogg",1,1};
+        sound[] = {"\rcs\SAD\RCS_allGone.ogg",1,1};
         theme = "Lead";
         duration = 174;
         musicClass = "RCTSAD";
     };
-    class RCS_LB
+    class RCS_lostPages
     {
         name = "Left Behind";
-        sound[] = {"\rcs\SAD\RCS_LB.ogg",1,1};
+        sound[] = {"\rcs\SAD\RCS_lostPages.ogg",1,1};
         theme = "Lead";
         duration = 182;
         musicClass = "RCTSAD";
     };
-    class RCS_V
+    class RCS_valleys
     {
         name = "Valleys";
-        sound[] = {"\rcs\STEALTH\RCS_V.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_valleys.ogg",1,1};
         theme = "Lead";
         duration = 125;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_TIMW
+    class RCS_thisIsMyWorld
     {
         name = "This Is My World";
-        sound[] = {"\rcs\ACTION\RCS_TIMW.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_thisIsMyWorld.ogg",1,1};
         theme = "Lead";
         duration = 185;
         musicClass = "RCTACTION";
     };
-    class RCS_EOTS
+    class RCS_eyeOfTheStorm
     {
         name = "Eye Of The Storm";
-        sound[] = {"\rcs\ACTION\RCS_EOTS.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_eyeOfTheStorm.ogg",1,1};
         theme = "Lead";
         duration = 195;
         musicClass = "RCTACTION";
     };
-    class RCS_ITD
+    class RCS_inTheDarkness
     {
         name = "In The Darkness";
-        sound[] = {"\rcs\STEALTH\RCS_ITD.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_inTheDarkness.ogg",1,1};
         theme = "Lead";
         duration = 159;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_RBH
+    class RCS_rightBehindYou
     {
         name = "Right Behind You";
-        sound[] = {"\rcs\STEALTH\RCS_RBH.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_rightBehindYou.ogg",1,1};
         theme = "Lead";
         duration = 176;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_Hunted
+    class RCS_hunted
     {
         name = "Hunted";
-        sound[] = {"\rcs\STEALTH\RCS_Hunted.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_hunted.ogg",1,1};
         theme = "Lead";
         duration = 124;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_TII
+    class RCS_thisIsIt
     {
         name = "This Is It";
-        sound[] = {"\rcs\SAD\RCS_TII.ogg",1,1};
+        sound[] = {"\rcs\SAD\RCS_thisIsIt.ogg",1,1};
         theme = "Lead";
         duration = 124;
         musicClass = "RCTSAD";
     };
-    class RCS_NTB
+    class RCS_neverTurnBack
     {
-        name = "Never Turn Your Back";
-        sound[] = {"\rcs\STEALTH\RCS_NTB.ogg",1,1};
+        name = "Never Turn Back";
+        sound[] = {"\rcs\STEALTH\RCS_neverTurnBack.ogg",1,1};
         theme = "Lead";
         duration = 249;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_NTBA
+    class RCS_neverTurnBackAmbient
     {
-        name = "Never Turn Your Back (AMBIENT)";
-        sound[] = {"\rcs\STEALTH\RCS_NTBA.ogg",1,1};
+        name = "Never Turn Back - Ambient";
+        sound[] = {"\rcs\STEALTH\RCS_neverTurnBackAmbient.ogg",1,1};
         theme = "Lead";
         duration = 165;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_FU
+    class RCS_followUp
     {
         name = "Follow-Up";
-        sound[] = {"\rcs\STEALTH\RCS_FU.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_followUp.ogg",1,1};
         theme = "Lead";
         duration = 274;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_Evacuation
+    class RCS_evacuation
     {
         name = "Evacuation";
-        sound[] = {"\rcs\STEALTH\RCS_Evacuation.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_evacuation.ogg",1,1};
         theme = "Lead";
         duration = 141;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_TD
+    class RCS_theDepression
     {
         name = "The Depression";
-        sound[] = {"\rcs\SAD\RCS_TD.ogg",1,1};
+        sound[] = {"\rcs\SAD\RCS_theDepression.ogg",1,1};
         theme = "Lead";
         duration = 113;
         musicClass = "RCTSAD";
     };
-    class RCS_L
+    class RCS_loyal
     {
         name = "Loyal";
-        sound[] = {"\rcs\ACTION\RCS_L.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_loyal.ogg",1,1};
         theme = "Lead";
         duration = 75;
         musicClass = "RCTACTION";
     };
-    class RCS_M
+    class RCS_theMarch
     {
         name = "The March";
-        sound[] = {"\rcs\ACTION\RCS_M.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_theMarch.ogg",1,1};
         theme = "Lead";
         duration = 147;
         musicClass = "RCTACTION";
     };
-    class RCS_Strategicassault
+    class RCS_strategicAssault
     {
         name = "Strategic Assault";
-        sound[] = {"\rcs\ACTION\RCS_Strategicassault.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_strategicAssault.ogg",1,1};
         theme = "Lead";
         duration = 329;
         musicClass = "RCTACTION";
     };
-    class RCS_MB
+    class RCS_motherBaseAttacked
     {
         name = "Mother Base Is Attacked";
-        sound[] = {"\rcs\ACTION\RCS_MB.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_motherBaseAttacked.ogg",1,1};
         theme = "Lead";
         duration = 213;
         musicClass = "RCTACTION";
     };
-    class RCS_Hot
+    class RCS_hotZone
     {
         name = "Hotzone";
-        sound[] = {"\rcs\ACTION\RCS_Hot.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_hotZone.ogg",1,1};
         theme = "Lead";
         duration = 91;
         musicClass = "RCTACTION";
     };
-    class RCS_Met
+    class RCS_metallicArchaea
     {
         name = "Metallic Archaea";
-        sound[] = {"\rcs\ACTION\RCS_Met.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_metallicArchaea.ogg",1,1};
         theme = "Lead";
         duration = 129;
         musicClass = "RCTACTION";
     };
-    class RCS_NL
+    class RCS_noLight
     {
         name = "No Light";
-        sound[] = {"\rcs\STEALTH\RCS_NL.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_noLight.ogg",1,1};
         theme = "Lead";
         duration = 113;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_HWA
+    class RCS_hereWeAre
     {
         name = "Here We Are";
-        sound[] = {"\rcs\STEALTH\RCS_HWA.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_hereWeAre.ogg",1,1};
         theme = "Lead";
         duration = 440;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_TT
+    class RCS_tunnelTrouble
     {
         name = "Tunnel Trouble";
-        sound[] = {"\rcs\ACTION\RCS_TT.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_tunnelTrouble.ogg",1,1};
         theme = "Lead";
         duration = 183;
         musicClass = "RCTACTION";
     };
-    class RCS_AP
+    class RCS_apexProtocol
     {
         name = "Apex Protocol";
-        sound[] = {"\rcs\ACTION\RCS_AP.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_apexProtocol.ogg",1,1};
         theme = "Lead";
         duration = 117;
         musicClass = "RCTACTION";
     };
-    class RCS_LITF
+    class RCS_lurkingInTheFog
     {
         name = "Lurking In The Fog";
-        sound[] = {"\rcs\STEALTH\RCS_LITF.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_lurkingInTheFog.ogg",1,1};
         theme = "Lead";
         duration = 118;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_TDIA
+    class RCS_theDeviceIsActive
     {
         name = "The Device Is Active";
-        sound[] = {"\rcs\STEALTH\RCS_TDIA.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_theDeviceIsActive.ogg",1,1};
         theme = "Lead";
         duration = 123;
         musicClass = "RCTSTEALTH";
@@ -598,53 +541,53 @@ class CfgMusic
         duration = 398;
         musicClass = "RCTSAD";
     };
-    class RCS_itbguitar
+    class RCS_guitar
     {
         name = "ITB - Guitar";
-        sound[] = {"\rcs\ACTION\RCS_itbguitar.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_guitar.ogg",1,1};
         theme = "Lead";
         duration = 190;
         musicClass = "RCTACTION";
     };
-    class RCS_itbice
+    class RCS_ice
     {
         name = "ITB - Ice";
-        sound[] = {"\rcs\ACTION\RCS_itbice.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_ice.ogg",1,1};
         theme = "Lead";
         duration = 149;
         musicClass = "RCTACTION";
     };
-    class RCS_itbtrain
+    class RCS_train
     {
         name = "ITB - Train";
-        sound[] = {"\rcs\ACTION\RCS_itbtrain.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_train.ogg",1,1};
         theme = "Lead";
         duration = 245;
         musicClass = "RCTACTION";
     };
-    class RCS_itbzimmer
+    class RCS_zimmer
     {
         name = "ITB - Zimmer";
-        sound[] = {"\rcs\ACTION\RCS_itbzimmer.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_zimmer.ogg",1,1};
         theme = "Lead";
         duration = 181;
         musicClass = "RCTACTION";
     };
-    class RCS_traced
+    class RCS_tracer
     {
         name = "Tracer";
-        sound[] = {"\rcs\ACTION\RCS_traced.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_tracer.ogg",1,1};
         theme = "Lead";
         duration = 330;
         musicClass = "RCTACTION";
     };
-	class RCS_tp
+	class RCS_thoughtProcess
     {
         name = "Thought Process";
-        sound[] = {"\rcs\STEALTH\RCS_tp.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_thoughtProcess.ogg",1,1};
         theme = "Lead";
         duration = 233;
-        musicClass = "RCTSTEALTH";
+        musicClass = "RCTRELAX";
     };
 	class RCS_godray
     {
@@ -662,58 +605,58 @@ class CfgMusic
         duration = 257;
         musicClass = "RCTACTION";
     };
-	class RCS_rushhour
+	class RCS_rushHour
     {
         name = "Rush Hour";
-        sound[] = {"\rcs\ACTION\RCS_rushhour.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_rushHour.ogg",1,1};
         theme = "Lead";
         duration = 138;
         musicClass = "RCTACTION";
     };
-	class RCS_aboveandbeyond
+	class RCS_aboveAndBeyond
     {
         name = "Above and Beyond";
-        sound[] = {"\rcs\ACTION\RCS_aboveandbeyond.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_aboveAndBeyond.ogg",1,1};
         theme = "Lead";
         duration = 173;
         musicClass = "RCTACTION";
     };
-	class RCS_aquavitae
+	class RCS_aquaVitae
     {
         name = "Aqua Vitae";
-        sound[] = {"\rcs\ACTION\RCS_aquavitae.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_aquaVitae.ogg",1,1};
         theme = "Lead";
         duration = 156;
         musicClass = "RCTACTION";
     };
-	class RCS_endofmyjourney
+	class RCS_endOfMyJourney
     {
         name = "End of My Journey";
-        sound[] = {"\rcs\ACTION\RCS_endofmyjourney.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_endOfMyJourney.ogg",1,1};
         theme = "Lead";
         duration = 196;
         musicClass = "RCTACTION";
     };
-	class RCS_firenation
+	class RCS_fireNation
     {
         name = "Fire Nation";
-        sound[] = {"\rcs\ACTION\RCS_firenation.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_fireNation.ogg",1,1};
         theme = "Lead";
         duration = 181;
         musicClass = "RCTACTION";
     };
-	class RCS_hztime
+	class RCS_time
     {
         name = "Time";
-        sound[] = {"\rcs\ACTION\RCS_hztime.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_time.ogg",1,1};
         theme = "Lead";
         duration = 310;
         musicClass = "RCTACTION";
     };
-	class RCS_imperatixmundi
+	class RCS_imperatixMundi
     {
         name = "Imperatix Mundi";
-        sound[] = {"\rcs\ACTION\RCS_imperatixmundi.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_imperatixMundi.ogg",1,1};
         theme = "Lead";
         duration = 179;
         musicClass = "RCTACTION";
@@ -734,10 +677,10 @@ class CfgMusic
         duration = 367;
         musicClass = "RCTACTION";
     };
-	class RCS_passionofvictory
+	class RCS_passionOfVictory
     {
         name = "Passion of Victory";
-        sound[] = {"\rcs\ACTION\RCS_passionofvictory.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_passionOfVictory.ogg",1,1};
         theme = "Lead";
         duration = 138;
         musicClass = "RCTACTION";
@@ -758,18 +701,18 @@ class CfgMusic
         duration = 483;
         musicClass = "RCTACTION";
     };
-	class RCS_themole
+	class RCS_theMole
     {
         name = "The Mole";
-        sound[] = {"\rcs\ACTION\RCS_themole.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_theMole.ogg",1,1};
         theme = "Lead";
         duration = 336;
         musicClass = "RCTACTION";
     };
-    class RCS_longhaul
+    class RCS_longHaul
     {
         name = "Long Haul";
-        sound[] = {"\rcs\ACTION\RCS_longhaul.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_longHaul.ogg",1,1};
         theme = "Lead";
         duration = 158;
         musicClass = "RCTACTION";
@@ -782,26 +725,26 @@ class CfgMusic
         duration = 139;
         musicClass = "RCTACTION";
     };
-	class RCS_togalaxy
+	class RCS_toGalaxy
     {
         name = "To Galaxy";
-        sound[] = {"\rcs\ACTION\RCS_togalaxy.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_toGalaxy.ogg",1,1};
         theme = "Lead";
         duration = 213;
         musicClass = "RCTACTION";
     };
-	class RCS_swordsinsky
+	class RCS_swordsInTheSky
     {
         name = "Swords In The Sky";
-        sound[] = {"\rcs\ACTION\RCS_swordsinsky.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_swordsInTheSky.ogg",1,1};
         theme = "Lead";
         duration = 169;
         musicClass = "RCTACTION";
     };
-	class RCS_battletanks
+	class RCS_battleTanks
     {
         name = "Battle Tanks";
-        sound[] = {"\rcs\ACTION\RCS_battletanks.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_battleTanks.ogg",1,1};
         theme = "Lead";
         duration = 164;
         musicClass = "RCTACTION";
@@ -822,58 +765,58 @@ class CfgMusic
         duration = 305;
         musicClass = "RCTSTEALTH";
     };
-	class RCS_alienworld
+	class RCS_alienWorld
     {
         name = "Alien World";
-        sound[] = {"\rcs\RELAX\RCS_alienworld.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_alienWorld.ogg",1,1};
         theme = "Lead";
         duration = 172;
         musicClass = "RCTRELAX";
     };
-	class RCS_bestlaidplans
+	class RCS_bestLaidPlans
     {
         name = "Best Laid Plans";
-        sound[] = {"\rcs\RELAX\RCS_bestlaidplans.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_bestLaidPlans.ogg",1,1};
         theme = "Lead";
         duration = 191;
         musicClass = "RCTRELAX";
     };
-	class RCS_ticktock
+	class RCS_timeRush
     {
         name = "Time Rush";
-        sound[] = {"\rcs\STEALTH\RCS_ticktock.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_timeRush.ogg",1,1};
         theme = "Lead";
         duration = 108;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_abattlebegins
+    class RCS_aBattleBegins
     {
         name = "A Battle Begins";
-        sound[] = {"\rcs\ACTION\RCS_abattlebegins.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_aBattleBegins.ogg",1,1};
         theme = "Lead";
         duration = 81;
         musicClass = "RCTACTION";
     };
-	class RCS_rescuemission
+	class RCS_rescueMission
     {
         name = "Rescue Mission";
-        sound[] = {"\rcs\ACTION\RCS_rescuemission.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_rescueMission.ogg",1,1};
         theme = "Lead";
         duration = 77;
         musicClass = "RCTACTION";
     };
-	class RCS_thefewthebrave
+	class RCS_theFewTheBrave
     {
         name = "The Few the Brave";
-        sound[] = {"\rcs\ACTION\RCS_thefewthebrave.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_theFewTheBrave.ogg",1,1};
         theme = "Lead";
         duration = 192;
         musicClass = "RCTACTION";
     };
-	class RCS_invincibleextend
+	class RCS_invincibleExtended
     {
         name = "Invincible (Extended)";
-        sound[] = {"\rcs\ACTION\RCS_invincibleextend.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_invincibleExtended.ogg",1,1};
         theme = "Lead";
         duration = 270;
         musicClass = "RCTACTION";
@@ -886,10 +829,10 @@ class CfgMusic
         duration = 320;
         musicClass = "RCTACTION";
     };
-	class RCS_beyondapocalypse
+	class RCS_beyondApocalypse
     {
         name = "Beyond Apocalypse";
-        sound[] = {"\rcs\STEALTH\RCS_beyondapocalypse.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_beyondApocalypse.ogg",1,1};
         theme = "Lead";
         duration = 180;
         musicClass = "RCTSTEALTH";
@@ -902,10 +845,10 @@ class CfgMusic
         duration = 180;
         musicClass = "RCTSTEALTH";
     };
-	class RCS_roamingthedeadzone
+	class RCS_roamingTheDeadzone
     {
         name = "Roaming The Deadzone";
-        sound[] = {"\rcs\STEALTH\RCS_roamingthedeadzone.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_roamingTheDeadzone.ogg",1,1};
         theme = "Lead";
         duration = 200;
         musicClass = "RCTSTEALTH";
@@ -918,26 +861,26 @@ class CfgMusic
         duration = 320;
         musicClass = "RCTSTEALTH";
     };
-	class RCS_entryteamgo
+	class RCS_entryTeamGo
     {
         name = "Entry Team Go";
-        sound[] = {"\rcs\ACTION\RCS_entryteamgo.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_entryTeamGo.ogg",1,1};
         theme = "Lead";
         duration = 154;
         musicClass = "RCTACTION";
     };
-	class RCS_armedarrival
+	class RCS_armedArrival
     {
         name = "Armed Arrival";
-        sound[] = {"\rcs\ACTION\RCS_armedarrival.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_armedArrival.ogg",1,1};
         theme = "Lead";
         duration = 179;
         musicClass = "RCTACTION";
     };
-	class RCS_wlb
+	class RCS_whatLiesBeyond
     {
         name = "What Lies Beyond";
-        sound[] = {"\rcs\STEALTH\RCS_wlb.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_whatLiesBeyond.ogg",1,1};
         theme = "Lead";
         duration = 72;
         musicClass = "RCTSTEALTH";
@@ -945,31 +888,31 @@ class CfgMusic
 	class RCS_unspotted
     {
         name = "Unspotted";
-        sound[] = {"\rcs\STEALTH\RCS_Unspotted.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_unspotted.ogg",1,1};
         theme = "Lead";
         duration = 163;
         musicClass = "RCTSTEALTH";
     };
-	class RCS_fromthewild
+	class RCS_fromTheWild
     {
         name = "From The Wild";
-        sound[] = {"\rcs\RELAX\RCS_fromthewild.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_fromTheWild.ogg",1,1};
         theme = "Lead";
         duration = 259;
         musicClass = "RCTRELAX";
     };
-	class RCS_requiemofadream
+	class RCS_requiemForADream
     {
-        name = "Requiem Of a Dream";
-        sound[] = {"\rcs\ACTION\RCS_requiemforadream.ogg",1,1};
+        name = "Requiem For a Dream";
+        sound[] = {"\rcs\ACTION\RCS_requiemForADream.ogg",1,1};
         theme = "Lead";
         duration = 241;
         musicClass = "RCTACTION";
     };
-	class RCS_berlinfootchase
+	class RCS_berlinFootChase
     {
         name = "Berlin Foot Chase";
-        sound[] = {"\rcs\ACTION\RCS_berlinfootchase.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_berlinFootChase.ogg",1,1};
         theme = "Lead";
         duration = 319;
         musicClass = "RCTACTION";
@@ -982,10 +925,10 @@ class CfgMusic
         duration = 393;
         musicClass = "RCTACTION";
     };
-	class RCS_jesperkydapocalypse
+	class RCS_apocalypseJesperKyd
     {
         name = "Jesper Kyd - Apocalypse";
-        sound[] = {"\rcs\ACTION\RCS_jesperkydapocalypse.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_apocalypseJesperKyd.ogg",1,1};
         theme = "Lead";
         duration = 241;
         musicClass = "RCTACTION";
@@ -998,10 +941,10 @@ class CfgMusic
         duration = 351;
         musicClass = "RCTRELAX";
     };
-	class RCS_runthroughthejungle
+	class RCS_runThroughTheJungle
     {
         name = "Run Through the Jungle";
-        sound[] = {"\rcs\RELAX\RCS_runthroughthejungle.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_runThroughTheJungle.ogg",1,1};
         theme = "Lead";
         duration = 186;
         musicClass = "RCTRELAX";
@@ -1014,19 +957,19 @@ class CfgMusic
         duration = 141;
         musicClass = "RCTRELAX";
     };
-	class RCS_crashsite
+	class RCS_crashSite
     {
         name = "Crash Site";
-        sound[] = {"\rcs\STEALTH\RCS_crashsite.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_crashSite.ogg",1,1};
         theme = "Lead";
         duration = 149;
         musicClass = "RCTSTEALTH";
     };
 
-	class RCS_crushdepth
+	class RCS_crushDepth
     {
         name = "Crush Depth";
-        sound[] = {"\rcs\STEALTH\RCS_crushdepth.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_crushDepth.ogg",1,1};
         theme = "Lead";
         duration = 134;
         musicClass = "RCTSTEALTH";
@@ -1055,23 +998,23 @@ class CfgMusic
         duration = 138;
         musicClass = "RCTRELAX";
     };
-	class RCS_feelingstrange
+	class RCS_feelingStrange
     {
         name = "Feeling Strange";
-        sound[] = {"\rcs\STEALTH\RCS_feelingstrange.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_feelingStrange.ogg",1,1};
         theme = "Lead";
         duration = 131;
         musicClass = "RCTSTEALTH";
     };
-	class RCS_alienpassageways
+	class RCS_alienPassageways
     {
         name = "Alien Passageways";
-        sound[] = {"\rcs\STEALTH\RCS_alienpassageways.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_alienPassageways.ogg",1,1};
         theme = "Lead";
         duration = 137;
         musicClass = "RCTSTEALTH";
     };
-	class RCS_alienspaces
+	class RCS_alienSpaces
     {
         name = "Alien Spaces";
         sound[] = {"\rcs\STEALTH\RCS_alienspaces.ogg",1,1};
@@ -1079,18 +1022,18 @@ class CfgMusic
         duration = 106;
         musicClass = "RCTSTEALTH";
     };
-	class RCS_arclights
+	class RCS_arcLights
     {
         name = "Arc Lights";
-        sound[] = {"\rcs\RELAX\RCS_arclights.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_arcLights.ogg",1,1};
         theme = "Lead";
         duration = 94;
         musicClass = "RCTRELAX";
     };
-	class RCS_newsights
+	class RCS_newSights
     {
         name = "New Sights";
-        sound[] = {"\rcs\RELAX\RCS_newsights.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_newSights.ogg",1,1};
         theme = "Lead";
         duration = 131;
         musicClass = "RCTRELAX";
@@ -1111,18 +1054,18 @@ class CfgMusic
         duration = 311;
         musicClass = "RCTACTION";
     };
-	class RCS_juggernautalt
+	class RCS_juggernautAlternate
     {
-        name = "Juggernaut [Alt. Version]";
-        sound[] = {"\rcs\ACTION\RCS_juggernautalt.ogg",1,1};
+        name = "Juggernaut - Alternate Version";
+        sound[] = {"\rcs\ACTION\RCS_juggernautAlternate.ogg",1,1};
         theme = "Lead";
         duration = 250;
         musicClass = "RCTACTION";
     };
-	class RCS_fortunateson
+	class RCS_fortunateSon
     {
         name = "Fortunate Son";
-        sound[] = {"\rcs\RELAX\RCS_fortunateson.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_fortunateSon.ogg",1,1};
         theme = "Lead";
         duration = 141;
         musicClass = "RCTRELAX";
@@ -1159,10 +1102,10 @@ class CfgMusic
         duration = 458;
         musicClass = "RCTACTION";
     };
-	class RCS_greatrun
+	class RCS_greatRun
     {
         name = "Great Run";
-        sound[] = {"\rcs\ACTION\RCS_greatrun.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_greatRun.ogg",1,1};
         theme = "Lead";
         duration = 143;
         musicClass = "RCTACTION";
@@ -1207,18 +1150,18 @@ class CfgMusic
         duration = 89;
         musicClass = "RCTACTION";
     };
-	class RCS_nuclearsilence
+	class RCS_nuclearSilence
     {
         name = "Nuclear Silence";
-        sound[] = {"\rcs\RELAX\RCS_nuclearsilence.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_nuclearSilence.ogg",1,1};
         theme = "Lead";
         duration = 233;
         musicClass = "RCTRELAX";
     };
-	class RCS_scatteredforces
+	class RCS_scatteredForces
     {
         name = "Scattered Forces";
-        sound[] = {"\rcs\RELAX\RCS_scatteredforces.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_scatteredForces.ogg",1,1};
         theme = "Lead";
         duration = 299;
         musicClass = "RCTRELAX";
@@ -1239,26 +1182,26 @@ class CfgMusic
         duration = 172;
         musicClass = "RCTACTION";
     };
-	class RCS_tacticaldecision
+	class RCS_tacticalDecision
     {
         name = "ITB - Tactical Decision";
-        sound[] = {"\rcs\ACTION\RCS_tacticaldecision.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_tacticalDecision.ogg",1,1};
         theme = "Lead";
         duration = 119;
         musicClass = "RCTACTION";
     };
-	class RCS_goodmorningtakistan
+	class RCS_goodMorningTakistan
     {
         name = "Good Morning Takistan";
-        sound[] = {"\rcs\RELAX\RCS_goodmorningtakistan.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_goodMorningTakistan.ogg",1,1};
         theme = "Lead";
         duration = 159;
         musicClass = "RCTRELAX";
     };
-	class RCS_crudeoil
+	class RCS_crudeOil
     {
         name = "Crude Oil";
-        sound[] = {"\rcs\ACTION\RCS_crudeoil.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_crudeOil.ogg",1,1};
         theme = "Lead";
         duration = 235;
         musicClass = "RCTACTION";
@@ -1271,26 +1214,26 @@ class CfgMusic
         duration = 220;
         musicClass = "RCTACTION";
     };
-	class RCS_revolverjam
+	class RCS_revolverJam
     {
         name = "Revolver Jam";
-        sound[] = {"\rcs\RELAX\RCS_revolverjam.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_revolverJam.ogg",1,1};
         theme = "Lead";
         duration = 254;
         musicClass = "RCTRELAX";
     };
-	class RCS_thebeast
+	class RCS_theBeast
     {
         name = "The Beast";
-        sound[] = {"\rcs\STEALTH\RCS_thebeast.ogg",1,1};
+        sound[] = {"\rcs\STEALTH\RCS_theBeast.ogg",1,1};
         theme = "Lead";
         duration = 195;
         musicClass = "RCTSTEALTH";
     };
-	class RCS_worldoftanks
+	class RCS_worldOfTanks
     {
         name = "World of Tanks";
-        sound[] = {"\rcs\ACTION\RCS_worldoftanks.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_worldOfTanks.ogg",1,1};
         theme = "Lead";
         duration = 198;
         musicClass = "RCTACTION";
@@ -1303,18 +1246,18 @@ class CfgMusic
         duration = 244;
         musicClass = "RCTCONTACT";
     };
-    class RCS_acclivitydawn
+    class RCS_acclivityDawn
     {
         name = "Acclivity Dawn";
-        sound[] = {"\rcs\CONTACT\RCS_acclivitydawn.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_acclivityDawn.ogg",1,1};
         theme = "Lead";
         duration = 59;
         musicClass = "RCTCONTACT";
     };
-    class RCS_waveringbase
+    class RCS_waveringBase
     {
         name = "Wavering Base";
-        sound[] = {"\rcs\CONTACT\RCS_waveringbase.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_waveringBase.ogg",1,1};
         theme = "Lead";
         duration = 61;
         musicClass = "RCTCONTACT";
@@ -1335,42 +1278,42 @@ class CfgMusic
         duration = 208;
         musicClass = "RCTCONTACT";
     };
-    class RCS_sharperclaws
+    class RCS_sharperClaws
     {
         name = "Sharper Claws";
-        sound[] = {"\rcs\CONTACT\RCS_sharperclaws.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_sharperClaws.ogg",1,1};
         theme = "Lead";
         duration = 242;
         musicClass = "RCTCONTACT";
     };
-    class RCS_nighteyeszeroone
+    class RCS_nightEyesOne
     {
         name = "Night Eyes - Zero One";
-        sound[] = {"\rcs\CONTACT\RCS_nighteyeszeroone.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_nightEyesOne.ogg",1,1};
         theme = "Lead";
         duration = 402;
         musicClass = "RCTCONTACT";
     };
-    class RCS_nighteyeszerotwo
+    class RCS_nightEyesTwo
     {
         name = "Night Eyes - Zero Two";
-        sound[] = {"\rcs\CONTACT\RCS_nighteyeszerotwo.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_nightEyesTwo.ogg",1,1};
         theme = "Lead";
         duration = 402;
         musicClass = "RCTCONTACT";
     };
-    class RCS_sunrisezeroone
+    class RCS_sunriseOne
     {
         name = "Sunrise - Zero One";
-        sound[] = {"\rcs\CONTACT\RCS_sunrisezeroone.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_sunriseOne.ogg",1,1};
         theme = "Lead";
         duration = 250;
         musicClass = "RCTCONTACT";
     };
-    class RCS_sunrisezerotwo
+    class RCS_sunriseTwo
     {
         name = "Sunrise - Zero Two";
-        sound[] = {"\rcs\CONTACT\RCS_sunrisezerotwo.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_sunriseTwo.ogg",1,1};
         theme = "Lead";
         duration = 247;
         musicClass = "RCTCONTACT";
@@ -1399,66 +1342,66 @@ class CfgMusic
         duration = 259;
         musicClass = "RCTCONTACT";
     };
-    class RCS_tensionshigh
+    class RCS_tensionsHigh
     {
         name = "Tensions High";
-        sound[] = {"\rcs\CONTACT\RCS_tensionshigh.ogg",1,1};
+        sound[] = {"\rcs\CONTACT\RCS_tensionsHigh.ogg",1,1};
         theme = "Lead";
         duration = 101;
         musicClass = "RCTCONTACT";
     }; 
-    class RCS_leadfoot
+    class RCS_leadFoot
     {
         name = "Lead Foot";
-        sound[] = {"\rcs\RELAX\RCS_leadfoot.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_leadFoot.ogg",1,1};
         theme = "Lead";
         duration = 128;
         musicClass = "RCTRELAX";
     };
-    class RCS_sixanniversary
+    class RCS_sixthAnniversary
     {
         name = "This is War - Sixth Anniversary Mix";
-        sound[] = {"\rcs\ACTION\RCS_sixanniversary.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_sixthAnniversary.ogg",1,1};
         theme = "Lead";
         duration = 149;
         musicClass = "RCTACTION";
     };
-    class RCS_holdtheline
+    class RCS_holdTheLine
     {
         name = "Hold The Line";
-        sound[] = {"\rcs\ACTION\RCS_holdtheline.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_holdTheLine.ogg",1,1};
         theme = "Lead";
         duration = 541;
         musicClass = "RCTACTION";
     };
-    class RCS_gbdarkhorizon
+    class RCS_darkHorizon
     {
         name = "Geneburn - Dark Horizon";
-        sound[] = {"\rcs\ACTION\RCS_gbdarkhorizon.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_darkHorizon.ogg",1,1};
         theme = "Lead";
         duration = 188;
         musicClass = "RCTACTION";
     };
-    class RCS_gbdesolate
+    class RCS_gbDesolate
     {
         name = "Geneburn - Desolate";
-        sound[] = {"\rcs\SAD\RCS_gbdesolate.ogg",1,1};
+        sound[] = {"\rcs\SAD\RCS_gbDesolate.ogg",1,1};
         theme = "Lead";
         duration = 211;
         musicClass = "RCTSAD";
     };
-    class RCS_gbhostileillusion
+    class RCS_hostileIllusion
     {
         name = "Geneburn - Hostile Illusion";
-        sound[] = {"\rcs\ACTION\RCS_gbhostileillusion.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_hostileIllusion.ogg",1,1};
         theme = "Lead";
         duration = 144;
         musicClass = "RCTACTION";
     };
-    class RCS_gbleftbehind
+    class RCS_leftBehind
     {
         name = "Geneburn - Left Behind";
-        sound[] = {"\rcs\ACTION\RCS_gbleftbehind.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_leftBehind.ogg",1,1};
         theme = "Lead";
         duration = 156;
         musicClass = "RCTACTION";
@@ -1471,50 +1414,50 @@ class CfgMusic
         duration = 181;
         musicClass = "RCTACTION";
     };
-    class RCS_jesperkydfamily
+    class RCS_ezioFamily
     {
         name = "Jesper Kyd - Ezio's Family";
-        sound[] = {"\rcs\SAD\RCS_jesperkydfamily.ogg",1,1};
+        sound[] = {"\rcs\SAD\RCS_ezioFamily.ogg",1,1};
         theme = "Lead";
         duration = 239;
         musicClass = "RCTSAD";
     };
-    class RCS_paintitblack
+    class RCS_paintItBlack
     {
         name = "Rolling Stones - Paint it Black";
-        sound[] = {"\rcs\MISC\RCS_paintitblack.ogg",1,1};
+        sound[] = {"\rcs\MISC\RCS_paintItBlack.ogg",1,1};
         theme = "Lead";
         duration = 202;
         musicClass = "RCTMISC";
     };
-    class RCS_whatibecome
+    class RCS_seeWhatIBecome
     {
         name = "Zack Hemsey - See What I've Become";
-        sound[] = {"\rcs\MISC\RCS_whatibecome.ogg",1,1};
+        sound[] = {"\rcs\MISC\RCS_seeWhatIBecome.ogg",1,1};
         theme = "Lead";
         duration = 234;
         musicClass = "RCTMISC";
     };
-    class RCS_blackwarrioralert1
+    class RCS_blackWarrior
     {
         name = "Black Warrior - Alert One";
-        sound[] = {"\rcs\ACTION\RCS_blackwarrioralert1.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_blackWarrior.ogg",1,1};
         theme = "Lead";
         duration = 157;
         musicClass = "RCTACTION";
     };
-    class RCS_whereallroadsend
+    class RCS_whereAllRoadsEnd
     {
         name = "Where All Roads End";
-        sound[] = {"\rcs\MISC\RCS_whereallroadsend.ogg",1,1};
+        sound[] = {"\rcs\MISC\RCS_whereAllRoadsEnd.ogg",1,1};
         theme = "Lead";
         duration = 210;
         musicClass = "RCTMISC";
     };
-    class RCS_brokenarrow
+    class RCS_brokenArrow
     {
         name = "Broken Arrow";
-        sound[] = {"\rcs\ACTION\RCS_brokenarrow.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_brokenArrow.ogg",1,1};
         theme = "Lead";
         duration = 64;
         musicClass = "RCTACTION";
@@ -1527,42 +1470,42 @@ class CfgMusic
         duration = 183;
         musicClass = "RCTSTEALTH";
     };
-    class RCS_trappedinthesystem
+    class RCS_trappedInTheSystem
     {
         name = "Trapped In the System";
-        sound[] = {"\rcs\ACTION\RCS_trappedinthesystem.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_trappedInTheSystem.ogg",1,1};
         theme = "Lead";
         duration = 246;
         musicClass = "RCTACTION";
     };
-    class RCS_ghostcoil
+    class RCS_ghostCoil
     {
         name = "Ghost Coil";
-        sound[] = {"\rcs\RELAX\RCS_ghostcoil.ogg",1,1};
+        sound[] = {"\rcs\RELAX\RCS_ghostCoil.ogg",1,1};
         theme = "Lead";
         duration = 165;
         musicClass = "RCTRELAX";
     };
-    class RCS_joekataldotah
+    class RCS_takeAndHold
     {
         name = "Joe Kataldo - Take and Hold";
-        sound[] = {"\rcs\ACTION\RCS_joekataldotah.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_takeAndHold.ogg",1,1};
         theme = "Lead";
         duration = 182;
         musicClass = "RCTACTION";
     };
-    class RCS_joekataldomha
+    class RCS_meatHunterAction
     {
         name = "Joe Kataldo - Meat Hunter Action";
-        sound[] = {"\rcs\ACTION\RCS_joekataldomha.ogg",1,1};
+        sound[] = {"\rcs\ACTION\RCS_meatHunterAction.ogg",1,1};
         theme = "Lead";
         duration = 87;
         musicClass = "RCTACTION";
     };
-    class RCS_SCPMainTheme
+    class RCS_finalFlashOfExistence
     {
-        name = "SCP:SL Main Theme";
-        sound[] = {"\rcs\MISC\RCS_SCPMainTheme.ogg",1,1};
+        name = "Final Flash of Existence";
+        sound[] = {"\rcs\MISC\RCS_finalFlashOfExistence.ogg",1,1};
         theme = "Lead";
         duration = 251;
         musicClass = "RCTMISC";
@@ -1677,6 +1620,22 @@ class CfgMusic
         sound[] = {"\rcs\ACTION\RCS_steelDivision.ogg",1,1};
         theme = "Lead";
         duration = 155;
+        musicClass = "RCTACTION";
+    };
+    class RCS_intercepted
+    {
+        name = "Intercepted";
+        sound[] = {"\rcs\ACTION\RCS_intercepted.ogg",1,1};
+        theme = "Lead";
+        duration = 70;
+        musicClass = "RCTACTION";
+    };
+    class RCS_overthrown
+    {
+        name = "Overthrown";
+        sound[] = {"\rcs\ACTION\RCS_overthrown.ogg",1,1};
+        theme = "Lead";
+        duration = 279;
         musicClass = "RCTACTION";
     };
 }; 
