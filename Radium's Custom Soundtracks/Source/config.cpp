@@ -1638,6 +1638,22 @@ class CfgMusic
         duration = 279;
         musicClass = "RCTACTION";
     };
+    class RCS_risingSun
+    {
+        name = "Rising Sun";
+        sound[] = {"\rcs\ACTION\RCS_risingSun.ogg",1,1};
+        theme = "Lead";
+        duration = 168;
+        musicClass = "RCTACTION";
+    };
+    class RCS_roseAtEclipse
+    {
+        name = "Rose At Eclipse";
+        sound[] = {"\rcs\ACTION\RCS_roseAtEclipse.ogg",1,1};
+        theme = "Lead";
+        duration = 231;
+        musicClass = "RCTACTION";
+    };
 }; 
 
 
