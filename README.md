@@ -16,7 +16,7 @@ Unique, high-quality sounds packaged and tailored for use in the Zeus editor.
 - Make sure you name the filename appropriately. Although most of the mod is not natively in it, I would prefer if you use `camelCase` for file names. *e.g. RCS_songName.ogg*
 - Only change parts of the code that you need to. If you're adding a song or sound, only add in those bits of code. Please do not change my code or anyone elses without permission.
 
-### Installing The Mods
+# Installing The Mods
 
 - First, it is important to note that although **RAS** is available on Workshop, **RCS** is not. This is because the Steam Workshop Subscriber Agreement *does not cover Fair Use of copyrighted songs*, and as a result putting **RCS** up on the workshop is not allowed. No profit is earned from **RCS** at all, nor does it affect the market of any copyrighted songs.
 
