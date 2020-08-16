@@ -1139,9 +1139,9 @@ class CfgSFX
 		sfxsound[]=
 		{
 			"RAS\environment\RAS_hiveHeart.ogg",
-			15,
+			25,
 			1, 
-			25, 
+			50, 
 			1,
 			1,
 			1,
