@@ -1078,7 +1078,7 @@ class CfgSFX
 		};
 		sfxsound[]=
 		{
-			"RAS\electronics\RAS_brokenTerminal 2.ogg",
+			"RAS\electronics\RAS_brokenTerminal2.ogg",
 			15,
 			1, 
 			20, 
