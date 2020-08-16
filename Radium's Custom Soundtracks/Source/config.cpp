@@ -1638,20 +1638,92 @@ class CfgMusic
         duration = 279;
         musicClass = "RCTACTION";
     };
-    class RCS_risingSun
+    class RCS_thatsNoHuman
     {
-        name = "Rising Sun";
-        sound[] = {"\rcs\ACTION\RCS_risingSun.ogg",1,1};
+        name = "That's No Human";
+        sound[] = {"\rcs\ACTION\RCS_thatsNoHuman.ogg",1,1};
         theme = "Lead";
-        duration = 168;
+        duration = 227;
         musicClass = "RCTACTION";
     };
-    class RCS_roseAtEclipse
+    class RCS_somethingIsHere
     {
-        name = "Rose At Eclipse";
-        sound[] = {"\rcs\ACTION\RCS_roseAtEclipse.ogg",1,1};
+        name = "Something Is Here";
+        sound[] = {"\rcs\ACTION\RCS_somethingIsHere.ogg",1,1};
         theme = "Lead";
-        duration = 231;
+        duration = 336;
+        musicClass = "RCTACTION";
+    };
+    class RCS_securityTripped
+    {
+        name = "Security Tripped";
+        sound[] = {"\rcs\ACTION\RCS_securityTripped.ogg",1,1};
+        theme = "Lead";
+        duration = 184;
+        musicClass = "RCTACTION";
+    };
+    class RCS_roamingTheFacility
+    {
+        name = "Something Is Here";
+        sound[] = {"\rcs\STEALTH\RCS_somethingIsHere.ogg",1,1};
+        theme = "Lead";
+        duration = 132;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_researchFacility
+    {
+        name = "Research Facility";
+        sound[] = {"\rcs\STEALTH\RCS_researchFacility.ogg",1,1};
+        theme = "Lead";
+        duration = 132;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_researchChamber
+    {
+        name = "Research Chamber";
+        sound[] = {"\rcs\STEALTH\RCS_researchChamber.ogg",1,1};
+        theme = "Lead";
+        duration = 77;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_organismLocated
+    {
+        name = "Organism Located";
+        sound[] = {"\rcs\ACTION\RCS_organismLocated.ogg",1,1};
+        theme = "Lead";
+        duration = 336;
+        musicClass = "RCTACTION";
+    };
+    class RCS_hostileOrganismDetected
+    {
+        name = "Hostile Organism Detected";
+        sound[] = {"\rcs\ACTION\RCS_hostileOrganismDetected.ogg",1,1};
+        theme = "Lead";
+        duration = 239;
+        musicClass = "RCTACTION";
+    };
+    class RCS_dontMakeASound
+    {
+        name = "Don't Make a Sound";
+        sound[] = {"\rcs\ACTION\RCS_dontMakeASound.ogg",1,1};
+        theme = "Lead";
+        duration = 148;
+        musicClass = "RCTACTION";
+    };
+    class RCS_containmentFault
+    {
+        name = "Containment Fault";
+        sound[] = {"\rcs\ACTION\RCS_containmentFault.ogg",1,1};
+        theme = "Lead";
+        duration = 227;
+        musicClass = "RCTACTION";
+    };
+    class RCS_combatSystems
+    {
+        name = "Combat Systems";
+        sound[] = {"\rcs\ACTION\RCS_combatSystems.ogg",1,1};
+        theme = "Lead";
+        duration = 336;
         musicClass = "RCTACTION";
     };
 }; 
