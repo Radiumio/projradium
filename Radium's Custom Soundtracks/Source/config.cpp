@@ -1664,8 +1664,8 @@ class CfgMusic
     };
     class RCS_roamingTheFacility
     {
-        name = "Something Is Here";
-        sound[] = {"\rcs\STEALTH\RCS_somethingIsHere.ogg",1,1};
+        name = "Roaming the Facility";
+        sound[] = {"\rcs\STEALTH\RCS_roamingTheFacility.ogg",1,1};
         theme = "Lead";
         duration = 132;
         musicClass = "RCTSTEALTH";
