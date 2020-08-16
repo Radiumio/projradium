@@ -32,14 +32,13 @@ Unique, high-quality sounds packaged and tailored for use in the Zeus editor.
 **2:** Description of the release.
 
 **3:** The `.rar` archive provided with the release.
+> NOTE: Due to the size of the mod, you may find a lone **README.txt** inside the `rcs_x.x.rar` instead. The link inside of this document will redirect you to a mirror link to download the mod.
 
 - To download the latest version, you will need to download the `.rar`. Ensure you have WinRar or some unzipping tool to extract this file.
 
 - Upon extracting the file, you will notice that inside there is a `@RCS` folder present. This is the mod folder. You will find these files inside:
 
 ![Inside the @RCS Folder](https://cdn.discordapp.com/attachments/744551100820094997/744552737659682886/da1211fe5eb6ad665389cf827063a74e.png)
-
-> NOTE: Due to the size of the mod, you may find a **README.txt** instead. The link inside of this document will provide you with a mirror link to download the mod.
 
 - It is not important to worry about these files. Move the `@RCS` folder somewhere accessible, and open your ArmA 3 Launcher. There is an option to add a **Local mod**, which is what you will click. Upon clicking, you can navigate to where the `@RCS` folder is, and add it.
 
