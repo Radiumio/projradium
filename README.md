@@ -26,8 +26,11 @@ Unique, high-quality sounds packaged and tailored for use in the Zeus editor.
 
 - When opening the releases tab, you will notice that the **Latest Release** is always at the top.
 ![Explaining the Releases](https://cdn.discordapp.com/attachments/744551100820094997/744551763369001000/89666e810c435c2b06a5aad3294fd5e9.png)
+
 **1:** Latest release and tags.
+
 **2:** Description of the release.
+
 **3:** The `.rar` archive provided with the release.
 
 - To download the latest version, you will need to download the `.rar`. Ensure you have WinRar or some unzipping tool to extract this file.
