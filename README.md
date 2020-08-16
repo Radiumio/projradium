@@ -49,4 +49,4 @@ Unique, high-quality sounds packaged and tailored for use in the Zeus editor.
 
 - These steps are the same for RAS. **Note that you will have to redo these steps everytime there is an update, and remove the mod, replacing it with the fresh new update. Never overwrite the mod! Always delete it through launcher and reinstall it.**
 
-*If there are questions or business queries related to the legal use of this mod, you can DM me or contact me via my personal email.*
+*If there are questions or business queries related to the legal use of this mod, you can DM me or contact me via my personal email on my profile.*
