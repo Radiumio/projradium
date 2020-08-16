@@ -39,6 +39,8 @@ Unique, high-quality sounds packaged and tailored for use in the Zeus editor.
 
 ![Inside the @RCS Folder](https://cdn.discordapp.com/attachments/744551100820094997/744552737659682886/da1211fe5eb6ad665389cf827063a74e.png)
 
+> NOTE: Due to the size of the mod, you may find a **README.txt** instead. The link inside of this document will provide you with a mirror link to download the mod.
+
 - It is not important to worry about these files. Move the `@RCS` folder somewhere accessible, and open your ArmA 3 Launcher. There is an option to add a **Local mod**, which is what you will click. Upon clicking, you can navigate to where the `@RCS` folder is, and add it.
 
 ![On Launcher](https://cdn.discordapp.com/attachments/744551100820094997/744553238455517224/c46918b841f3ff7497efb5b96e861b4c.png)
