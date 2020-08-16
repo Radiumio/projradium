@@ -35,7 +35,11 @@ class CfgPatches
 			"RAS_ciwsalarm.ogg",
 			"RAS_signal1.ogg",
 			"RAS_signal2.ogg",
-			"RAS_signal3.ogg"
+			"RAS_signal3.ogg",
+			"RAS_brokenTerminal.ogg",
+			"RAS_brokenTerminal2.ogg",
+			"RAS_brokenTerminal3.ogg",
+			"RAS_hiveHeart.ogg"
 		};
 		weapons[]={};
 		requiredVersion=0.1;
@@ -1035,6 +1039,126 @@ class CfgSFX
 			0
 		};
 	};
+	class RAS_brokenTerminal
+	{
+		name="[RAS] Broken Terminal";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\electronics\RAS_brokenTerminal.ogg",
+			15,
+			1, 
+			20, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
+	class RAS_brokenTerminal2
+	{
+		name="[RAS] Broken Terminal 2";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\electronics\RAS_brokenTerminal 2.ogg",
+			15,
+			1, 
+			20, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
+	class RAS_brokenTerminal3
+	{
+		name="[RAS] Broken Terminal 3";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\electronics\RAS_brokenTerminal3.ogg",
+			15,
+			1, 
+			20, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
+	class RAS_hiveHeart
+	{
+		name="[RAS] Alien Hive Heart";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\environment\RAS_hiveHeart.ogg",
+			15,
+			1, 
+			25, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
 };
 class CfgVehicles
 {
@@ -1308,6 +1432,38 @@ class CfgVehicles
 		scope=2;
 		sound="RAS_signal3";
 		displayName="[RAS] Alien Signal 3";
+	};
+	class RAS_brokenTerminal: Sound
+	{
+		author="Radium";
+		_generalMacro="RAS_brokenTerminal_veh";
+		scope=2;
+		sound="RAS_brokenTerminal";
+		displayName="[RAS] Broken Terminal";
+	};
+	class RAS_brokenTerminal2: Sound
+	{
+		author="Radium";
+		_generalMacro="RAS_brokenTerminal2_veh";
+		scope=2;
+		sound="RAS_brokenTerminal2";
+		displayName="[RAS] Broken Terminal 2";	
+	};
+	class RAS_brokenTerminal3: Sound
+	{
+		author="Radium";
+		_generalMacro="RAS_brokenTerminal3_veh";
+		scope=2;
+		sound="RAS_brokenTerminal3";
+		displayName="[RAS] Broken Terminal 3";
+	};
+	class RAS_hiveHeart: Sound
+	{
+		author="Radium";
+		_generalMacro="RCS_hiveHeart_veh";
+		scope=2;
+		sound="RAS_hiveHeart";
+		displayName="[RAS] Alien Hive Heart";
 	};
 };
 
