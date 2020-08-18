@@ -20,7 +20,7 @@ Unique, high-quality sounds packaged and tailored for use in the Zeus editor.
 
 - First, it is important to note that although **RAS** is available on Workshop, **RCS** is not. This is because the Steam Workshop Subscriber Agreement *does not cover Fair Use of copyrighted songs*, and as a result putting **RCS** up on the workshop is not allowed. No profit is earned from **RCS** at all, nor does it affect the market of any copyrighted songs.
 
-#### Installing RAS/RCS as a Local Mod
+#### Installing RCS as a Local Mod
 - The first step to install the mod is to first download the latest release of the mod on GitHub, in the releases tab.
 ![Releases Tab](https://cdn.discordapp.com/attachments/744551100820094997/744551202896871504/cb30ec17f31608bdd2e6030348f5a494.png)
 
@@ -48,6 +48,6 @@ Unique, high-quality sounds packaged and tailored for use in the Zeus editor.
 
 ![Mod added](https://cdn.discordapp.com/attachments/744551100820094997/744553587304038540/0467f816a9551ccbd0cbcd91fd83dcda.png)
 
-- These steps are the same for RAS. **Note that you will have to redo these steps everytime there is an update, and remove the mod, replacing it with the fresh new update. Never overwrite the mod! Always delete it through launcher and reinstall it.**
+- **Note that you will have to redo these steps everytime there is an update, and remove the mod, replacing it with the fresh new update. Never overwrite the mod! Always delete it through launcher and reinstall it.**
 
 *If there are questions or business queries related to the legal use of this mod, you can DM me or contact me via my personal email on my profile.*
