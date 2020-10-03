@@ -1728,7 +1728,7 @@ class CfgMusic
     };
     class RCS_turboKiller
     {
-        name = "Combat Systems";
+        name = "Turbo Killer";
         sound[] = {"\rcs\ACTION\RCS_turboKiller.ogg",1,1};
         theme = "Lead";
         duration = 335;
