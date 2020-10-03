@@ -1726,12 +1726,12 @@ class CfgMusic
         duration = 336;
         musicClass = "RCTACTION";
     };
-    class RCS_turboKiller
+    class RCS_lePerv
     {
-        name = "Turbo Killer";
-        sound[] = {"\rcs\ACTION\RCS_turboKiller.ogg",1,1};
+        name = "Le Perv";
+        sound[] = {"\rcs\ACTION\RCS_lePerv.ogg",1,1};
         theme = "Lead";
-        duration = 335;
+        duration = 249;
         musicClass = "RCTACTION";
     };
 }; 
