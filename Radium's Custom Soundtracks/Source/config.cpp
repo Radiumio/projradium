@@ -1726,6 +1726,14 @@ class CfgMusic
         duration = 336;
         musicClass = "RCTACTION";
     };
+    class RCS_turboKiller
+    {
+        name = "Combat Systems";
+        sound[] = {"\rcs\ACTION\RCS_turboKiller.ogg",1,1};
+        theme = "Lead";
+        duration = 335;
+        musicClass = "RCTACTION";
+    };
 }; 
 
 
