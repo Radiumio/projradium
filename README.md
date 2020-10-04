@@ -11,6 +11,7 @@ A high-quality, soundtrack mod that adds over **200** songs to your Zeus experie
 - ArmA 3 only accepts `.ogg` files. Please don't merge `.mp3` or other file formats.
 - Make sure you name the filename appropriately. I would prefer if you use `camelCase` for file names. *e.g. RCS_songName.ogg*
 - Only change parts of the code that you need to. If you're adding a song or sound, only add in those bits of code. Please do not change my code or anyone elses without permission.
+- Alternatively, **create an issue with the link to the song you wish to add, and what category it should go under**. I'll take a look and see if it's appropriate to add!
 
 # Installing The Mods
 
