@@ -1734,58 +1734,50 @@ class CfgMusic
         duration = 249;
         musicClass = "RCTACTION";
     };
-    class RCS_rangersLeadTheWayDK2
+    class RCS_rangersLeadTheWay
     {
         name = "Rangers Lead the Way - Door Kickers 2";
-        sound[] = {"\rcs\ACTION\RCS_rangersLeadTheWayDK2.ogg", 1, 1};
+        sound[] = {"\rcs\ACTION\RCS_rangersLeadTheWay.ogg", 1, 1};
         theme = "Lead";
         duration = 172;
         musicClass = "RCTACTION";
     };
-    class RCS_kickingDoorsDK2
+    class RCS_kickingDoors
     {
         name = "Kicking Doors - Door Kickers 2";
-        sound[] = {"\rcs\ACTION\RCS_kickingDoorsDK2.ogg", 1, 1};
+        sound[] = {"\rcs\ACTION\RCS_kickingDoors.ogg", 1, 1};
         theme = "Lead";
         duration = 224;
         musicClass = "RCTACTION";
     };
-    class RCS_kickingDoorsDK2
-    {
-        name = "Kicking Doors - Door Kickers 2";
-        sound[] = {"\rcs\ACTION\RCS_kickingDoorsDK2.ogg", 1, 1};
-        theme = "Lead";
-        duration = 224;
-        musicClass = "RCTACTION";
-    };
-    class RCS_slingAndDrawDK2
+    class RCS_slingAndDraw
     {
         name = "Sling 'n Draw - Door Kickers 2";
-        sound[] = {"\rcs\ACTION\RCS_slingAndDrawDK2.ogg", 1, 1};
+        sound[] = {"\rcs\ACTION\RCS_slingAndDraw.ogg", 1, 1};
         theme = "Lead";
         duration = 182;
         musicClass = "RCTACTION";
     };
-    class RCS_alphaGoDK2
+    class RCS_alphaGo
     {
         name = "Alpha, Go - Door Kickers 2";
-        sound[] = {"\rcs\ACTION\RCS_alphaGoDK2.ogg", 1, 1};
+        sound[] = {"\rcs\ACTION\RCS_alphaGo.ogg", 1, 1};
         theme = "Lead";
         duration = 234;
         musicClass = "RCTACTION";
     };
-    class RCS_domeOrGoHomeDK2
+    class RCS_domeOrGoHome
     {
         name = "Dome Or Go Home - Door Kickers 2";
-        sound[] = {"\rcs\ACTION\RCS_domeOrGoHomeDK2.ogg", 1, 1};
+        sound[] = {"\rcs\ACTION\RCS_domeOrGoHome.ogg", 1, 1};
         theme = "Lead";
         duration = 213;
         musicClass = "RCTACTION";
     };
-    class RCS_marketCrashDK2
+    class RCS_marketCrash
     {
         name = "Market Crash - Door Kickers 2";
-        sound[] = {"\rcs\ACTION\RCS_marketCrashDK2.ogg", 1, 1};
+        sound[] = {"\rcs\ACTION\RCS_marketCrash.ogg", 1, 1};
         theme = "Lead";
         duration = 185;
         musicClass = "RCTACTION";
