@@ -45,14 +45,6 @@ class cfgMusicClasses
 
 class CfgMusic
 {
-    class RCS_jamieKarma
-    {
-        name = "Jamie N Commons - Karma";
-        sound[] = {"\rcs\ACTION\RCS_jamieKarma.ogg", 1, 1};
-        theme = "Lead";
-        duration = 252;
-        musicClass = "RCTACTION";
-    };
     class RCS_neosphere
     {
         name = "Neosphere";
@@ -60,86 +52,6 @@ class CfgMusic
         theme = "Lead";
         duration = 217;
         musicClass = "RCTACTION";
-    };
-    class RCS_xtortionKill
-    {
-        name = "K.I.L.L - Xtortion Audio";
-        sound[] = {"\rcs\ACTION\RCS_xtortionKill.ogg", 1, 1};
-        theme = "Lead";
-        duration = 134;
-        musicClass = "RCTACTION";
-    };
-    class RCS_xtortionBones
-    {
-        name = "Bones - Xtortion Audio";
-        sound[] = {"\rcs\ACTION\RCS_xtortionBones.ogg", 1, 1};
-        theme = "Lead";
-        duration = 131;
-        musicClass = "RCTACTION";
-    };
-    class RCS_getTrucked
-    {
-        name = "Get Trucked";
-        sound[] = {"\rcs\ACTION\RCS_getTrucked.ogg", 1, 1};
-        theme = "Lead";
-        duration = 127;
-        musicClass = "RCTACTION";
-    };
-    class RCS_neotropolis
-    {
-        name = "Neotropolis";
-        sound[] = {"\rcs\ACTION\RCS_neotropolis.ogg", 1, 1};
-        theme = "Lead";
-        duration = 168;
-        musicClass = "RCTACTION";
-    };
-    class RCS_insignia
-    {
-        name = "Insignia";
-        sound[] = {"\rcs\ACTION\RCS_insignia.ogg", 1, 1};
-        theme = "Lead";
-        duration = 234;
-        musicClass = "RCTACTION";
-    };
-    class RCS_dogsOfWar
-    {
-        name = "Dogs Of War";
-        sound[] = {"\rcs\ACTION\RCS_dogsOfWar.ogg", 1, 1};
-        theme = "Lead";
-        duration = 82;
-        musicClass = "RCTACTION";
-    };
-    class RCS_pumpingIrony
-    {
-        name = "Pumpin' Irony";
-        sound[] = {"\rcs\ACTION\RCS_pumpingIrony.ogg", 1, 1};
-        theme = "Lead";
-        duration = 156;
-        musicClass = "RCTACTION";
-    };
-    class RCS_smokingFire
-    {
-        name = "Smokin' Fire";
-        sound[] = {"\rcs\ACTION\RCS_smokingFire.ogg", 1, 1};
-        theme = "Lead";
-        duration = 84;
-        musicClass = "RCTACTION";
-    };
-    class RCS_imSoSorry
-    {
-        name = "I'm So Sorry";
-        sound[] = {"\rcs\ACTION\RCS_imSoSorry.ogg", 1, 1};
-        theme = "Lead";
-        duration = 202;
-        musicClass = "RCTACTION";
-    };
-    class RCS_shortPeace
-    {
-        name = "Short Peace";
-        sound[] = {"\rcs\RELAX\RCS_shortPeace.ogg", 1, 1};
-        theme = "Lead";
-        duration = 60;
-        musicClass = "RCTRELAX";
     };
     class RCS_cutToTheChase
     {
@@ -1732,14 +1644,6 @@ class CfgMusic
         sound[] = {"\rcs\ACTION\RCS_lePerv.ogg", 1, 1};
         theme = "Lead";
         duration = 249;
-        musicClass = "RCTACTION";
-    };
-    class RCS_turboKiller
-    {
-        name = "Turbo Killer";
-        sound[] = {"\rcs\ACTION\RCS_turboKiller.ogg", 1, 1};
-        theme = "Lead";
-        duration = 335;
         musicClass = "RCTACTION";
     };
     class RCS_rangersLeadTheWay
