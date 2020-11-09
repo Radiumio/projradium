@@ -80,18 +80,10 @@ class CfgMusic
     class RCS_haveYouSeenTheRain
     {
         name = "Have You Seen The Rain?";
-        sound[] = {"\rcs\RELAX\RCS_haveYouSeenTheRain.ogg", 1, 1};
+        sound[] = {"\rcs\MISC\RCS_haveYouSeenTheRain.ogg", 1, 1};
         theme = "Lead";
         duration = 158;
-        musicClass = "RCTRELAX";
-    };
-    class RCS_protectorsOfTheEarth
-    {
-        name = "Protectors Of The Earth";
-        sound[] = {"\rcs\ACTION\RCS_protectorsOfTheEarth.ogg", 1, 1};
-        theme = "Lead";
-        duration = 170;
-        musicClass = "RCTACTION";
+        musicClass = "MISC";
     };
     class RCS_contaminatedWater
     {
@@ -381,14 +373,6 @@ class CfgMusic
         duration = 183;
         musicClass = "RCTACTION";
     };
-    class RCS_apexProtocol
-    {
-        name = "Apex Protocol";
-        sound[] = {"\rcs\ACTION\RCS_apexProtocol.ogg", 1, 1};
-        theme = "Lead";
-        duration = 117;
-        musicClass = "RCTACTION";
-    };
     class RCS_lurkingInTheFog
     {
         name = "Lurking In The Fog";
@@ -493,14 +477,6 @@ class CfgMusic
         duration = 173;
         musicClass = "RCTACTION";
     };
-    class RCS_aquaVitae
-    {
-        name = "Aqua Vitae";
-        sound[] = {"\rcs\ACTION\RCS_aquaVitae.ogg", 1, 1};
-        theme = "Lead";
-        duration = 156;
-        musicClass = "RCTACTION";
-    };
     class RCS_fireNation
     {
         name = "Fire Nation";
@@ -552,10 +528,10 @@ class CfgMusic
     class RCS_theMole
     {
         name = "The Mole";
-        sound[] = {"\rcs\ACTION\RCS_theMole.ogg", 1, 1};
+        sound[] = {"\rcs\STEALTH\RCS_theMole.ogg", 1, 1};
         theme = "Lead";
         duration = 336;
-        musicClass = "RCTACTION";
+        musicClass = "RCTSTEALTH";
     };
     class RCS_longHaul
     {
@@ -760,10 +736,10 @@ class CfgMusic
     class RCS_runThroughTheJungle
     {
         name = "Run Through the Jungle";
-        sound[] = {"\rcs\RELAX\RCS_runThroughTheJungle.ogg", 1, 1};
+        sound[] = {"\rcs\MISC\RCS_runThroughTheJungle.ogg", 1, 1};
         theme = "Lead";
         duration = 186;
-        musicClass = "RCTRELAX";
+        musicClass = "RCTMISC";
     };
     class RCS_caverns
     {
@@ -881,10 +857,10 @@ class CfgMusic
     class RCS_fortunateSon
     {
         name = "Fortunate Son";
-        sound[] = {"\rcs\RELAX\RCS_fortunateSon.ogg", 1, 1};
+        sound[] = {"\rcs\MISC\RCS_fortunateSon.ogg", 1, 1};
         theme = "Lead";
         duration = 141;
-        musicClass = "RCTRELAX";
+        musicClass = "RCTMISC";
     };
     class RCS_outbreak
     {
@@ -1544,10 +1520,10 @@ class CfgMusic
     };
     class RCS_turboKiller
     {
-        name = "Le Perv";
-        sound[] = {"\rcs\ACTION\RCS_lePerv.ogg", 1, 1};
+        name = "Turbo Killer";
+        sound[] = {"\rcs\ACTION\RCS_turboKiller.ogg", 1, 1};
         theme = "Lead";
-        duration = 249;
+        duration = 335;
         musicClass = "RCTACTION";
     };
     class RCS_rangersLeadTheWay
