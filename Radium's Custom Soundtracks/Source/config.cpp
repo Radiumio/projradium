@@ -85,14 +85,6 @@ class CfgMusic
         duration = 158;
         musicClass = "RCTRELAX";
     };
-    class RCS_protectorsOfTheEarth
-    {
-        name = "Protectors Of The Earth";
-        sound[] = {"\rcs\ACTION\RCS_protectorsOfTheEarth.ogg", 1, 1};
-        theme = "Lead";
-        duration = 170;
-        musicClass = "RCTACTION";
-    };
     class RCS_contaminatedWater
     {
         name = "Contaminated Water";
@@ -616,10 +608,10 @@ class CfgMusic
     class RCS_theMole
     {
         name = "The Mole";
-        sound[] = {"\rcs\ACTION\RCS_theMole.ogg", 1, 1};
+        sound[] = {"\rcs\STEALTH\RCS_theMole.ogg", 1, 1};
         theme = "Lead";
         duration = 336;
-        musicClass = "RCTACTION";
+        musicClass = "RCTSTEALTH";
     };
     class RCS_longHaul
     {
