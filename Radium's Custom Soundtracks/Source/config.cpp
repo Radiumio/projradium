@@ -717,14 +717,6 @@ class CfgMusic
         duration = 319;
         musicClass = "RCTACTION";
     };
-    class RCS_apocalypseJesperKyd
-    {
-        name = "Jesper Kyd - Apocalypse";
-        sound[] = {"\rcs\ACTION\RCS_apocalypseJesperKyd.ogg", 1, 1};
-        theme = "Lead";
-        duration = 241;
-        musicClass = "RCTACTION";
-    };
     class RCS_asimov
     {
         name = "Asimov";
