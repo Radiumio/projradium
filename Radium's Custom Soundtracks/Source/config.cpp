@@ -413,14 +413,6 @@ class CfgMusic
         duration = 183;
         musicClass = "RCTACTION";
     };
-    class RCS_apexProtocol
-    {
-        name = "Apex Protocol";
-        sound[] = {"\rcs\ACTION\RCS_apexProtocol.ogg", 1, 1};
-        theme = "Lead";
-        duration = 117;
-        musicClass = "RCTACTION";
-    };
     class RCS_lurkingInTheFog
     {
         name = "Lurking In The Fog";
@@ -523,14 +515,6 @@ class CfgMusic
         sound[] = {"\rcs\ACTION\RCS_aboveAndBeyond.ogg", 1, 1};
         theme = "Lead";
         duration = 173;
-        musicClass = "RCTACTION";
-    };
-    class RCS_aquaVitae
-    {
-        name = "Aqua Vitae";
-        sound[] = {"\rcs\ACTION\RCS_aquaVitae.ogg", 1, 1};
-        theme = "Lead";
-        duration = 156;
         musicClass = "RCTACTION";
     };
     class RCS_endOfMyJourney
@@ -827,14 +811,6 @@ class CfgMusic
         sound[] = {"\rcs\ACTION\RCS_vengeance.ogg", 1, 1};
         theme = "Lead";
         duration = 393;
-        musicClass = "RCTACTION";
-    };
-    class RCS_apocalypseJesperKyd
-    {
-        name = "Jesper Kyd - Apocalypse";
-        sound[] = {"\rcs\ACTION\RCS_apocalypseJesperKyd.ogg", 1, 1};
-        theme = "Lead";
-        duration = 241;
         musicClass = "RCTACTION";
     };
     class RCS_asimov
