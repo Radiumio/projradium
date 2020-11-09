@@ -1734,6 +1734,14 @@ class CfgMusic
         duration = 249;
         musicClass = "RCTACTION";
     };
+    class RCS_turboKiller
+    {
+        name = "Turbo Killer";
+        sound[] = {"\rcs\ACTION\RCS_turboKiller.ogg", 1, 1};
+        theme = "Lead";
+        duration = 335;
+        musicClass = "RCTACTION";
+    };
     class RCS_rangersLeadTheWay
     {
         name = "Rangers Lead the Way - Door Kickers 2";
