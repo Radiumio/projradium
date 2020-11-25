@@ -1582,4 +1582,60 @@ class CfgMusic
         duration = 231;
         musicClass = "RCTACTION";
     };
+    class RCS_forgottenDesert
+    {
+        name = "Forgotten Desert";
+        sound[] = {"\rcs\STEALTH\RCS_forgottenDesert.ogg", 1, 1};
+        theme = "Lead";
+        duration = 422;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_lostJungle
+    {
+        name = "Lost Jungle";
+        sound[] = {"\rcs\STEALTH\RCS_lostJungle.ogg", 1, 1};
+        theme = "Lead";
+        duration = 349;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_designedToKill
+    {
+        name = "Designed to Kill";
+        sound[] = {"\rcs\STEALTH\RCS_designedToKill.ogg", 1, 1};
+        theme = "Lead";
+        duration = 243;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_suffer
+    {
+        name = "Suffer";
+        sound[] = {"\rcs\STEALTH\RCS_suffer.ogg", 1, 1};
+        theme = "Lead";
+        duration = 111;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_ventilationSystemCompromised
+    {
+        name = "Ventilation System Compromised";
+        sound[] = {"\rcs\STEALTH\RCS_ventilationSystemCompromised.ogg", 1, 1};
+        theme = "Lead";
+        duration = 274;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_artificalAbomination
+    {
+        name = "Artifical Abomination";
+        sound[] = {"\rcs\STEALTH\RCS_artificalAbomination.ogg", 1, 1};
+        theme = "Lead";
+        duration = 96;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_getOut
+    {
+        name = "Get Out";
+        sound[] = {"\rcs\STEALTH\RCS_getOut.ogg", 1, 1};
+        theme = "Lead";
+        duration = 113;
+        musicClass = "RCTSTEALTH";
+    };
 };
