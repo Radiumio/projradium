@@ -1625,7 +1625,7 @@ class CfgMusic
     class RCS_artificialAbomination
     {
         name = "Artificial Abomination";
-        sound[] = {"\rcs\STEALTH\RCS_artificalAbomination.ogg", 1, 1};
+        sound[] = {"\rcs\STEALTH\RCS_artificialAbomination.ogg", 1, 1};
         theme = "Lead";
         duration = 96;
         musicClass = "RCTSTEALTH";
