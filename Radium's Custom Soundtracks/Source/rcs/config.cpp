@@ -1638,4 +1638,36 @@ class CfgMusic
         duration = 113;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_salvagers
+    {
+        name = "Salvagers";
+        sound[] = {"\rcs\RELAX\RCS_salvagers.ogg", 1, 1};
+        theme = "Lead";
+        duration = 173;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_convoy
+    {
+        name = "Convoy";
+        sound[] = {"\rcs\STEALTH\RCS_convoy.ogg", 1, 1};
+        theme = "Lead";
+        duration = 169;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_perimeterDefense
+    {
+        name = "Perimeter Defense";
+        sound[] = {"\rcs\ACTION\RCS_perimeterDefense.ogg", 1, 1};
+        theme = "Lead";
+        duration = 133;
+        musicClass = "RCTACTION";
+    };
+    class RCS_heartbreaker
+    {
+        name = "Heartbreaker";
+        sound[] = {"\rcs\SAD\RCS_heartbreaker.ogg", 1, 1};
+        theme = "Lead";
+        duration = 266;
+        musicClass = "RCTSAD";
+    };
 };
