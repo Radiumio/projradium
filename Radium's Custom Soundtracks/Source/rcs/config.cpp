@@ -1638,4 +1638,76 @@ class CfgMusic
         duration = 113;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_salvagers
+    {
+        name = "Salvagers";
+        sound[] = {"\rcs\RELAX\RCS_salvagers.ogg", 1, 1};
+        theme = "Lead";
+        duration = 173;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_convoy
+    {
+        name = "Convoy";
+        sound[] = {"\rcs\STEALTH\RCS_convoy.ogg", 1, 1};
+        theme = "Lead";
+        duration = 169;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_perimeterDefense
+    {
+        name = "Perimeter Defense";
+        sound[] = {"\rcs\ACTION\RCS_perimeterDefense.ogg", 1, 1};
+        theme = "Lead";
+        duration = 133;
+        musicClass = "RCTACTION";
+    };
+    class RCS_heartbreaker
+    {
+        name = "Heartbreaker";
+        sound[] = {"\rcs\SAD\RCS_heartbreaker.ogg", 1, 1};
+        theme = "Lead";
+        duration = 266;
+        musicClass = "RCTSAD";
+    };
+    class RCS_stalkerSad
+    {
+        name = "S-A-D";
+        sound[] = {"\rcs\STEALTH\RCS_stalkerSad.ogg", 1, 1};
+        theme = "Lead";
+        duration = 275;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_radwind
+    {
+        name = "Radwind";
+        sound[] = {"\rcs\STEALTH\RCS_radwind.ogg", 1, 1};
+        theme = "Lead";
+        duration = 126;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_deadCities
+    {
+        name = "Dead Cities";
+        sound[] = {"\rcs\STEALTH\RCS_deadCities.ogg", 1, 1};
+        theme = "Lead";
+        duration = 283;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_pripyat
+    {
+        name = "Pripyat";
+        sound[] = {"\rcs\STEALTH\RCS_pripyat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 286;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_ghostCity
+    {
+        name = "Ghost City";
+        sound[] = {"\rcs\STEALTH\RCS_ghostCity.ogg", 1, 1};
+        theme = "Lead";
+        duration = 279;
+        musicClass = "RCTSTEALTH";
+    };
 };
