@@ -1710,4 +1710,92 @@ class CfgMusic
         duration = 279;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_jpBankruptSea
+    {
+        name = "Jose Pavli - Bankrupt Sea";
+        sound[] = {"\rcs\ACTION\RCS_jpBankruptSea.ogg", 1, 1};
+        theme = "Lead";
+        duration = 265;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpJourneyWest
+    {
+        name = "Jose Pavli - Journey West";
+        sound[] = {"\rcs\ACTION\RCS_jpJourneyWest.ogg", 1, 1};
+        theme = "Lead";
+        duration = 319;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpPeacekeepers
+    {
+        name = "Jose Pavli - Peacekeepers";
+        sound[] = {"\rcs\ACTION\RCS_jpPeacekeepers.ogg", 1, 1};
+        theme = "Lead";
+        duration = 185;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpPeacekeepersExtended
+    {
+        name = "Jose Pavli - Peacekeepers (Extended)";
+        sound[] = {"\rcs\ACTION\RCS_jpPeacekeepersExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 361;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpEminentDomain
+    {
+        name = "Jose Pavli - Eminent Domain";
+        sound[] = {"\rcs\ACTION\RCS_jpEminentDomain.ogg", 1, 1};
+        theme = "Lead";
+        duration = 388;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpIndependanceForce
+    {
+        name = "Jose Pavli - Independance Force";
+        sound[] = {"\rcs\ACTION\RCS_jpIndependanceForce.ogg", 1, 1};
+        theme = "Lead";
+        duration = 356;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpOperationBlackout
+    {
+        name = "Jose Pavli - Operation Blackout";
+        sound[] = {"\rcs\ACTION\RCS_jpOperationBlackout.ogg", 1, 1};
+        theme = "Lead";
+        duration = 205;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpValkyriesCall
+    {
+        name = "Jose Pavli - Valkyrie's Call";
+        sound[] = {"\rcs\ACTION\RCS_jpValkyriesCall.ogg", 1, 1};
+        theme = "Lead";
+        duration = 186;
+        musicClass = "RCTACTION";
+    };
+    class RCS_timeWindow
+    {
+        name = "PD2 - Time Window";
+        sound[] = {"\rcs\ACTION\RCS_timeWindow.ogg", 1, 1};
+        theme = "Lead";
+        duration = 159;
+        musicClass = "RCTACTION";
+    };
+    class RCS_callingAllUnits
+    {
+        name = "PD2 - Calling All Units";
+        sound[] = {"\rcs\ACTION\RCS_callingAllUnits.ogg", 1, 1};
+        theme = "Lead";
+        duration = 162;
+        musicClass = "RCTACTION";
+    };
+    class RCS_andNowWeWait
+    {
+        name = "PD2 - And Now We Wait";
+        sound[] = {"\rcs\STEALTH\RCS_andNowWeWait.ogg", 1, 1};
+        theme = "Lead";
+        duration = 231;
+        musicClass = "RCTSTEALTH";
+    };
 };
