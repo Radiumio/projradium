@@ -1798,4 +1798,12 @@ class CfgMusic
         duration = 231;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_jpCalamity
+    {
+        name = "Jose Pavli - Calamity";
+        sound[] = {"\rcs\ACTION\RCS_jpCalamity.ogg", 1, 1};
+        theme = "Lead";
+        duration = 236;
+        musicClass = "RCTACTION";
+    };
 };
