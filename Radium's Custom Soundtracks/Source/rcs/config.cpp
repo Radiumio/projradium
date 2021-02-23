@@ -1806,4 +1806,44 @@ class CfgMusic
         duration = 236;
         musicClass = "RCTACTION";
     };
+    class RCS_jpClearSkies
+    {
+        name = "Jose Pavli - Clear Skies";
+        sound[] = {"\rcs\ACTION\RCS_jpClearSkies.ogg", 1, 1};
+        theme = "Lead";
+        duration = 360;
+        musicClass = "RCTACTION";
+    };
+    class RCS_trazDamjiRoots
+    {
+        name = "Traz Damji - Roots";
+        sound[] = {"\rcs\RELAX\RCS_trazDamjiRoots.ogg", 1, 1};
+        theme = "Lead";
+        duration = 181;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_jpFireAndDust
+    {
+        name = "Jose Pavli - Fire and Dust";
+        sound[] = {"\rcs\ACTION\RCS_jpFireAndDust.ogg", 1, 1};
+        theme = "Lead";
+        duration = 293;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpCoronation
+    {
+        name = "Jose Pavli - Coronation";
+        sound[] = {"\rcs\SAD\RCS_jpCoronation.ogg", 1, 1};
+        theme = "Lead";
+        duration = 160;
+        musicClass = "RCTSAD";
+    };
+    class RCS_jpFallingSkies
+    {
+        name = "Jose Pavli - Falling Skies";
+        sound[] = {"\rcs\ACTION\RCS_jpFallingSkies.ogg", 1, 1};
+        theme = "Lead";
+        duration = 312;
+        musicClass = "RCTACTION";
+    };
 };
