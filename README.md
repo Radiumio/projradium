@@ -13,7 +13,8 @@ A high-quality, soundtrack mod that adds over **200** songs to your Zeus experie
 - Only change parts of the code that you need to. If you're adding a song or sound, only add in those bits of code. Please do not change my code or anyone elses without permission.
 - Alternatively, **create an issue with the link to the song you wish to add, and what category it should go under**. I'll take a look and see if it's appropriate to add!
 
-# Installing The Mods
+**NOTE:** The below guide is ***OLD***. RCS is a private ArmA 3 mod and is only accessible via request.
+# Installing The Mods [old]
 
 - First, it is important to note that although **RAS** is available on Workshop, **RCS** is not. This is because the Steam Workshop Subscriber Agreement *does not cover Fair Use of copyrighted songs*, and as a result putting **RCS** up on the workshop is not allowed. No profit is earned from **RCS** at all, nor does it affect the market of any copyrighted songs.
 
