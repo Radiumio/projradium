@@ -1763,7 +1763,7 @@ class CfgMusic
         name = "Jose Pavli - Operation Blackout";
         sound[] = {"\rcs\ACTION\RCS_jpOperationBlackout.ogg", 1, 1};
         theme = "Lead";
-        duration = 205;
+        duration = 401;
         musicClass = "RCTACTION";
     };
     class RCS_jpValkyriesCall
