@@ -1846,4 +1846,12 @@ class CfgMusic
         duration = 312;
         musicClass = "RCTACTION";
     };
+    class RCS_mileHighClub
+    {
+        name = "Mile High Club";
+        sound[] = {"\rcs\ACTION\RCS_mileHighClub.ogg", 1, 1};
+        theme = "Lead";
+        duration = 135;
+        musicClass = "RCTACTION";
+    };
 };
