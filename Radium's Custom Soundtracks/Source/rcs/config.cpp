@@ -1870,4 +1870,36 @@ class CfgMusic
         duration = 117;
         musicClass = "RCTACTION";
     };
+    class RCS_desertMoonSandCrawlers
+    {
+        name = "Desert Moon - Sand Crawlers";
+        sound[] = {"\rcs\ACTION\RCS_desertMoonSandCrawlers.ogg", 1, 1};
+        theme = "Lead";
+        duration = 229;
+        musicClass = "RCTACTION";
+    };
+    class RCS_desertMoonHunters
+    {
+        name = "Desert Moon - Hunters";
+        sound[] = {"\rcs\ACTION\RCS_desertMoonHunters.ogg", 1, 1};
+        theme = "Lead";
+        duration = 142;
+        musicClass = "RCTACTION";
+    };
+    class RCS_desertMoonDamned
+    {
+        name = "Desert Moon - Damned";
+        sound[] = {"\rcs\ACTION\RCS_desertMoonDamned.ogg", 1, 1};
+        theme = "Lead";
+        duration = 142;
+        musicClass = "RCTACTION";
+    };
+    class RCS_desertMoonRescueInbound
+    {
+        name = "Desert Moon - Rescue Inbound";
+        sound[] = {"\rcs\ACTION\RCS_desertMoonRescueInbound.ogg", 1, 1};
+        theme = "Lead";
+        duration = 161;
+        musicClass = "RCTACTION";
+    };
 };
