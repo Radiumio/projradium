@@ -1902,4 +1902,36 @@ class CfgMusic
         duration = 161;
         musicClass = "RCTACTION";
     };
+    class RCS_danMillidgeInfiltrate
+    {
+        name = "Dan Millidge - Infiltrate";
+        sound[] = {"\rcs\STEALTH\RCS_danMillidgeInfiltrate.ogg", 1, 1};
+        theme = "Lead";
+        duration = 195;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_danMillidgeReconnaissance
+    {
+        name = "Dan Millidge - Reconnaissance";
+        sound[] = {"\rcs\STEALTH\RCS_danMillidgeReconnaissance.ogg", 1, 1};
+        theme = "Lead";
+        duration = 241;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_danMillidgeLastChance
+    {
+        name = "Dan Millidge - Last Chance";
+        sound[] = {"\rcs\ACTION\RCS_danMillidgeLastChance.ogg", 1, 1};
+        theme = "Lead";
+        duration = 241;
+        musicClass = "RCTACTION";
+    };
+    class RCS_danMillidgeWeaponOfChoice
+    {
+        name = "Dan Millidge - Weapon Of Choice";
+        sound[] = {"\rcs\ACTION\RCS_danMillidgeWeaponOfChoice.ogg", 1, 1};
+        theme = "Lead";
+        duration = 207;
+        musicClass = "RCTACTION";
+    };
 };
