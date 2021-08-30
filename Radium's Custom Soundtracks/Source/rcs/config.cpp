@@ -1969,7 +1969,7 @@ class CfgMusic
     class RCS_triumNightManeuvers
     {
         name = "Trium - Night Maneuvers";
-        sound[] = {"\rcs\ACTION\RCS_nightManuevers.ogg", 1, 1};
+        sound[] = {"\rcs\ACTION\RCS_triumNightManeuvers.ogg", 1, 1};
         theme = "Lead";
         duration = 284;
         musicClass = "RCTACTION";
