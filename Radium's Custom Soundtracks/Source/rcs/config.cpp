@@ -1934,4 +1934,52 @@ class CfgMusic
         duration = 207;
         musicClass = "RCTACTION";
     };
+    class RCS_danMillidgeNoSurvivors
+    {
+        name = "Dan Millidge - No Survivors";
+        sound[] = {"\rcs\ACTION\RCS_danMillidgeNoSurvivors.ogg", 1, 1};
+        theme = "Lead";
+        duration = 249;
+        musicClass = "RCTACTION";
+    };
+    class RCS_idahoClone486
+    {
+        name = "Idaho Clone 486";
+        sound[] = {"\rcs\STEALTH\RCS_idahoClone486.ogg", 1, 1};
+        theme = "Lead";
+        duration = 244;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_joeKataldoMeatHunter
+    {
+        name = "Joe Kataldo - Meat Hunter";
+        sound[] = {"\rcs\STEALTH\RCS_joeKataldoMeatHunter.ogg", 1, 1};
+        theme = "Lead";
+        duration = 332;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_triumList
+    {
+        name = "Trium - List";
+        sound[] = {"\rcs\ACTION\RCS_triumList.ogg", 1, 1};
+        theme = "Lead";
+        duration = 348;
+        musicClass = "RCTACTION";
+    };
+    class RCS_triumNightManeuvers
+    {
+        name = "Trium - Night Maneuvers";
+        sound[] = {"\rcs\ACTION\RCS_nightManuevers.ogg", 1, 1};
+        theme = "Lead";
+        duration = 284;
+        musicClass = "RCTACTION";
+    };
+    class RCS_triumPlanetaryDefenseSystems
+    {
+        name = "Trium - Planetary Defense Systems";
+        sound[] = {"\rcs\ACTION\RCS_triumPlanetaryDefenseSystems.ogg", 1, 1};
+        theme = "Lead";
+        duration = 495;
+        musicClass = "RCTACTION";
+    };
 };
