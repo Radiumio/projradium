@@ -680,10 +680,10 @@ class CfgMusic
     class RCS_armedArrival
     {
         name = "Armed Arrival";
-        sound[] = {"\rcs\ACTION\RCS_armedArrival.ogg", 1, 1};
+        sound[] = {"\rcs\RELAX\RCS_armedArrival.ogg", 1, 1};
         theme = "Lead";
         duration = 179;
-        musicClass = "RCTACTION";
+        musicClass = "RCTRELAX";
     };
     class RCS_whatLiesBeyond
     {
@@ -1481,10 +1481,10 @@ class CfgMusic
     class RCS_dontMakeASound
     {
         name = "Don't Make a Sound";
-        sound[] = {"\rcs\ACTION\RCS_dontMakeASound.ogg", 1, 1};
+        sound[] = {"\rcs\STEALTH\RCS_dontMakeASound.ogg", 1, 1};
         theme = "Lead";
         duration = 148;
-        musicClass = "RCTACTION";
+        musicClass = "RCTSTEALTH";
     };
     class RCS_containmentFault
     {
