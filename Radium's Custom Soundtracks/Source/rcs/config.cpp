@@ -2059,7 +2059,7 @@ class CfgMusic
         name = "CC3 - Heavy Handed";
         sound[] = {"\rcs\ACTION\RCS_cc3HeavyHanded.ogg", 1, 1};
         theme = "Lead";
-        duration = 219;
+        duration = 212;
         musicClass = "RCTACTION";
     };
 };
