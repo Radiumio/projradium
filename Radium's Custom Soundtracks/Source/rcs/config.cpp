@@ -680,10 +680,10 @@ class CfgMusic
     class RCS_armedArrival
     {
         name = "Armed Arrival";
-        sound[] = {"\rcs\ACTION\RCS_armedArrival.ogg", 1, 1};
+        sound[] = {"\rcs\RELAX\RCS_armedArrival.ogg", 1, 1};
         theme = "Lead";
         duration = 179;
-        musicClass = "RCTACTION";
+        musicClass = "RCTRELAX";
     };
     class RCS_whatLiesBeyond
     {
@@ -1481,10 +1481,10 @@ class CfgMusic
     class RCS_dontMakeASound
     {
         name = "Don't Make a Sound";
-        sound[] = {"\rcs\ACTION\RCS_dontMakeASound.ogg", 1, 1};
+        sound[] = {"\rcs\STEALTH\RCS_dontMakeASound.ogg", 1, 1};
         theme = "Lead";
         duration = 148;
-        musicClass = "RCTACTION";
+        musicClass = "RCTSTEALTH";
     };
     class RCS_containmentFault
     {
@@ -1980,6 +1980,86 @@ class CfgMusic
         sound[] = {"\rcs\ACTION\RCS_triumPlanetaryDefenseSystems.ogg", 1, 1};
         theme = "Lead";
         duration = 495;
+        musicClass = "RCTACTION";
+    };
+    class RCS_dwhCutThePipe
+    {
+        name = "Deepwater Horizon - Cut The Pipe";
+        sound[] = {"\rcs\STEALTH\RCS_dwhCutThePipe.ogg", 1, 1};
+        theme = "Lead";
+        duration = 318;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_dwhTheMonster
+    {
+        name = "Deepwater Horizon - The Monster";
+        sound[] = {"\rcs\STEALTH\RCS_dwhTheMonster.ogg", 1, 1};
+        theme = "Lead";
+        duration = 223;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_cc3YellowPlanet
+    {
+        name = "CC3 - Yellow Planet";
+        sound[] = {"\rcs\STEALTH\RCS_cc3YellowPlanet.ogg", 1, 1};
+        theme = "Lead";
+        duration = 132;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_cc3ResearchInitiative
+    {
+        name = "CC3 - Research Initiative";
+        sound[] = {"\rcs\STEALTH\RCS_cc3ResearchInitiative.ogg", 1, 1};
+        theme = "Lead";
+        duration = 134;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_cc3RedAshes
+    {
+        name = "CC3 - Red Ashes";
+        sound[] = {"\rcs\STEALTH\RCS_cc3RedAshes.ogg", 1, 1};
+        theme = "Lead";
+        duration = 138;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_cc3Infestation
+    {
+        name = "CC3 - Infestation";
+        sound[] = {"\rcs\STEALTH\RCS_cc3Infestation.ogg", 1, 1};
+        theme = "Lead";
+        duration = 255;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_cc3BlackDawn
+    {
+        name = "CC3 - Black Dawn";
+        sound[] = {"\rcs\STEALTH\RCS_cc3BlackDawn.ogg", 1, 1};
+        theme = "Lead";
+        duration = 221;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_cc3Apocalypse
+    {
+        name = "CC3 - Apocalypse";
+        sound[] = {"\rcs\ACTION\RCS_cc3Apocalypse.ogg", 1, 1};
+        theme = "Lead";
+        duration = 156;
+        musicClass = "RCTACTION";
+    };
+    class RCS_cc3Havoc
+    {
+        name = "CC3 - Havoc";
+        sound[] = {"\rcs\ACTION\RCS_cc3Havoc.ogg", 1, 1};
+        theme = "Lead";
+        duration = 161;
+        musicClass = "RCTACTION";
+    };
+    class RCS_cc3HeavyHanded
+    {
+        name = "CC3 - Heavy Handed";
+        sound[] = {"\rcs\ACTION\RCS_cc3HeavyHanded.ogg", 1, 1};
+        theme = "Lead";
+        duration = 212;
         musicClass = "RCTACTION";
     };
 };
