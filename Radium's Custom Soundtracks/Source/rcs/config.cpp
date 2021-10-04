@@ -2051,7 +2051,7 @@ class CfgMusic
         name = "CC3 - Havoc";
         sound[] = {"\rcs\ACTION\RCS_cc3Havoc.ogg", 1, 1};
         theme = "Lead";
-        duration = 161;
+        duration = 126;
         musicClass = "RCTACTION";
     };
     class RCS_cc3HeavyHanded
