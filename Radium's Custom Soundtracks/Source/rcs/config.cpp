@@ -2062,4 +2062,12 @@ class CfgMusic
         duration = 212;
         musicClass = "RCTACTION";
     };
+    class RCS_danMillidgeOnlyTheBrave
+    {
+        name = "Dan Millidge - Only The Brave";
+        sound[] = {"\rcs\ACTION\RCS_danMillidgeOnlyTheBrave.ogg", 1, 1};
+        theme = "Lead";
+        duration = 250;
+        musicClass = "RCTACTION";
+    };
 };
