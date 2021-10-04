@@ -2051,7 +2051,7 @@ class CfgMusic
         name = "CC3 - Havoc";
         sound[] = {"\rcs\ACTION\RCS_cc3Havoc.ogg", 1, 1};
         theme = "Lead";
-        duration = 161;
+        duration = 126;
         musicClass = "RCTACTION";
     };
     class RCS_cc3HeavyHanded
@@ -2061,5 +2061,37 @@ class CfgMusic
         theme = "Lead";
         duration = 212;
         musicClass = "RCTACTION";
+    };
+    class RCS_danMillidgeOnlyTheBrave
+    {
+        name = "Dan Millidge - Only The Brave";
+        sound[] = {"\rcs\ACTION\RCS_danMillidgeOnlyTheBrave.ogg", 1, 1};
+        theme = "Lead";
+        duration = 250;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpPresidia
+    {
+        name = "Jose Pavli - Presidia";
+        sound[] = {"\rcs\ACTION\RCS_jpPresidia.ogg", 1, 1};
+        theme = "Lead";
+        duration = 318;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpKings
+    {
+        name = "Jose Pavli - Kings";
+        sound[] = {"\rcs\ACTION\RCS_jpKings.ogg", 1, 1};
+        theme = "Lead";
+        duration = 424;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpContractDetailsBriefingVersion
+    {
+        name = "Jose Pavli - Contract Details (Extended Briefing Version)";
+        sound[] = {"\rcs\RELAX\RCS_jpContractDetailsBriefingVersion.ogg", 1, 1};
+        theme = "Lead";
+        duration = 417;
+        musicClass = "RCTRELAX";
     };
 };
