@@ -2102,4 +2102,12 @@ class CfgMusic
         duration = 232;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_thisIsWarSynthwaveRemix
+    {
+        name = "This Is War - Synthwave Remix";
+        sound[] = {"\rcs\ACTION\RCS_thisIsWarSynthwaveRemix.ogg", 1, 1};
+        theme = "Lead";
+        duration = 248;
+        musicClass = "RCTACTION";
+    };
 };
