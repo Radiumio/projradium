@@ -2110,4 +2110,60 @@ class CfgMusic
         duration = 248;
         musicClass = "RCTACTION";
     };
+    class RCS_jpDaedalus
+    {
+        name = "Jose Pavli - Daedalus";
+        sound[] = {"\rcs\ACTION\RCS_jpDaedalus.ogg", 1, 1};
+        theme = "Lead";
+        duration = 311;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpPyroclastic
+    {
+        name = "Jose Pavli - Pyroclastic";
+        sound[] = {"\rcs\ACTION\RCS_jpPyroclastic.ogg", 1, 1};
+        theme = "Lead";
+        duration = 369;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpFireWithFire
+    {
+        name = "Jose Pavli - Fire With Fire";
+        sound[] = {"\rcs\ACTION\RCS_jpFireWithFire.ogg", 1, 1};
+        theme = "Lead";
+        duration = 345;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jpRedSea
+    {
+        name = "Jose Pavli - Red Sea";
+        sound[] = {"\rcs\ACTION\RCS_jpRedSea.ogg", 1, 1};
+        theme = "Lead";
+        duration = 363;
+        musicClass = "RCTACTION";
+    };
+    class RCS_solisPlanum
+    {
+        name = "Solis Planum";
+        sound[] = {"\rcs\RELAX\RCS_solisPlanum.ogg", 1, 1};
+        theme = "Lead";
+        duration = 108;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_meniTessera
+    {
+        name = "Meni Tessera";
+        sound[] = {"\rcs\RELAX\RCS_meniTessera.ogg", 1, 1};
+        theme = "Lead";
+        duration = 89;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_hellasPlanitia
+    {
+        name = "Hellas Planitia";
+        sound[] = {"\rcs\RELAX\RCS_hellasPlanitia.ogg", 1, 1};
+        theme = "Lead";
+        duration = 110;
+        musicClass = "RCTRELAX";
+    };
 };
