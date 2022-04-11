@@ -1873,10 +1873,10 @@ class CfgMusic
     class RCS_desertMoonSandCrawlers
     {
         name = "Desert Moon - Sand Crawlers";
-        sound[] = {"\rcs\ACTION\RCS_desertMoonSandCrawlers.ogg", 1, 1};
+        sound[] = {"\rcs\STEALTH\RCS_desertMoonSandCrawlers.ogg", 1, 1};
         theme = "Lead";
         duration = 229;
-        musicClass = "RCTACTION";
+        musicClass = "RCTSTEALTH";
     };
     class RCS_desertMoonHunters
     {
