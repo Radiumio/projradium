@@ -1649,10 +1649,10 @@ class CfgMusic
     class RCS_convoy
     {
         name = "Convoy";
-        sound[] = {"\rcs\STEALTH\RCS_convoy.ogg", 1, 1};
+        sound[] = {"\rcs\RELAX\RCS_convoy.ogg", 1, 1};
         theme = "Lead";
         duration = 169;
-        musicClass = "RCTSTEALTH";
+        musicClass = "RCTRELAX";
     };
     class RCS_perimeterDefense
     {
