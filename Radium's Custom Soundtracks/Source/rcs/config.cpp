@@ -2173,15 +2173,7 @@ class CfgMusic
         theme = "Lead";
         duration = 547;
         musicClass = "RCTSTEALTH";
-    };
-    class RCS_ronPenthouseAmbientTension
-    {
-        name = "Ready or Not - Penthouse (Ambient Tension)";
-        sound[] = {"\rcs\STEALTH\RCS_ronPenthouseAmbientTension.ogg", 1, 1};
-        theme = "Lead";
-        duration = 319;
-        musicClass = "RCTSTEALTH";
-    };    
+    }; 
     class RCS_ronPenthouseCombat
     {
         name = "Ready or Not - Penthouse (Combat)";
