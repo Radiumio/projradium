@@ -2182,4 +2182,20 @@ class CfgMusic
         duration = 191;
         musicClass = "RCTACTION";
     };
+    class RCS_edNonHuman
+    {
+        name = "Elite Dangerous - Non-Human";
+        sound[] = {"\rcs\ACTION\RCS_edNonHuman.ogg", 1, 1};
+        theme = "Lead";
+        duration = 342;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edTrespasser
+    {
+        name = "Elite Dangerous - Trespasser";
+        sound[] = {"\rcs\ACTION\RCS_edTrespasser.ogg", 1, 1};
+        theme = "Lead";
+        duration = 391;
+        musicClass = "RCTACTION";
+    };
 };
