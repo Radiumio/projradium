@@ -1649,10 +1649,10 @@ class CfgMusic
     class RCS_convoy
     {
         name = "Convoy";
-        sound[] = {"\rcs\STEALTH\RCS_convoy.ogg", 1, 1};
+        sound[] = {"\rcs\RELAX\RCS_convoy.ogg", 1, 1};
         theme = "Lead";
         duration = 169;
-        musicClass = "RCTSTEALTH";
+        musicClass = "RCTRELAX";
     };
     class RCS_perimeterDefense
     {
@@ -1873,10 +1873,10 @@ class CfgMusic
     class RCS_desertMoonSandCrawlers
     {
         name = "Desert Moon - Sand Crawlers";
-        sound[] = {"\rcs\ACTION\RCS_desertMoonSandCrawlers.ogg", 1, 1};
+        sound[] = {"\rcs\STEALTH\RCS_desertMoonSandCrawlers.ogg", 1, 1};
         theme = "Lead";
         duration = 229;
-        musicClass = "RCTACTION";
+        musicClass = "RCTSTEALTH";
     };
     class RCS_desertMoonHunters
     {
@@ -2164,6 +2164,150 @@ class CfgMusic
         sound[] = {"\rcs\RELAX\RCS_hellasPlanitia.ogg", 1, 1};
         theme = "Lead";
         duration = 110;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_ronPenthouseAmbient
+    {
+        name = "Ready or Not - Penthouse (Ambient)";
+        sound[] = {"\rcs\STEALTH\RCS_ronPenthouseAmbient.ogg", 1, 1};
+        theme = "Lead";
+        duration = 547;
+        musicClass = "RCTSTEALTH";
+    }; 
+    class RCS_ronPenthouseCombat
+    {
+        name = "Ready or Not - Penthouse (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_ronPenthouseCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 191;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edNonHuman
+    {
+        name = "Elite Dangerous - Non-Human";
+        sound[] = {"\rcs\ACTION\RCS_edNonHuman.ogg", 1, 1};
+        theme = "Lead";
+        duration = 342;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edTrespasser
+    {
+        name = "Elite Dangerous - Trespasser";
+        sound[] = {"\rcs\ACTION\RCS_edTrespasser.ogg", 1, 1};
+        theme = "Lead";
+        duration = 391;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edAnayol
+    {
+        name = "Elite Dangerous - Anayol";
+        sound[] = {"\rcs\RELAX\RCS_edAnayol.ogg", 1, 1};
+        theme = "Lead";
+        duration = 74;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edArcturusRising
+    {
+        name = "Elite Dangerous - Arcturus Rising";
+        sound[] = {"\rcs\RELAX\RCS_edArcturusRising.ogg", 1, 1};
+        theme = "Lead";
+        duration = 96;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edBlueGiant
+    {
+        name = "Elite Dangerous - Blue Giant";
+        sound[] = {"\rcs\RELAX\RCS_edBlueGiant.ogg", 1, 1};
+        theme = "Lead";
+        duration = 81;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edCanopus
+    {
+        name = "Elite Dangerous - Canopus";
+        sound[] = {"\rcs\RELAX\RCS_edCanopus.ogg", 1, 1};
+        theme = "Lead";
+        duration = 73;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edDeltaPhoenicis
+    {
+        name = "Elite Dangerous - Delta Phoenicis";
+        sound[] = {"\rcs\RELAX\RCS_edDeltaPhoenicis.ogg", 1, 1};
+        theme = "Lead";
+        duration = 90;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edFawoal
+    {
+        name = "Elite Dangerous - Fawoal";
+        sound[] = {"\rcs\RELAX\RCS_edFawoal.ogg", 1, 1};
+        theme = "Lead";
+        duration = 96;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edHoagsObject
+    {
+        name = "Elite Dangerous - Hoag's Object";
+        sound[] = {"\rcs\RELAX\RCS_edHoagsObject.ogg", 1, 1};
+        theme = "Lead";
+        duration = 92;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edLiabeze
+    {
+        name = "Elite Dangerous - Liabeze";
+        sound[] = {"\rcs\RELAX\RCS_edLiabeze.ogg", 1, 1};
+        theme = "Lead";
+        duration = 91;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edLonelyPulsar
+    {
+        name = "Elite Dangerous - Lonely Pulsar";
+        sound[] = {"\rcs\RELAX\RCS_edLonelyPulsar.ogg", 1, 1};
+        theme = "Lead";
+        duration = 86;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edQuator
+    {
+        name = "Elite Dangerous - Quator";
+        sound[] = {"\rcs\RELAX\RCS_edQuator.ogg", 1, 1};
+        theme = "Lead";
+        duration = 81;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edTarachTor
+    {
+        name = "Elite Dangerous - Tarach Tor";
+        sound[] = {"\rcs\RELAX\RCS_edTarachTor.ogg", 1, 1};
+        theme = "Lead";
+        duration = 88;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edTerraMater
+    {
+        name = "Elite Dangerous - Terra Mater";
+        sound[] = {"\rcs\RELAX\RCS_edTerraMater.ogg", 1, 1};
+        theme = "Lead";
+        duration = 87;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edTheGalacticRose
+    {
+        name = "Elite Dangerous - The Galactic Rose";
+        sound[] = {"\rcs\RELAX\RCS_edTheGalacticRose.ogg", 1, 1};
+        theme = "Lead";
+        duration = 109;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edTheRetinaNebula
+    {
+        name = "Elite Dangerous - The Retina Nebula";
+        sound[] = {"\rcs\RELAX\RCS_edTheRetinaNebula.ogg", 1, 1};
+        theme = "Lead";
+        duration = 93;
         musicClass = "RCTRELAX";
     };
 };
