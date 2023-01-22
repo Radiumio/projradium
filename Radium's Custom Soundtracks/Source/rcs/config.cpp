@@ -19,12 +19,12 @@ class cfgMusicClasses
 
     class RCTSTEALTH
     {
-        displayName = "[RCT] Stealthy/Creepy";
+        displayName = "[RCT] Stealth/Suspense";
     };
 
     class RCTRELAX
     {
-        displayName = "[RCT] Relaxing";
+        displayName = "[RCT] Relax";
     };
 
     class RCTSAD
