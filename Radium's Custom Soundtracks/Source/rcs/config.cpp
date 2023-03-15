@@ -19,12 +19,12 @@ class cfgMusicClasses
 
     class RCTSTEALTH
     {
-        displayName = "[RCT] Stealthy/Creepy";
+        displayName = "[RCT] Stealth/Suspense";
     };
 
     class RCTRELAX
     {
-        displayName = "[RCT] Relaxing";
+        displayName = "[RCT] Relax";
     };
 
     class RCTSAD
@@ -2309,5 +2309,61 @@ class CfgMusic
         theme = "Lead";
         duration = 93;
         musicClass = "RCTRELAX";
+    };
+    class RCS_ozActOfDeception
+    {
+        name = "Olivier Zuccaro - Act Of Deception";
+        sound[] = {"\rcs\STEALTH\RCS_ozActOfDeception.ogg", 1, 1};
+        theme = "Lead";
+        duration = 168;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_ozAssaultOnTraitorsFrontiers
+    {
+        name = "Olivier Zuccaro - Assault On Traitor's Frontiers";
+        sound[] = {"\rcs\ACTION\RCS_ozAssaultOnTraitorsFrontiers.ogg", 1, 1};
+        theme = "Lead";
+        duration = 267;
+        musicClass = "RCTACTION";
+    };
+    class RCS_ozFinalEdict
+    {
+        name = "Olivier Zuccaro - Final Edict";
+        sound[] = {"\rcs\STEALTH\RCS_ozFinalEdict.ogg", 1, 1};
+        theme = "Lead";
+        duration = 292;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_ozHomeworldDownfall
+    {
+        name = "Olivier Zuccaro - Homeworld Downfall";
+        sound[] = {"\rcs\ACTION\RCS_ozHomeworldDownfall.ogg", 1, 1};
+        theme = "Lead";
+        duration = 322;
+        musicClass = "RCTACTION";
+    };
+    class RCS_ozHouseOfTheDyingSun
+    {
+        name = "Olivier Zuccaro - House Of The Dying Sun";
+        sound[] = {"\rcs\ACTION\RCS_ozHouseOfTheDyingSun.ogg", 1, 1};
+        theme = "Lead";
+        duration = 163;
+        musicClass = "RCTACTION";
+    };
+    class RCS_ozOnslaught
+    {
+        name = "Olivier Zuccaro - Onslaught";
+        sound[] = {"\rcs\ACTION\RCS_ozOnslaught.ogg", 1, 1};
+        theme = "Lead";
+        duration = 356;
+        musicClass = "RCTACTION";
+    };
+    class RCS_ozShroudedAssassins
+    {
+        name = "Olivier Zuccaro - Shrouded Assassins";
+        sound[] = {"\rcs\STEALTH\RCS_ozShroudedAssassins.ogg", 1, 1};
+        theme = "Lead";
+        duration = 170;
+        musicClass = "RCTSTEALTH";
     };
 };
