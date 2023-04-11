@@ -2366,4 +2366,60 @@ class CfgMusic
         duration = 170;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_allButSystematicChaos
+    {
+        name = "All But Systematic Chaos";
+        sound[] = {"\rcs\ACTION\RCS_allButSystematicChaos.ogg", 1, 1};
+        theme = "Lead";
+        duration = 213;
+        musicClass = "RCTACTION";
+    };
+    class RCS_allButSystematicChaosExtended
+    {
+        name = "All But Systematic Chaos (Extended)";
+        sound[] = {"\rcs\ACTION\RCS_allButSystematicChaosExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 391;
+        musicClass = "RCTACTION";
+    };
+    class RCS_zackTheRabidRipper
+    {
+        name = "Zack The Rabid Ripper";
+        sound[] = {"\rcs\ACTION\RCS_zackTheRabidRipper.ogg", 1, 1};
+        theme = "Lead";
+        duration = 195;
+        musicClass = "RCTACTION";
+    };
+    class RCS_extraterrestrialBroadcast
+    {
+        name = "Extraterrestrial Broadcast";
+        sound[] = {"\rcs\ACTION\RCS_extraterrestrialBroadcast.ogg", 1, 1};
+        theme = "Lead";
+        duration = 282;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edAnarchy
+    {
+        name = "Elite Dangerous - Anarchy";
+        sound[] = {"\rcs\RELAX\RCS_edAnarchy.ogg", 1, 1};
+        theme = "Lead";
+        duration = 205;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_engineRoomWhales
+    {
+        name = "Engine Room Whales";
+        sound[] = {"\rcs\STEALTH\RCS_engineRoomWhales.ogg", 1, 1};
+        theme = "Lead";
+        duration = 187;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_pelagicLayers
+    {
+        name = "Pelagic Layers";
+        sound[] = {"\rcs\STEALTH\RCS_pelagicLayers.ogg", 1, 1};
+        theme = "Lead";
+        duration = 252;
+        musicClass = "RCTSTEALTH";
+    };
 };
