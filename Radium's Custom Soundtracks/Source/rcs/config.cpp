@@ -2422,4 +2422,12 @@ class CfgMusic
         duration = 252;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_narcosis
+    {
+        name = "Narcosis";
+        sound[] = {"\rcs\STEALTH\RCS_narcosis.ogg", 1, 1};
+        theme = "Lead";
+        duration = 960;
+        musicClass = "RCTSTEALTH";
+    };
 };
