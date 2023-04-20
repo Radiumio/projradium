@@ -2430,4 +2430,76 @@ class CfgMusic
         duration = 960;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_aVisionOfTheHidden
+    {
+        name = "A Vision Of The Hidden";
+        sound[] = {"\rcs\STEALTH\RCS_aVisionOfTheHidden.ogg", 1, 1};
+        theme = "Lead";
+        duration = 481;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_breathOfGrowingStructures
+    {
+        name = "Breath Of Growing Structures";
+        sound[] = {"\rcs\STEALTH\RCS_breathOfGrowingStructures.ogg", 1, 1};
+        theme = "Lead";
+        duration = 316;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_landsFilledWithSilenceAndGrief
+    {
+        name = "Lands Filled With Silence And Grief";
+        sound[] = {"\rcs\STEALTH\RCS_landsFilledWithSilenceAndGrief.ogg", 1, 1};
+        theme = "Lead";
+        duration = 628;
+        musicClass = "RCTSTEALTH";
+    };    
+    class RCS_echoesFromTheLoss
+    {
+        name = "Echoes From The Loss";
+        sound[] = {"\rcs\STEALTH\RCS_echoesFromTheLoss.ogg", 1, 1};
+        theme = "Lead";
+        duration = 316;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_loneliness
+    {
+        name = "Loneliness";
+        sound[] = {"\rcs\STEALTH\RCS_loneliness.ogg", 1, 1};
+        theme = "Lead";
+        duration = 556;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_lungsIntoDecliningStructures
+    {
+        name = "Lungs Into Declining Structures";
+        sound[] = {"\rcs\STEALTH\RCS_lungsIntoDecliningStructures.ogg", 1, 1};
+        theme = "Lead";
+        duration = 327;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_newRisenThrone
+    {
+        name = "New Risen Throne";
+        sound[] = {"\rcs\STEALTH\RCS_newRisenThrone.ogg", 1, 1};
+        theme = "Lead";
+        duration = 269;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_newRisenThroneII
+    {
+        name = "New Risen Throne II";
+        sound[] = {"\rcs\STEALTH\RCS_newRisenThroneII.ogg", 1, 1};
+        theme = "Lead";
+        duration = 407;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_newRisenThroneIII
+    {
+        name = "New Risen Throne III";
+        sound[] = {"\rcs\STEALTH\RCS_newRisenThroneIII.ogg", 1, 1};
+        theme = "Lead";
+        duration = 280;
+        musicClass = "RCTSTEALTH";
+    };
 };
