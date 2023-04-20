@@ -2453,6 +2453,14 @@ class CfgMusic
         theme = "Lead";
         duration = 628;
         musicClass = "RCTSTEALTH";
+    };    
+    class RCS_echoesFromTheLoss
+    {
+        name = "Echoes From The Loss";
+        sound[] = {"\rcs\STEALTH\RCS_echoesFromTheLoss.ogg", 1, 1};
+        theme = "Lead";
+        duration = 316;
+        musicClass = "RCTSTEALTH";
     };
     class RCS_loneliness
     {
