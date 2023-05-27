@@ -2502,4 +2502,44 @@ class CfgMusic
         duration = 280;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_edGlaive
+    {
+        name = "Elite Dangerous - Glaive";
+        sound[] = {"\rcs\ACTION\RCS_edGlaive.ogg", 1, 1};
+        theme = "Lead";
+        duration = 168;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edGlaiveExtended
+    {
+        name = "Elite Dangerous - Glaive (Extended)";
+        sound[] = {"\rcs\ACTION\RCS_edGlaiveExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 303;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edMaelstromHostile
+    {
+        name = "Elite Dangerous - Maelstrom Hostile";
+        sound[] = {"\rcs\ACTION\RCS_edMaelstromHostile.ogg", 1, 1};
+        theme = "Lead";
+        duration = 224;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edMaelstromHostileExtended
+    {
+        name = "Elite Dangerous - Maelstrom Hostile (Extended)";
+        sound[] = {"\rcs\ACTION\RCS_edMaelstromHostileExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 438;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edMaelstromAmbient
+    {
+        name = "Elite Dangerous - Maelstrom Ambient";
+        sound[] = {"\rcs\STEALTH\RCS_edMaelstromAmbient.ogg", 1, 1};
+        theme = "Lead";
+        duration = 334;
+        musicClass = "RCTSTEALTH";
+    };
 };
