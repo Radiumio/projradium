@@ -2502,4 +2502,92 @@ class CfgMusic
         duration = 280;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_edGlaive
+    {
+        name = "Elite Dangerous - Glaive";
+        sound[] = {"\rcs\ACTION\RCS_edGlaive.ogg", 1, 1};
+        theme = "Lead";
+        duration = 168;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edGlaiveExtended
+    {
+        name = "Elite Dangerous - Glaive (Extended)";
+        sound[] = {"\rcs\ACTION\RCS_edGlaiveExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 303;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edMaelstromHostile
+    {
+        name = "Elite Dangerous - Maelstrom Hostile";
+        sound[] = {"\rcs\ACTION\RCS_edMaelstromHostile.ogg", 1, 1};
+        theme = "Lead";
+        duration = 224;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edMaelstromHostileExtended
+    {
+        name = "Elite Dangerous - Maelstrom Hostile (Extended)";
+        sound[] = {"\rcs\ACTION\RCS_edMaelstromHostileExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 438;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edMaelstromAmbient
+    {
+        name = "Elite Dangerous - Maelstrom Ambient";
+        sound[] = {"\rcs\STEALTH\RCS_edMaelstromAmbient.ogg", 1, 1};
+        theme = "Lead";
+        duration = 334;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_osSaint
+    {
+        name = "Ola Strandh - Saint";
+        sound[] = {"\rcs\ACTION\RCS_osSaint.ogg", 1, 1};
+        theme = "Lead";
+        duration = 223;
+        musicClass = "RCTACTION";
+    };
+    class RCS_osBallroom
+    {
+        name = "Ola Strandh - Ballroom";
+        sound[] = {"\rcs\ACTION\RCS_osBallroom.ogg", 1, 1};
+        theme = "Lead";
+        duration = 221;
+        musicClass = "RCTACTION";
+    };
+    class RCS_osDockWrecks
+    {
+        name = "Ola Strandh - Dock Wrecks";
+        sound[] = {"\rcs\ACTION\RCS_osDockWrecks.ogg", 1, 1};
+        theme = "Lead";
+        duration = 284;
+        musicClass = "RCTACTION";
+    };
+    class RCS_osKeates
+    {
+        name = "Ola Strandh - Keates";
+        sound[] = {"\rcs\ACTION\RCS_osKeates.ogg", 1, 1};
+        theme = "Lead";
+        duration = 305;
+        musicClass = "RCTACTION";
+    };
+    class RCS_osEMPJam
+    {
+        name = "Ola Strandh - EMP Jam";
+        sound[] = {"\rcs\ACTION\RCS_osEMPJam.ogg", 1, 1};
+        theme = "Lead";
+        duration = 259;
+        musicClass = "RCTACTION";
+    };
+    class RCS_jwAdrenaline
+    {
+        name = "Jack Wall - Adrenaline";
+        sound[] = {"\rcs\ACTION\RCS_jwAdrenaline.ogg", 1, 1};
+        theme = "Lead";
+        duration = 206;
+        musicClass = "RCTACTION";
+    };
 };
