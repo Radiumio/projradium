@@ -2582,4 +2582,12 @@ class CfgMusic
         duration = 259;
         musicClass = "RCTACTION";
     };
+    class RCS_jwAdrenaline
+    {
+        name = "Jack Wall - Adrenaline";
+        sound[] = {"\rcs\ACTION\RCS_jwAdrenaline.ogg", 1, 1};
+        theme = "Lead";
+        duration = 206;
+        musicClass = "RCTACTION";
+    };
 };
