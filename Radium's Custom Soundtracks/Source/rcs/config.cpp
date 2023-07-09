@@ -2590,4 +2590,44 @@ class CfgMusic
         duration = 206;
         musicClass = "RCTACTION";
     };
+    class RCS_gtfoBioscan
+    {
+        name = "GTFO - Bioscan";
+        sound[] = {"\rcs\ACTION\RCS_jwAdrenaline.ogg", 1, 1};
+        theme = "Lead";
+        duration = 303;
+        musicClass = "RCTACTION";
+    };
+    class RCS_gtfoKraken
+    {
+        name = "GTFO - Kraken";
+        sound[] = {"\rcs\ACTION\RCS_gtfoKraken.ogg", 1, 1};
+        theme = "Lead";
+        duration = 265;
+        musicClass = "RCTACTION";
+    };
+    class RCS_gtfoBloodDoor
+    {
+        name = "GTFO - Blood Door";
+        sound[] = {"\rcs\ACTION\RCS_gtfoBloodDoor.ogg", 1, 1};
+        theme = "Lead";
+        duration = 384;
+        musicClass = "RCTACTION";
+    };
+    class RCS_gtfoSleepers
+    {
+        name = "GTFO - Sleepers";
+        sound[] = {"\rcs\STEALTH\RCS_gtfoSleepers.ogg", 1, 1};
+        theme = "Lead";
+        duration = 384;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_gtfoWelcomeToTheComplex
+    {
+        name = "GTFO - Welcome To The Complex";
+        sound[] = {"\rcs\ACTION\RCS_gtfoWelcomeToTheComplex.ogg", 1, 1};
+        theme = "Lead";
+        duration = 311;
+        musicClass = "RCTACTION";
+    };
 };
