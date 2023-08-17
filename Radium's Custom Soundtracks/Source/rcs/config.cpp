@@ -2630,4 +2630,20 @@ class CfgMusic
         duration = 311;
         musicClass = "RCTACTION";
     };
+    class RCS_edHuntedDown
+    {
+        name = "Elite Dangerous - Hunted Down";
+        sound[] = {"\rcs\ACTION\RCS_edHuntedDown.ogg", 1, 1};
+        theme = "Lead";
+        duration = 155;
+        musicClass = "RCTACTION";
+    };
+    class RCS_edHuntedDownExtended
+    {
+        name = "Elite Dangerous - Hunted Down (Extended)";
+        sound[] = {"\rcs\ACTION\RCS_edHuntedDownExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 286;
+        musicClass = "RCTACTION";
+    };
 };
