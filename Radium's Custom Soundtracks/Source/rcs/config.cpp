@@ -2593,7 +2593,7 @@ class CfgMusic
     class RCS_gtfoBioscan
     {
         name = "GTFO - Bioscan";
-        sound[] = {"\rcs\ACTION\RCS_jwAdrenaline.ogg", 1, 1};
+        sound[] = {"\rcs\ACTION\RCS_gtfoBioscan.ogg", 1, 1};
         theme = "Lead";
         duration = 303;
         musicClass = "RCTACTION";
@@ -2619,7 +2619,7 @@ class CfgMusic
         name = "GTFO - Sleepers";
         sound[] = {"\rcs\STEALTH\RCS_gtfoSleepers.ogg", 1, 1};
         theme = "Lead";
-        duration = 384;
+        duration = 262;
         musicClass = "RCTSTEALTH";
     };
     class RCS_gtfoWelcomeToTheComplex
