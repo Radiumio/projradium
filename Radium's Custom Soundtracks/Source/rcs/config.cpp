@@ -2646,4 +2646,52 @@ class CfgMusic
         duration = 286;
         musicClass = "RCTACTION";
     };
+    class RCS_ggOneLifeToLive
+    {
+        name = "Gero Goerlich - One Life To Live";
+        sound[] = {"\rcs\STEALTH\RCS_ggOneLifeToLive.ogg", 1, 1};
+        theme = "Lead";
+        duration = 243;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_ggGhostFleetHunt
+    {
+        name = "Gero Goerlich - Ghost Fleet Hunt";
+        sound[] = {"\rcs\ACTION\RCS_ggGhostFleetHunt.ogg", 1, 1};
+        theme = "Lead";
+        duration = 266;
+        musicClass = "RCTACTION";
+    };
+    class RCS_ggAdamsJourney
+    {
+        name = "Gero Goerlich - Adam's Journey";
+        sound[] = {"\rcs\ACTION\RCS_ggAdamsJourney.ogg", 1, 1};
+        theme = "Lead";
+        duration = 266;
+        musicClass = "RCTACTION";
+    };
+    class RCS_ggPlanarChimes
+    {
+        name = "Gero Goerlich - Planar Chimes";
+        sound[] = {"\rcs\ACTION\RCS_ggPlanarChimes.ogg", 1, 1};
+        theme = "Lead";
+        duration = 155;
+        musicClass = "RCTACTION";
+    };
+    class RCS_ggQuantumEnergy
+    {
+        name = "Gero Goerlich - Quantum Energy";
+        sound[] = {"\rcs\ACTION\RCS_ggQuantumEnergy.ogg", 1, 1};
+        theme = "Lead";
+        duration = 226;
+        musicClass = "RCTACTION";
+    };
+    class RCS_ggJumpGate
+    {
+        name = "Gero Goerlich - Jump Gate";
+        sound[] = {"\rcs\ACTION\RCS_ggJumpGate.ogg", 1, 1};
+        theme = "Lead";
+        duration = 163;
+        musicClass = "RCTACTION";
+    };
 };
