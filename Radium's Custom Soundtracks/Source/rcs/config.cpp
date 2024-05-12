@@ -1582,6 +1582,14 @@ class CfgMusic
         duration = 231;
         musicClass = "RCTACTION";
     };
+    class RCS_rocketRace
+    {
+        name = "Rocket Race";
+        sound[] = {"\rcs\ACTION\RCS_rocketRace.ogg", 1, 1};
+        theme = "Lead";
+        duration = 236;
+        musicClass = "RCTACTION";
+    };
     class RCS_forgottenDesert
     {
         name = "Forgotten Desert";
