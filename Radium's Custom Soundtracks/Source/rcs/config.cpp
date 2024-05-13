@@ -2702,4 +2702,12 @@ class CfgMusic
         duration = 163;
         musicClass = "RCTACTION";
     };
+    class RCS_ggBorderPatrol
+    {
+        name = "Gero Goerlich - Border Patrol";
+        sound[] = {"\rcs\ACTION\RCS_ggBorderPatrol.ogg", 1, 1};
+        theme = "Lead";
+        duration = 157;
+        musicClass = "RCTACTION";
+    };
 };
