@@ -2710,4 +2710,180 @@ class CfgMusic
         duration = 157;
         musicClass = "RCTACTION";
     };
+    class RCS_ggLaunchPrep
+    {
+        name = "Gero Goerlich - Launch Prep";
+        sound[] = {"\rcs\STEALTH\RCS_ggLaunchPrep.ogg", 1, 1};
+        theme = "Lead";
+        duration = 122;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_ggTheSearch
+    {
+        name = "Gero Goerlich - The Search";
+        sound[] = {"\rcs\STEALTH\RCS_ggTheSearch.ogg", 1, 1};
+        theme = "Lead";
+        duration = 171;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_warnoBroodingThoughts
+    {
+        name = "WARNO - Brooding Thoughts";
+        sound[] = {"\rcs\STEALTH\RCS_warnoBroodingThoughts.ogg", 1, 1};
+        theme = "Lead";
+        duration = 155;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_warnoCanyon
+    {
+        name = "WARNO - Canyon";
+        sound[] = {"\rcs\RELAX\RCS_warnoCanyon.ogg", 1, 1};
+        theme = "Lead";
+        duration = 155;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_warnoDarkCityBeats
+    {
+        name = "WARNO - Dark City Beats";
+        sound[] = {"\rcs\ACTION\RCS_warnoDarkCityBeats.ogg", 1, 1};
+        theme = "Lead";
+        duration = 270;
+        musicClass = "RCTACTION";
+    };
+    class RCS_warnoDawnOnGlendale
+    {
+        name = "WARNO - Dawn On Glendale";
+        sound[] = {"\rcs\RELAX\RCS_warnoDawnOnGlendale.ogg", 1, 1};
+        theme = "Lead";
+        duration = 212;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_warnoDepictionOfFear
+    {
+        name = "WARNO - Depiction Of Fear";
+        sound[] = {"\rcs\ACTION\RCS_warnoDepictionOfFear.ogg", 1, 1};
+        theme = "Lead";
+        duration = 392;
+        musicClass = "RCTACTION";
+    };
+    class RCS_warnoDivineInspiration
+    {
+        name = "WARNO - Divine Inspiration";
+        sound[] = {"\rcs\ACTION\RCS_warnoDivineInspiration.ogg", 1, 1};
+        theme = "Lead";
+        duration = 392;
+        musicClass = "RCTACTION";
+    };
+    class RCS_warnoGetTogether
+    {
+        name = "WARNO - Get Together";
+        sound[] = {"\rcs\ACTION\RCS_warnoGetTogether.ogg", 1, 1};
+        theme = "Lead";
+        duration = 235;
+        musicClass = "RCTACTION";
+    };
+    class RCS_warnoIntoTheUnknown
+    {
+        name = "WARNO - Into The Unknown";
+        sound[] = {"\rcs\STEALTH\RCS_warnoIntoTheUnknown.ogg", 1, 1};
+        theme = "Lead";
+        duration = 161;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_warnoLapTime
+    {
+        name = "WARNO - Lap Time";
+        sound[] = {"\rcs\ACTION\RCS_warnoLapTime.ogg", 1, 1};
+        theme = "Lead";
+        duration = 168;
+        musicClass = "RCTACTION";
+    };
+    class RCS_warnoLetsGo
+    {
+        name = "WARNO - Let's Go";
+        sound[] = {"\rcs\ACTION\RCS_warnoLetsGo.ogg", 1, 1};
+        theme = "Lead";
+        duration = 195;
+        musicClass = "RCTACTION";
+    };
+    class RCS_warnoMysteries
+    {
+        name = "WARNO - Mysteries";
+        sound[] = {"\rcs\RELAX\RCS_warnoMysteries.ogg", 1, 1};
+        theme = "Lead";
+        duration = 170;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_warnoQuietDiscovery
+    {
+        name = "WARNO - Quiet Discovery";
+        sound[] = {"\rcs\STEALTH\RCS_warnoQuietDiscovery.ogg", 1, 1};
+        theme = "Lead";
+        duration = 148;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_warnoRagingBurn
+    {
+        name = "WARNO - Raging Burn";
+        sound[] = {"\rcs\ACTION\RCS_warnoRagingBurn.ogg", 1, 1};
+        theme = "Lead";
+        duration = 233;
+        musicClass = "RCTACTION";
+    };
+    class RCS_warnoRiseForever
+    {
+        name = "WARNO - Rise Forever";
+        sound[] = {"\rcs\ACTION\RCS_warnoRiseForever.ogg", 1, 1};
+        theme = "Lead";
+        duration = 194;
+        musicClass = "RCTACTION";
+    };
+    class RCS_warnoSheerDrop
+    {
+        name = "WARNO - Sheer Drop";
+        sound[] = {"\rcs\ACTION\RCS_warnoSheerDrop.ogg", 1, 1};
+        theme = "Lead";
+        duration = 194;
+        musicClass = "RCTACTION";
+    };
+    class RCS_warnoSiliconTribes
+    {
+        name = "WARNO - Silicon Tribes";
+        sound[] = {"\rcs\ACTION\RCS_warnoSiliconTribes.ogg", 1, 1};
+        theme = "Lead";
+        duration = 217;
+        musicClass = "RCTACTION";
+    };
+    class RCS_warnoSinful
+    {
+        name = "WARNO - Sinful";
+        sound[] = {"\rcs\ACTION\RCS_warnoSinful.ogg", 1, 1};
+        theme = "Lead";
+        duration = 230;
+        musicClass = "RCTACTION";
+    };
+    class RCS_warnoSynchronicity
+    {
+        name = "WARNO - Synchronicity";
+        sound[] = {"\rcs\RELAX\RCS_warnoSynchronicity.ogg", 1, 1};
+        theme = "Lead";
+        duration = 192;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_warnoThirdDegree
+    {
+        name = "WARNO - Third Degree";
+        sound[] = {"\rcs\ACTION\RCS_warnoThirdDegree.ogg", 1, 1};
+        theme = "Lead";
+        duration = 131;
+        musicClass = "RCTACTION";
+    };
+    class RCS_warnoThroughTheNight
+    {
+        name = "WARNO - Through The Night";
+        sound[] = {"\rcs\STEALTH\RCS_warnoThroughTheNight.ogg", 1, 1};
+        theme = "Lead";
+        duration = 187;
+        musicClass = "RCTSTEALTH";
+    };
 };
