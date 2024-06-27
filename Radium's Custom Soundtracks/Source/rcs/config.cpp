@@ -2886,4 +2886,100 @@ class CfgMusic
         duration = 187;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_ccgeneralsGlory
+    {
+        name = "CC Generals - Glory";
+        sound[] = {"\rcs\ACTION\RCS_ccgeneralsGlory.ogg", 1, 1};
+        theme = "Lead";
+        duration = 202;
+        musicClass = "RCTACTION";
+    };
+    class RCS_ccgeneralsOurDayHasCome
+    {
+        name = "CC Generals - Our Day Has Come";
+        sound[] = {"\rcs\ACTION\RCS_ccgeneralsOurDayHasCome.ogg", 1, 1};
+        theme = "Lead";
+        duration = 219;
+        musicClass = "RCTACTION";
+    };
+    class RCS_ccgeneralsResistance
+    {
+        name = "CC Generals - Resistance";
+        sound[] = {"\rcs\ACTION\RCS_ccgeneralsResistance.ogg", 1, 1};
+        theme = "Lead";
+        duration = 238;
+        musicClass = "RCTACTION";
+    };
+    class RCS_ccgeneralsTidesOfWrath
+    {
+        name = "CC Generals - Tides Of Wrath";
+        sound[] = {"\rcs\ACTION\RCS_ccgeneralsTidesOfWrath.ogg", 1, 1};
+        theme = "Lead";
+        duration = 200;
+        musicClass = "RCTACTION";
+    };
+    class RCS_ccgeneralsUprising
+    {
+        name = "CC Generals - Uprising";
+        sound[] = {"\rcs\ACTION\RCS_ccgeneralsUprising.ogg", 1, 1};
+        theme = "Lead";
+        duration = 166;
+        musicClass = "RCTACTION";
+    };
+    class RCS_noAftermath
+    {
+        name = "Nuclear Option - Aftermath";
+        sound[] = {"\rcs\RELAX\RCS_noAftermath.ogg", 1, 1};
+        theme = "Lead";
+        duration = 138;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_noAgrapol
+    {
+        name = "Nuclear Option - Agrapol";
+        sound[] = {"\rcs\STEALTH\RCS_noAgrapol.ogg", 1, 1};
+        theme = "Lead";
+        duration = 380;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_noIfrit
+    {
+        name = "Nuclear Option - Ifrit";
+        sound[] = {"\rcs\ACTION\RCS_noIfrit.ogg", 1, 1};
+        theme = "Lead";
+        duration = 126;
+        musicClass = "RCTACTION";
+    };
+    class RCS_noMedusa
+    {
+        name = "Nuclear Option - Medusa";
+        sound[] = {"\rcs\ACTION\RCS_noMedusa.ogg", 1, 1};
+        theme = "Lead";
+        duration = 162;
+        musicClass = "RCTACTION";
+    };
+    class RCS_noNuclearEscalation
+    {
+        name = "Nuclear Option - Nuclear Escalation";
+        sound[] = {"\rcs\ACTION\RCS_noNuclearEscalation.ogg", 1, 1};
+        theme = "Lead";
+        duration = 151;
+        musicClass = "RCTACTION";
+    };
+    class RCS_noRevoker
+    {
+        name = "Nuclear Option - Revoker";
+        sound[] = {"\rcs\ACTION\RCS_noRevoker.ogg", 1, 1};
+        theme = "Lead";
+        duration = 176;
+        musicClass = "RCTACTION";
+    };
+    class RCS_noRevokerExtended
+    {
+        name = "Nuclear Option - Revoker (Extended)";
+        sound[] = {"\rcs\ACTION\RCS_noRevokerExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 323;
+        musicClass = "RCTACTION";
+    };
 };
