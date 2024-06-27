@@ -2937,7 +2937,7 @@ class CfgMusic
     class RCS_noAgrapol
     {
         name = "Nuclear Option - Agrapol";
-        sound[] = {"\rcs\STEALTH\RCS_noAftermath.ogg", 1, 1};
+        sound[] = {"\rcs\STEALTH\RCS_noAgrapol.ogg", 1, 1};
         theme = "Lead";
         duration = 380;
         musicClass = "RCTSTEALTH";
