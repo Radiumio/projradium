@@ -2982,4 +2982,20 @@ class CfgMusic
         duration = 323;
         musicClass = "RCTACTION";
     };
+    class RCS_xenonautsIAirCombat
+    {
+        name = "Xenonauts 1 - Air Combat";
+        sound[] = {"\rcs\ACTION\RCS_xenonautsIAirCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 349;
+        musicClass = "RCTACTION";
+    };
+    class RCS_xenonautsIIAirCombat
+    {
+        name = "Xenonauts 2 - Air Combat";
+        sound[] = {"\rcs\ACTION\RCS_xenonautsIIAirCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 307;
+        musicClass = "RCTACTION";
+    };
 };
