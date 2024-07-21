@@ -3080,8 +3080,16 @@ class CfgMusic
     };
     class RCS_xenonauts2Cleaner
     {
-        name = "Xenonauts 2 - Night Terror";
+        name = "Xenonauts 2 - Cleaner";
         sound[] = {"\rcs\STEALTH\RCS_xenonauts2Cleaner.ogg", 1, 1};
+        theme = "Lead";
+        duration = 462;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2NightTerror
+    {
+        name = "Xenonauts 2 - Night Terror";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2NightTerror.ogg", 1, 1};
         theme = "Lead";
         duration = 462;
         musicClass = "RCTSTEALTH";
