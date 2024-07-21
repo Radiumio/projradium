@@ -3091,7 +3091,7 @@ class CfgMusic
         name = "Xenonauts 2 - Night Terror";
         sound[] = {"\rcs\STEALTH\RCS_xenonauts2NightTerror.ogg", 1, 1};
         theme = "Lead";
-        duration = 462;
+        duration = 385;
         musicClass = "RCTSTEALTH";
     };
 };
