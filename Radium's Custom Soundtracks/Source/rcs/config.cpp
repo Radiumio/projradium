@@ -2982,20 +2982,108 @@ class CfgMusic
         duration = 323;
         musicClass = "RCTACTION";
     };
-    class RCS_xenonautsIAirCombat
+    class RCS_xenonauts1AirCombat
     {
         name = "Xenonauts 1 - Air Combat";
-        sound[] = {"\rcs\ACTION\RCS_xenonautsIAirCombat.ogg", 1, 1};
+        sound[] = {"\rcs\ACTION\RCS_xenonauts1AirCombat.ogg", 1, 1};
         theme = "Lead";
         duration = 349;
         musicClass = "RCTACTION";
     };
-    class RCS_xenonautsIIAirCombat
+    class RCS_xenonauts2AirCombat
     {
         name = "Xenonauts 2 - Air Combat";
-        sound[] = {"\rcs\ACTION\RCS_xenonautsIIAirCombat.ogg", 1, 1};
+        sound[] = {"\rcs\ACTION\RCS_xenonauts2AirCombat.ogg", 1, 1};
         theme = "Lead";
         duration = 307;
         musicClass = "RCTACTION";
+    };
+    class RCS_xenonauts2GeoscapeBriefing1
+    {
+        name = "Xenonauts 2 - Geoscape 1 (Briefing)";
+        sound[] = {"\rcs\RELAX\RCS_xenonauts2GeoscapeBriefing1.ogg", 1, 1};
+        theme = "Lead";
+        duration = 606;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_xenonauts2GeoscapeBriefing2
+    {
+        name = "Xenonauts 2 - Geoscape 2 (Briefing)";
+        sound[] = {"\rcs\RELAX\RCS_xenonauts2GeoscapeBriefing2.ogg", 1, 1};
+        theme = "Lead";
+        duration = 449;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_xenonauts2GeoscapeBriefing3
+    {
+        name = "Xenonauts 2 - Geoscape 3 (Briefing)";
+        sound[] = {"\rcs\RELAX\RCS_xenonauts2GeoscapeBriefing3.ogg", 1, 1};
+        theme = "Lead";
+        duration = 404;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_xenonauts2GeoscapeBriefing4
+    {
+        name = "Xenonauts 2 - Geoscape 4 (Briefing)";
+        sound[] = {"\rcs\RELAX\RCS_xenonauts2GeoscapeBriefing4.ogg", 1, 1};
+        theme = "Lead";
+        duration = 397;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_xenonauts2Wraith
+    {
+        name = "Xenonauts 2 - Wraith";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Wraith.ogg", 1, 1};
+        theme = "Lead";
+        duration = 520;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2Servitor
+    {
+        name = "Xenonauts 2 - Servitor";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Servitor.ogg", 1, 1};
+        theme = "Lead";
+        duration = 572;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2Reaper
+    {
+        name = "Xenonauts 2 - Reaper";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Reaper.ogg", 1, 1};
+        theme = "Lead";
+        duration = 668;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2Praetor
+    {
+        name = "Xenonauts 2 - Praetor";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Praetor.ogg", 1, 1};
+        theme = "Lead";
+        duration = 629;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2Phantoms
+    {
+        name = "Xenonauts 2 - Phantoms";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Phantoms.ogg", 1, 1};
+        theme = "Lead";
+        duration = 591;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2Observer
+    {
+        name = "Xenonauts 2 - Observer";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Observer.ogg", 1, 1};
+        theme = "Lead";
+        duration = 540;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2Cleaner
+    {
+        name = "Xenonauts 2 - Night Terror";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Cleaner.ogg", 1, 1};
+        theme = "Lead";
+        duration = 462;
+        musicClass = "RCTSTEALTH";
     };
 };
