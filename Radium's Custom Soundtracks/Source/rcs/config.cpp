@@ -2982,4 +2982,204 @@ class CfgMusic
         duration = 323;
         musicClass = "RCTACTION";
     };
+    class RCS_xenonauts1AirCombat
+    {
+        name = "Xenonauts 1 - Air Combat";
+        sound[] = {"\rcs\ACTION\RCS_xenonauts1AirCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 349;
+        musicClass = "RCTACTION";
+    };
+    class RCS_xenonauts2AirCombat
+    {
+        name = "Xenonauts 2 - Air Combat";
+        sound[] = {"\rcs\ACTION\RCS_xenonauts2AirCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 307;
+        musicClass = "RCTACTION";
+    };
+    class RCS_xenonauts2GeoscapeBriefing1
+    {
+        name = "Xenonauts 2 - Geoscape 1 (Briefing)";
+        sound[] = {"\rcs\RELAX\RCS_xenonauts2GeoscapeBriefing1.ogg", 1, 1};
+        theme = "Lead";
+        duration = 606;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_xenonauts2GeoscapeBriefing2
+    {
+        name = "Xenonauts 2 - Geoscape 2 (Briefing)";
+        sound[] = {"\rcs\RELAX\RCS_xenonauts2GeoscapeBriefing2.ogg", 1, 1};
+        theme = "Lead";
+        duration = 449;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_xenonauts2GeoscapeBriefing3
+    {
+        name = "Xenonauts 2 - Geoscape 3 (Briefing)";
+        sound[] = {"\rcs\RELAX\RCS_xenonauts2GeoscapeBriefing3.ogg", 1, 1};
+        theme = "Lead";
+        duration = 404;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_xenonauts2GeoscapeBriefing4
+    {
+        name = "Xenonauts 2 - Geoscape 4 (Briefing)";
+        sound[] = {"\rcs\RELAX\RCS_xenonauts2GeoscapeBriefing4.ogg", 1, 1};
+        theme = "Lead";
+        duration = 397;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_xenonauts2Wraith
+    {
+        name = "Xenonauts 2 - Wraith";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Wraith.ogg", 1, 1};
+        theme = "Lead";
+        duration = 520;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2Servitor
+    {
+        name = "Xenonauts 2 - Servitor";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Servitor.ogg", 1, 1};
+        theme = "Lead";
+        duration = 572;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2Reaper
+    {
+        name = "Xenonauts 2 - Reaper";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Reaper.ogg", 1, 1};
+        theme = "Lead";
+        duration = 668;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2Praetor
+    {
+        name = "Xenonauts 2 - Praetor";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Praetor.ogg", 1, 1};
+        theme = "Lead";
+        duration = 629;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2Phantoms
+    {
+        name = "Xenonauts 2 - Phantoms";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Phantoms.ogg", 1, 1};
+        theme = "Lead";
+        duration = 591;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2Observer
+    {
+        name = "Xenonauts 2 - Observer";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Observer.ogg", 1, 1};
+        theme = "Lead";
+        duration = 540;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2Cleaner
+    {
+        name = "Xenonauts 2 - Cleaner";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2Cleaner.ogg", 1, 1};
+        theme = "Lead";
+        duration = 462;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_xenonauts2NightTerror
+    {
+        name = "Xenonauts 2 - Night Terror";
+        sound[] = {"\rcs\STEALTH\RCS_xenonauts2NightTerror.ogg", 1, 1};
+        theme = "Lead";
+        duration = 385;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_halo1AWalkInTheWoods
+    {
+        name = "Halo 1 - A Walk In The Woods";
+        sound[] = {"\rcs\RELAX\RCS_halo1AWalkInTheWoods.ogg", 1, 1};
+        theme = "Lead";
+        duration = 113;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo1CovenantRun
+    {
+        name = "Halo 1 - Covenant Run";
+        sound[] = {"\rcs\RELAX\RCS_halo1CovenantRun.ogg", 1, 1};
+        theme = "Lead";
+        duration = 117;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo1UnderCoverOfNight
+    {
+        name = "Halo 1 - Under Cover Of Night";
+        sound[] = {"\rcs\RELAX\RCS_halo1UnderCoverOfNight.ogg", 1, 1};
+        theme = "Lead";
+        duration = 223;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo1UnlessYouMeanToShoot
+    {
+        name = "Halo 1 - Unless You Mean To Shoot";
+        sound[] = {"\rcs\ACTION\RCS_halo1UnlessYouMeanToShoot.ogg", 1, 1};
+        theme = "Lead";
+        duration = 151;
+        musicClass = "RCTACTION";
+    };
+    class RCS_halo1WhatOnceWasLost
+    {
+        name = "Halo 1 - What Once Was Lost";
+        sound[] = {"\rcs\STEALTH\RCS_halo1WhatOnceWasLost.ogg", 1, 1};
+        theme = "Lead";
+        duration = 102;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_halo2GhostsOfReach
+    {
+        name = "Halo 2 - Ghosts Of Reach";
+        sound[] = {"\rcs\RELAX\RCS_halo2GhostsOfReach.ogg", 1, 1};
+        theme = "Lead";
+        duration = 102;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo2InAmberClad
+    {
+        name = "Halo 2 - In Amber Clad";
+        sound[] = {"\rcs\RELAX\RCS_halo2InAmberClad.ogg", 1, 1};
+        theme = "Lead";
+        duration = 99;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo2Peril
+    {
+        name = "Halo 2 - Peril";
+        sound[] = {"\rcs\RELAX\RCS_halo2Peril.ogg", 1, 1};
+        theme = "Lead";
+        duration = 164;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo3WarthogRun
+    {
+        name = "Halo 3 - Warthog Run";
+        sound[] = {"\rcs\ACTION\RCS_halo3WarthogRun.ogg", 1, 1};
+        theme = "Lead";
+        duration = 500;
+        musicClass = "RCTACTION";
+    };
+    class RCS_haloODSTWereTheDesperateMeasures
+    {
+        name = "Halo ODST - We're The Desperate Measures";
+        sound[] = {"\rcs\ACTION\RCS_haloODSTWereTheDesperateMeasures.ogg", 1, 1};
+        theme = "Lead";
+        duration = 380;
+        musicClass = "RCTACTION";
+    };
+    class RCS_haloReachEngagedExtended
+    {
+        name = "Halo Reach - Engaged (Extended)";
+        sound[] = {"\rcs\ACTION\RCS_haloReachEngagedExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 528;
+        musicClass = "RCTACTION";
+    };
 };
