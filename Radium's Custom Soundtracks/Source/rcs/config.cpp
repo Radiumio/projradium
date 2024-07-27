@@ -3094,4 +3094,92 @@ class CfgMusic
         duration = 385;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_halo1AWalkInTheWoods
+    {
+        name = "Halo 1 - A Walk In The Woods";
+        sound[] = {"\rcs\RELAX\RCS_halo1AWalkInTheWoods.ogg", 1, 1};
+        theme = "Lead";
+        duration = 113;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo1CovenantRun
+    {
+        name = "Halo 1 - Covenant Run";
+        sound[] = {"\rcs\RELAX\RCS_halo1CovenantRun.ogg", 1, 1};
+        theme = "Lead";
+        duration = 117;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo1UnderCoverOfNight
+    {
+        name = "Halo 1 - Under Cover Of Night";
+        sound[] = {"\rcs\RELAX\RCS_halo1UnderCoverOfNight.ogg", 1, 1};
+        theme = "Lead";
+        duration = 223;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo1UnlessYouMeanToShoot
+    {
+        name = "Halo 1 - Unless You Mean To Shoot";
+        sound[] = {"\rcs\ACTION\RCS_halo1UnlessYouMeanToShoot.ogg", 1, 1};
+        theme = "Lead";
+        duration = 151;
+        musicClass = "RCTACTION";
+    };
+    class RCS_halo1WhatOnceWasLost
+    {
+        name = "Halo 1 - What Once Was Lost";
+        sound[] = {"\rcs\STEALTH\RCS_halo1WhatOnceWasLost.ogg", 1, 1};
+        theme = "Lead";
+        duration = 102;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_halo2GhostsOfReach
+    {
+        name = "Halo 2 - Ghosts Of Reach";
+        sound[] = {"\rcs\RELAX\RCS_halo2GhostsOfReach.ogg", 1, 1};
+        theme = "Lead";
+        duration = 102;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo2InAmberClad
+    {
+        name = "Halo 2 - In Amber Clad";
+        sound[] = {"\rcs\RELAX\RCS_halo2InAmberClad.ogg", 1, 1};
+        theme = "Lead";
+        duration = 99;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo2Peril
+    {
+        name = "Halo 2 - Peril";
+        sound[] = {"\rcs\RELAX\RCS_halo2Peril.ogg", 1, 1};
+        theme = "Lead";
+        duration = 164;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo3WarthogRun
+    {
+        name = "Halo 3 - Warthog Run";
+        sound[] = {"\rcs\ACTION\RCS_halo3WarthogRun.ogg", 1, 1};
+        theme = "Lead";
+        duration = 500;
+        musicClass = "RCTACTION";
+    };
+    class RCS_haloODSTWereTheDesperateMeasures
+    {
+        name = "Halo ODST - We're The Desperate Measures";
+        sound[] = {"\rcs\ACTION\RCS_haloODSTWereTheDesperateMeasures.ogg", 1, 1};
+        theme = "Lead";
+        duration = 380;
+        musicClass = "RCTACTION";
+    };
+    class RCS_haloReachEngagedExtended
+    {
+        name = "Halo Reach - Engaged (Extended)";
+        sound[] = {"\rcs\ACTION\RCS_haloReachEngagedExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 528;
+        musicClass = "RCTACTION";
+    };
 };
