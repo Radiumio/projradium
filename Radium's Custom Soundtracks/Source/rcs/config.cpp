@@ -3182,4 +3182,52 @@ class CfgMusic
         duration = 528;
         musicClass = "RCTACTION";
     };
+    class RCS_edAlienControl
+    {
+        name = "Elite Dangerous - Alien Control";
+        sound[] = {"\rcs\STEALTH\RCS_edAlienControl.ogg", 1, 1};
+        theme = "Lead";
+        duration = 253;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_edDemon
+    {
+        name = "Elite Dangerous - Demon";
+        sound[] = {"\rcs\STEALTH\RCS_edDemon.ogg", 1, 1};
+        theme = "Lead";
+        duration = 269;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_edInvasion
+    {
+        name = "Elite Dangerous - Invasion";
+        sound[] = {"\rcs\STEALTH\RCS_edInvasion.ogg", 1, 1};
+        theme = "Lead";
+        duration = 305;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_edMonster
+    {
+        name = "Elite Dangerous - Monster";
+        sound[] = {"\rcs\STEALTH\RCS_edMonster.ogg", 1, 1};
+        theme = "Lead";
+        duration = 224;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_edTheSpire
+    {
+        name = "Elite Dangerous - The Spire";
+        sound[] = {"\rcs\STEALTH\RCS_edTheSpire.ogg", 1, 1};
+        theme = "Lead";
+        duration = 214;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_edUnderground
+    {
+        name = "Elite Dangerous - Underground";
+        sound[] = {"\rcs\STEALTH\RCS_edUnderground.ogg", 1, 1};
+        theme = "Lead";
+        duration = 578;
+        musicClass = "RCTSTEALTH";
+    };
 };
