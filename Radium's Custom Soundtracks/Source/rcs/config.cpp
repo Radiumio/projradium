@@ -3102,12 +3102,20 @@ class CfgMusic
         duration = 113;
         musicClass = "RCTRELAX";
     };
-    class RCS_halo1CovenantRun
+    class RCS_halo1CovenantDance
     {
-        name = "Halo 1 - Covenant Run";
-        sound[] = {"\rcs\RELAX\RCS_halo1CovenantRun.ogg", 1, 1};
+        name = "Halo 1 - Covenant Dance";
+        sound[] = {"\rcs\RELAX\RCS_halo1CovenantDance.ogg", 1, 1};
         theme = "Lead";
         duration = 117;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo1CovenantDanceExtended
+    {
+        name = "Halo 1 - Covenant Dance (Extended)";
+        sound[] = {"\rcs\RELAX\RCS_halo1CovenantDanceExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 312;
         musicClass = "RCTRELAX";
     };
     class RCS_halo1UnderCoverOfNight
@@ -3134,6 +3142,14 @@ class CfgMusic
         duration = 102;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_halo1WhatOnceWasLostExtended
+    {
+        name = "Halo 1 - What Once Was Lost (Extended)";
+        sound[] = {"\rcs\STEALTH\RCS_halo1WhatOnceWasLostExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 291;
+        musicClass = "RCTSTEALTH";
+    };
     class RCS_halo2GhostsOfReach
     {
         name = "Halo 2 - Ghosts Of Reach";
@@ -3150,13 +3166,37 @@ class CfgMusic
         duration = 99;
         musicClass = "RCTRELAX";
     };
-    class RCS_halo2Peril
+    class RCS_halo2InAmberCladExtended
     {
-        name = "Halo 2 - Peril";
-        sound[] = {"\rcs\RELAX\RCS_halo2Peril.ogg", 1, 1};
+        name = "Halo 2 - In Amber Clad (Extended)";
+        sound[] = {"\rcs\RELAX\RCS_halo2InAmberCladExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 300;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo2PerilousJourney
+    {
+        name = "Halo 2 - Perilous Journey";
+        sound[] = {"\rcs\RELAX\RCS_halo2PerilousJourney.ogg", 1, 1};
         theme = "Lead";
         duration = 164;
         musicClass = "RCTRELAX";
+    };
+    class RCS_halo2PerilousJourneyExtended
+    {
+        name = "Halo 2 - Perilous Journey";
+        sound[] = {"\rcs\RELAX\RCS_halo2PerilousJourneyExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 444;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo2ToTurnATide
+    {
+        name = "Halo 2 - To Turn A Tide";
+        sound[] = {"\rcs\ACTION\RCS_halo2ToTurnATide.ogg", 1, 1};
+        theme = "Lead";
+        duration = 336;
+        musicClass = "RCTACTION";
     };
     class RCS_halo3WarthogRun
     {
@@ -3181,5 +3221,77 @@ class CfgMusic
         theme = "Lead";
         duration = 528;
         musicClass = "RCTACTION";
+    };
+    class RCS_halo2FlawedLegacy
+    {
+        name = "Halo 2 - Flawed Legacy";
+        sound[] = {"\rcs\RELAX\RCS_halo2FlawedLegacy.ogg", 1, 1};
+        theme = "Lead";
+        duration = 426;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo2CloakedInBlackness
+    {
+        name = "Halo 2 - Cloaked In Blackness";
+        sound[] = {"\rcs\RELAX\RCS_halo2CloakedInBlackness.ogg", 1, 1};
+        theme = "Lead";
+        duration = 221;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_halo2HereticHero
+    {
+        name = "Halo 2 - Heretic, Hero";
+        sound[] = {"\rcs\RELAX\RCS_halo2HereticHero.ogg", 1, 1};
+        theme = "Lead";
+        duration = 221;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_edAlienControl
+    {
+        name = "Elite Dangerous - Alien Control";
+        sound[] = {"\rcs\STEALTH\RCS_edAlienControl.ogg", 1, 1};
+        theme = "Lead";
+        duration = 253;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_edDemon
+    {
+        name = "Elite Dangerous - Demon";
+        sound[] = {"\rcs\STEALTH\RCS_edDemon.ogg", 1, 1};
+        theme = "Lead";
+        duration = 269;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_edInvasion
+    {
+        name = "Elite Dangerous - Invasion";
+        sound[] = {"\rcs\STEALTH\RCS_edInvasion.ogg", 1, 1};
+        theme = "Lead";
+        duration = 305;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_edMonster
+    {
+        name = "Elite Dangerous - Monster";
+        sound[] = {"\rcs\STEALTH\RCS_edMonster.ogg", 1, 1};
+        theme = "Lead";
+        duration = 224;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_edTheSpire
+    {
+        name = "Elite Dangerous - The Spire";
+        sound[] = {"\rcs\STEALTH\RCS_edTheSpire.ogg", 1, 1};
+        theme = "Lead";
+        duration = 214;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_edUnderground
+    {
+        name = "Elite Dangerous - Underground";
+        sound[] = {"\rcs\STEALTH\RCS_edUnderground.ogg", 1, 1};
+        theme = "Lead";
+        duration = 578;
+        musicClass = "RCTSTEALTH";
     };
 };

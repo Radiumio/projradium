@@ -54,7 +54,15 @@ class CfgPatches
 			"RAS_musicChannelRock2.ogg",
 			"RAS_heatAlarm.ogg",
 			"RAS_stadiumMusic80Mix.ogg",
-			"RAS_stadiumMusicElectronicMix.ogg"
+			"RAS_stadiumMusicElectronicMix.ogg",
+			"RAS_lowGeiger.ogg",
+			"RAS_medGeiger.ogg",
+			"RAS_highGeiger.ogg",
+			"RAS_extremeGeiger.ogg",
+			"RAS_monsterSounds.ogg",
+			"RAS_monsterSoundsCave.ogg",
+			"RAS_monsterRoar.ogg",
+			"RAS_monsterRoarCave"
 		};
 		weapons[]={};
 		requiredVersion=0.1;
@@ -1174,6 +1182,126 @@ class CfgSFX
 			0
 		};
 	};
+	class RAS_monsterSounds
+	{
+		name="[RAS] Monster Sounds";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\environment\RAS_monsterSounds.ogg",
+			25,
+			1, 
+			100, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
+	class RAS_monsterSoundsCave
+	{
+		name="[RAS] Monster Sounds (Cave)";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\environment\RAS_monsterSoundsCave.ogg",
+			25,
+			1, 
+			200, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
+	class RAS_monsterRoarCave
+	{
+		name="[RAS] Monster Roars (Cave)";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\environment\RAS_monsterRoarCave.ogg",
+			25,
+			1, 
+			100, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
+	class RAS_monsterRoar
+	{
+		name="[RAS] Monster Roars";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\environment\RAS_monsterRoar.ogg",
+			25,
+			1, 
+			200, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
 	class RAS_rockMusicLoopEcho
 	{
 		name="[RAS] Rock Music Loop (Echo)";
@@ -1567,6 +1695,7 @@ class CfgSFX
 			0
 		};
 	};
+
 	class RAS_stadiumMusic80Mix
 	{
 		name="[RAS] Stadium Music (80s Mix)";
@@ -1597,6 +1726,7 @@ class CfgSFX
 			0
 		};
 	};
+
 	class RAS_stadiumMusicElectronicMix
 	{
 		name="[RAS] Stadium Music (Electronic Mix)";
@@ -1610,6 +1740,130 @@ class CfgSFX
 			40,
 			1, 
 			600, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
+
+	class RAS_lowGeiger
+	{
+		name="[RAS] Geiger Counter (Low)";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\electronics\RAS_lowGeiger.ogg",
+			15,
+			1, 
+			20, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
+
+	class RAS_medGeiger
+	{
+		name="[RAS] Geiger Counter (Med)";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\electronics\RAS_medGeiger.ogg",
+			15,
+			1, 
+			20, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
+
+	class RAS_highGeiger
+	{
+		name="[RAS] Geiger Counter (High)";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\electronics\RAS_highGeiger.ogg",
+			15,
+			1, 
+			20, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
+
+	class RAS_extremeGeiger
+	{
+		name="[RAS] Geiger Counter (Extreme)";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\electronics\RAS_extremeGeiger.ogg",
+			15,
+			1, 
+			20, 
 			1,
 			1,
 			1,
@@ -2052,6 +2306,70 @@ class CfgVehicles
 		scope=2;
 		sound="RAS_stadiumMusicElectronicMix";
 		displayName="[RAS] Stadium Music (Electronic Mix)";
+	};
+	class RAS_lowGeiger: Sound
+	{
+		author="Radium";
+		_generalMacro="RAS_lowGeiger_veh";
+		scope=2;
+		sound="RAS_lowGeiger";
+		displayName="[RAS] Geiger Counter (Low)";
+	};
+	class RAS_medGeiger: Sound
+	{
+		author="Radium";
+		_generalMacro="RAS_medGeiger_veh";
+		scope=2;
+		sound="RAS_medGeiger";
+		displayName="[RAS] Geiger Counter (Med)";
+	};
+	class RAS_highGeiger: Sound
+	{
+		author="Radium";
+		_generalMacro="RAS_highGeiger_veh";
+		scope=2;
+		sound="RAS_highGeiger";
+		displayName="[RAS] Geiger Counter (High)";
+	};
+	class RAS_extremeGeiger: Sound
+	{
+		author="Radium";
+		_generalMacro="RAS_extremeGeiger_veh";
+		scope=2;
+		sound="RAS_extremeGeiger";
+		displayName="[RAS] Geiger Counter (Extreme)";
+	};
+	class RAS_monsterSounds: Sound
+	{
+		author="Radium";
+		_generalMacro="RAS_monsterSounds_veh";
+		scope=2;
+		sound="RAS_monsterSounds";
+		displayName="[RAS] Monster Sounds";
+	};
+	class RAS_monsterSoundsCave: Sound
+	{
+		author="Radium";
+		_generalMacro="RAS_monsterSoundsCave_veh";
+		scope=2;
+		sound="RAS_monsterSoundsCave";
+		displayName="[RAS] Monster Sounds (Cave)";
+	};
+	class RAS_monsterRoarCave: Sound
+	{
+		author="Radium";
+		_generalMacro="RAS_monsterRoarCave_veh";
+		scope=2;
+		sound="RAS_monsterRoarCave";
+		displayName="[RAS] Monster Roars (Cave)";
+	};
+	class RAS_monsterRoar: Sound
+	{
+		author="Radium";
+		_generalMacro="RAS_monsterRoar_veh";
+		scope=2;
+		sound="RAS_monsterRoar";
+		displayName="[RAS] Monster Roars";
 	};
 };
 
