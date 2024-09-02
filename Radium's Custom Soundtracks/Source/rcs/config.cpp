@@ -3196,7 +3196,7 @@ class CfgMusic
         sound[] = {"\rcs\ACTION\RCS_halo2ToTurnATide.ogg", 1, 1};
         theme = "Lead";
         duration = 336;
-        musicClass = "RCTRELAX";
+        musicClass = "RCTACTION";
     };
     class RCS_halo3WarthogRun
     {
@@ -3228,7 +3228,7 @@ class CfgMusic
         sound[] = {"\rcs\RELAX\RCS_halo2FlawedLegacy.ogg", 1, 1};
         theme = "Lead";
         duration = 426;
-        musicClass = "RCTACTION";
+        musicClass = "RCTRELAX";
     };
     class RCS_halo2CloakedInBlackness
     {
@@ -3236,7 +3236,7 @@ class CfgMusic
         sound[] = {"\rcs\RELAX\RCS_halo2CloakedInBlackness.ogg", 1, 1};
         theme = "Lead";
         duration = 221;
-        musicClass = "RCTACTION";
+        musicClass = "RCTRELAX";
     };
     class RCS_halo2HereticHero
     {
@@ -3244,7 +3244,7 @@ class CfgMusic
         sound[] = {"\rcs\RELAX\RCS_halo2HereticHero.ogg", 1, 1};
         theme = "Lead";
         duration = 221;
-        musicClass = "RCTACTION";
+        musicClass = "RCTRELAX";
     };
     class RCS_edAlienControl
     {
