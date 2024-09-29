@@ -62,7 +62,9 @@ class CfgPatches
 			"RAS_monsterSounds.ogg",
 			"RAS_monsterSoundsCave.ogg",
 			"RAS_monsterRoar.ogg",
-			"RAS_monsterRoarCave"
+			"RAS_monsterRoarCave",
+			"RAS_monolithPreacher",
+			"RAS_monolithPreacherEcho"
 		};
 		weapons[]={};
 		requiredVersion=0.1;
@@ -1302,6 +1304,66 @@ class CfgSFX
 			0
 		};
 	};
+	class RAS_monolithPreacher
+	{
+		name="[RAS] Monolith Preacher";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\environment\RAS_monolithPreacher.ogg",
+			25,
+			1, 
+			100, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
+	class RAS_monolithPreacherEcho
+	{
+		name="[RAS] Monolith Preacher (Echo)";
+		sounds[]=
+		{
+			"sfxsound"
+		};
+		sfxsound[]=
+		{
+			"RAS\environment\RAS_monolithPreacherEcho.ogg",
+			25,
+			1, 
+			200, 
+			1,
+			1,
+			1,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
 	class RAS_rockMusicLoopEcho
 	{
 		name="[RAS] Rock Music Loop (Echo)";
@@ -2370,6 +2432,22 @@ class CfgVehicles
 		scope=2;
 		sound="RAS_monsterRoar";
 		displayName="[RAS] Monster Roars";
+	};
+	class RAS_monolithPreacher: Sound
+	{
+		author="Radium";
+		_generalMacro="RAS_monolithPreacher_veh";
+		scope=2;
+		sound="RAS_monolithPreacher";
+		displayName="[RAS] Monolith Preacher";
+	};
+	class RAS_monolithPreacherEcho: Sound
+	{
+		author="Radium";
+		_generalMacro="RAS_monolithPreacherEcho_veh";
+		scope=2;
+		sound="RAS_monolithPreacherEcho";
+		displayName="[RAS] Monolith Preacher (Echo)";
 	};
 };
 
