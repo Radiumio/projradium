@@ -3430,4 +3430,12 @@ class CfgMusic
         duration = 189;
         musicClass = "RCTACTION";
     };
+    class RCS_stalkerPredator
+    {
+        name = "STALKER - Predator";
+        sound[] = {"\rcs\ACTION\RCS_stalkerPredator.ogg", 1, 1};
+        theme = "Lead";
+        duration = 499;
+        musicClass = "RCTACTION";
+    };
 };
