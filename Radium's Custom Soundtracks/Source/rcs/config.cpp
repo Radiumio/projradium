@@ -3294,4 +3294,148 @@ class CfgMusic
         duration = 578;
         musicClass = "RCTSTEALTH";
     };
+    class RCS_stalkerTheEndCredits
+    {
+        name = "STALKER - The End Credits";
+        sound[] = {"\rcs\STEALTH\RCS_stalkerTheEndCredits.ogg", 1, 1};
+        theme = "Lead";
+        duration = 462;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_stalkerApproachingChernobyl
+    {
+        name = "STALKER - Approaching Chernobyl";
+        sound[] = {"\rcs\STEALTH\RCS_stalkerApproachingChernobyl.ogg", 1, 1};
+        theme = "Lead";
+        duration = 322;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_stalkerArmyWarehouses
+    {
+        name = "STALKER - Army Warehouses";
+        sound[] = {"\rcs\STEALTH\RCS_stalkerArmyWarehouses.ogg", 1, 1};
+        theme = "Lead";
+        duration = 299;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_stalkerTheMysteryOfMonolith
+    {
+        name = "STALKER - The Mystery Of Monolith";
+        sound[] = {"\rcs\STEALTH\RCS_stalkerTheMysteryOfMonolith.ogg", 1, 1};
+        theme = "Lead";
+        duration = 137;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_stalkerStreetsofPripyat
+    {
+        name = "STALKER - Streets of Pripyat";
+        sound[] = {"\rcs\STEALTH\RCS_stalkerStreetsofPripyat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 196;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_stalkerTheX16PsiDevice
+    {
+        name = "STALKER - The X16 Psi Device";
+        sound[] = {"\rcs\STEALTH\RCS_stalkerTheX16PsiDevice.ogg", 1, 1};
+        theme = "Lead";
+        duration = 283;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_stalkerRedForest
+    {
+        name = "STALKER - Red Forest";
+        sound[] = {"\rcs\STEALTH\RCS_stalkerRedForest.ogg", 1, 1};
+        theme = "Lead";
+        duration = 306;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_stalkerSilenceofDarkValley
+    {
+        name = "STALKER - Silence of Dark Valley";
+        sound[] = {"\rcs\STEALTH\RCS_stalkerSilenceofDarkValley.ogg", 1, 1};
+        theme = "Lead";
+        duration = 278;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_stalkerTheX18Experiment
+    {
+        name = "STALKER - The X18 Experiment";
+        sound[] = {"\rcs\STEALTH\RCS_stalkerTheX18Experiment.ogg", 1, 1};
+        theme = "Lead";
+        duration = 227;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_stalkerCordon
+    {
+        name = "STALKER - Cordon";
+        sound[] = {"\rcs\STEALTH\RCS_stalkerCordon.ogg", 1, 1};
+        theme = "Lead";
+        duration = 521;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_stalkerZatonCrackdown
+    {
+        name = "STALKER - Zaton Crackdown";
+        sound[] = {"\rcs\ACTION\RCS_stalkerZatonCrackdown.ogg", 1, 1};
+        theme = "Lead";
+        duration = 234;
+        musicClass = "RCTACTION";
+    };
+    class RCS_stalkerBattleatYantar
+    {
+        name = "STALKER - Battle at Yantar";
+        sound[] = {"\rcs\ACTION\RCS_stalkerBattleatYantar.ogg", 1, 1};
+        theme = "Lead";
+        duration = 374;
+        musicClass = "RCTACTION";
+    };
+    class RCS_stalkerBulletproof
+    {
+        name = "STALKER - Bulletproof";
+        sound[] = {"\rcs\ACTION\RCS_stalkerBulletproof.ogg", 1, 1};
+        theme = "Lead";
+        duration = 617;
+        musicClass = "RCTACTION";
+    };
+    class RCS_stalkerAmbushOnDealers
+    {
+        name = "STALKER - Ambush On Dealers";
+        sound[] = {"\rcs\ACTION\RCS_stalkerAmbushOnDealers.ogg", 1, 1};
+        theme = "Lead";
+        duration = 216;
+        musicClass = "RCTACTION";
+    };
+    class RCS_stalkerLimanskAssault
+    {
+        name = "STALKER - Limansk Assault";
+        sound[] = {"\rcs\ACTION\RCS_stalkerLimanskAssault.ogg", 1, 1};
+        theme = "Lead";
+        duration = 302;
+        musicClass = "RCTACTION";
+    };
+    class RCS_stalkerJupiterUnderground
+    {
+        name = "STALKER - Jupiter Underground";
+        sound[] = {"\rcs\ACTION\RCS_stalkerJupiterUnderground.ogg", 1, 1};
+        theme = "Lead";
+        duration = 173;
+        musicClass = "RCTACTION";
+    };
+    class RCS_stalkerMercOutpost
+    {
+        name = "STALKER - Merc Outpost";
+        sound[] = {"\rcs\ACTION\RCS_stalkerMercOutpost.ogg", 1, 1};
+        theme = "Lead";
+        duration = 189;
+        musicClass = "RCTACTION";
+    };
+    class RCS_stalkerPredator
+    {
+        name = "STALKER - Predator";
+        sound[] = {"\rcs\ACTION\RCS_stalkerPredator.ogg", 1, 1};
+        theme = "Lead";
+        duration = 499;
+        musicClass = "RCTACTION";
+    };
 };
