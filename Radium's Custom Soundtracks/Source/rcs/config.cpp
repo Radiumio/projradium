@@ -3481,7 +3481,7 @@ class CfgMusic
     class RCS_crysis3WhosThePreyNowCombat
     {
         name = "Crysis 3 - Who's The Prey Now? (Combat)";
-        sound[] = {"\rcs\STEALTH\RCS_crysis3WhosThePreyNowCombat.ogg", 1, 1};
+        sound[] = {"\rcs\ACTION\RCS_crysis3WhosThePreyNowCombat.ogg", 1, 1};
         theme = "Lead";
         duration = 189;
         musicClass = "RCTACTION";
@@ -3489,7 +3489,7 @@ class CfgMusic
     class RCS_crysis3WhosThePreyNowCombatExtended
     {
         name = "Crysis 3 - Who's The Prey Now? (Combat, Extended)";
-        sound[] = {"\rcs\STEALTH\RCS_crysis3WhosThePreyNowCombatExtended.ogg", 1, 1};
+        sound[] = {"\rcs\ACTION\RCS_crysis3WhosThePreyNowCombatExtended.ogg", 1, 1};
         theme = "Lead";
         duration = 359;
         musicClass = "RCTACTION";
