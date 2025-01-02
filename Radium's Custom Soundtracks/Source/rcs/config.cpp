@@ -3438,4 +3438,60 @@ class CfgMusic
         duration = 499;
         musicClass = "RCTACTION";
     };
+    class RCS_crysis3CaveAction
+    {
+        name = "Crysis 3 - Cave Action";
+        sound[] = {"\rcs\ACTION\RCS_crysis3CaveAction.ogg", 1, 1};
+        theme = "Lead";
+        duration = 148;
+        musicClass = "RCTACTION";
+    };
+    class RCS_crysis3HuntThemDownAction
+    {
+        name = "Crysis 3 - Hunt Them Down (Action)";
+        sound[] = {"\rcs\ACTION\RCS_crysis3HuntThemDownAction.ogg", 1, 1};
+        theme = "Lead";
+        duration = 191;
+        musicClass = "RCTACTION";
+    };
+    class RCS_crysis3Mastermind
+    {
+        name = "Crysis 3 - Mastermind";
+        sound[] = {"\rcs\ACTION\RCS_crysis3Mastermind.ogg", 1, 1};
+        theme = "Lead";
+        duration = 273;
+        musicClass = "RCTACTION";
+    };
+    class RCS_crysis3WhosThePreyNow
+    {
+        name = "Crysis 3 - Who's The Prey Now?";
+        sound[] = {"\rcs\STEALTH\RCS_crysis3WhosThePreyNow.ogg", 1, 1};
+        theme = "Lead";
+        duration = 188;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_crysis3WhosThePreyNowExtended
+    {
+        name = "Crysis 3 - Who's The Prey Now? (Extended)";
+        sound[] = {"\rcs\STEALTH\RCS_crysis3WhosThePreyNowExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 348;
+        musicClass = "RCTSTEALTH";
+    };
+    class RCS_crysis3WhosThePreyNowCombat
+    {
+        name = "Crysis 3 - Who's The Prey Now? (Combat)";
+        sound[] = {"\rcs\STEALTH\RCS_crysis3WhosThePreyNowCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 189;
+        musicClass = "RCTACTION";
+    };
+    class RCS_crysis3WhosThePreyNowCombatExtended
+    {
+        name = "Crysis 3 - Who's The Prey Now? (Combat, Extended)";
+        sound[] = {"\rcs\STEALTH\RCS_crysis3WhosThePreyNowCombatExtended.ogg", 1, 1};
+        theme = "Lead";
+        duration = 359;
+        musicClass = "RCTACTION";
+    };
 };
