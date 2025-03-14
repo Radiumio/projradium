@@ -3494,4 +3494,707 @@ class CfgMusic
         duration = 359;
         musicClass = "RCTACTION";
     };
+
+
+    class RCS_iv1AssertCalm
+    {
+        name = "IV1 - Assert (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv1AssertCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 420;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv1AssertCombat
+    {
+        name = "IV1 - Assert (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv1AssertCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 210;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv1AssertTension
+    {
+        name = "IV1 - Assert (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv1AssertTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 420;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv1ConvictionCalm
+    {
+        name = "IV1 - Conviction (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv1ConvictionCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 409;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv1ConvictionCombat
+    {
+        name = "IV1 - Conviction (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv1ConvictionCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 204;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv1ConvictionTension
+    {
+        name = "IV1 - Conviction (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv1ConvictionTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 409;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv1ConvictionCalm
+    {
+        name = "IV1 - Conviction (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv1ConvictionCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 409;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv1ConvictionCombat
+    {
+        name = "IV1 - Conviction (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv1ConvictionCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 204;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv1ConvictionTension
+    {
+        name = "IV1 - Conviction (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv1ConvictionTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 409;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv1LynchCalm
+    {
+        name = "IV1 - Lynch (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv1LynchCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 300;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv1LynchCombat
+    {
+        name = "IV1 - Lynch (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv1LynchCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 150;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv1LynchTension
+    {
+        name = "IV1 - Lynch (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv1LynchTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 300;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+
+    class RCS_iv1RevengeCalm
+    {
+        name = "IV1 - Revenge (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv1RevengeCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 384;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv1RevengeCombat
+    {
+        name = "IV1 - Revenge (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv1RevengeCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 192;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv1RevengeTension
+    {
+        name = "IV1 - Revenge (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv1RevengeTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 384;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv1VengeanceCalm
+    {
+        name = "IV1 - Vengeance (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv1VengeanceCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 394;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv1VengeanceCombat
+    {
+        name = "IV1 - Vengeance (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv1VengeanceCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 197;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv1VengeanceTension
+    {
+        name = "IV1 - Vengeance (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv1VengeanceTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 394;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv1VexCalm
+    {
+        name = "IV1 - Vex (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv1VexCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 391;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv1VexCombat
+    {
+        name = "IV1 - Vex (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv1VexCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 195;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv1VexTension
+    {
+        name = "IV1 - Vex (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv1VexTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 391;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv1WelterCalm
+    {
+        name = "IV1 - Welter (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv1WelterCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 363;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv1WelterCombat
+    {
+        name = "IV1 - Welter (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv1WelterCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 182;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv1WelterTension
+    {
+        name = "IV1 - Welter (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv1WelterTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 363;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2CloakandStaggerCalm
+    {
+        name = "IV2 - Cloak And Stagger (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2CloakandStaggerCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 334;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2CloakandStaggerCombat
+    {
+        name = "IV2 - Cloak And Stagger (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2CloakandStaggerCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 167;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2CloakandStaggerTension
+    {
+        name = "IV2 - Cloak And Stagger (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2CloakandStaggerTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 334;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2CollateralCalm
+    {
+        name = "IV2 - Collateral (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2CollateralCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 506;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2CollateralCombat
+    {
+        name = "IV2 - Collateral (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2CollateralCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 253;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2CollateralTension
+    {
+        name = "IV2 - Collateral (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2CollateralTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 506;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2ElusionCalm
+    {
+        name = "IV2 - Elusion (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2ElusionCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 291;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2ElusionCombat
+    {
+        name = "IV2 - Elusion (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2ElusionCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 145;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2ElusionTension
+    {
+        name = "IV2 - Elusion (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2ElusionTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 291;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2InitiationCalm
+    {
+        name = "IV2 - Initiation (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2InitiationCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 353;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2InitiationCombat
+    {
+        name = "IV2 - Initiation (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2InitiationCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 177;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2InitiationTension
+    {
+        name = "IV2 - Initiation (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2InitiationTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 353;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2KerfuffleCalm
+    {
+        name = "IV2 - Kerfuffle (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2KerfuffleCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 384;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2KerfuffleCombat
+    {
+        name = "IV2 - Kerfuffle (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2KerfuffleCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 192;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2KerfuffleTension
+    {
+        name = "IV2 - Kerfuffle (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2KerfuffleTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 384;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2KidnapCalm
+    {
+        name = "IV2 - Kidnap (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2KidnapCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 307;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2KidnapCombat
+    {
+        name = "IV2 - Kidnap (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2KidnapCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 154;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2KidnapTension
+    {
+        name = "IV2 - Kidnap (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2KidnapTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 307;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2KidnapCalm
+    {
+        name = "IV2 - Kidnap (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2KidnapCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 307;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2KidnapCombat
+    {
+        name = "IV2 - Kidnap (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2KidnapCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 154;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2KidnapTension
+    {
+        name = "IV2 - Kidnap (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2KidnapTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 307;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2KnockoutCalm
+    {
+        name = "IV2 - Knockout (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2KnockoutCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 351;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2KnockoutCombat
+    {
+        name = "IV2 - Knockout (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2KnockoutCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 132;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2KnockoutTension
+    {
+        name = "IV2 - Knockout (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2KnockoutTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 351;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2LumenCalm
+    {
+        name = "IV2 - Lumen (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2LumenCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 437;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2LumenCombat
+    {
+        name = "IV2 - Lumen (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2LumenCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 219;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2LumenTension
+    {
+        name = "IV2 - Lumen (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2LumenTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 437;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2PabloCalm
+    {
+        name = "IV2 - Pablo (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2PabloCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 455;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2PabloCombat
+    {
+        name = "IV2 - Pablo (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2PabloCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 228;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2PabloTension
+    {
+        name = "IV2 - Pablo (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2PabloTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 455;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2PrecinctCalm
+    {
+        name = "IV2 - Precinct (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2PrecinctCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 398;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2PrecinctCombat
+    {
+        name = "IV2 - Precinct (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2PrecinctCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 199;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2PrecinctTension
+    {
+        name = "IV2 - Precinct (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2PrecinctTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 398;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2ReconCalm
+    {
+        name = "IV2 - Recon (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2ReconCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 284;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2ReconCombat
+    {
+        name = "IV2 - Recon (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2ReconCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 142;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2ReconTension
+    {
+        name = "IV2 - Recon (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2ReconTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 284;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2RetributionCalm
+    {
+        name = "IV2 - Retribution (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2RetributionCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 384;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2RetributionCombat
+    {
+        name = "IV2 - Retribution (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2RetributionCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 192;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2RetributionTension
+    {
+        name = "IV2 - Retribution (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2RetributionTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 384;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2SabotageCalm
+    {
+        name = "IV2 - Sabotage (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2SabotageCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 412;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2SabotageCombat
+    {
+        name = "IV2 - Sabotage (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2SabotageCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 206;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2SabotageTension
+    {
+        name = "IV2 - Sabotage (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2SabotageTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 412;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2SlyCalm
+    {
+        name = "IV2 - Sly (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2SlyCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 384;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2SlyCombat
+    {
+        name = "IV2 - Sly (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2SlyCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 192;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2SlyTension
+    {
+        name = "IV2 - Sly (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2SlyTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 384;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2TargetCalm
+    {
+        name = "IV2 - Target (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2TargetCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 382;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2TargetCombat
+    {
+        name = "IV2 - Target (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2TargetCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 118;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2TargetTension
+    {
+        name = "IV2 - Target (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2TargetTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 382;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2TwoMindsCalm
+    {
+        name = "IV2 - Two Minds (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2TwoMindsCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 434;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2TwoMindsCombat
+    {
+        name = "IV2 - Two Minds (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2TwoMindsCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 217;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2TwoMindsTension
+    {
+        name = "IV2 - Two Minds (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2TwoMindsTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 434;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2WeaveCalm
+    {
+        name = "IV2 - Weave (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2WeaveCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 439;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2WeaveCombat
+    {
+        name = "IV2 - Weave (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2WeaveCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 219;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2WeaveTension
+    {
+        name = "IV2 - Weave (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2WeaveTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 439;
+        musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_iv2WoeCalm
+    {
+        name = "IV2 - Woe (Calm)";
+        sound[] = {"\rcs\RELAX\RCS_iv2WoeCalm.ogg", 1, 1};
+        theme = "Lead";
+        duration = 375;
+        musicClass = "RCTRELAX";
+    };
+    class RCS_iv2WoeCombat
+    {
+        name = "IV2 - Woe (Combat)";
+        sound[] = {"\rcs\ACTION\RCS_iv2WoeCombat.ogg", 1, 1};
+        theme = "Lead";
+        duration = 187;
+        musicClass = "RCTACTION";
+    };
+    class RCS_iv2WoeTension
+    {
+        name = "IV2 - Woe (Tension)";
+        sound[] = {"\rcs\STEALTH\RCS_iv2WoeTension.ogg", 1, 1};
+        theme = "Lead";
+        duration = 375;
+        musicClass = "RCTSTEALTH";
+    };
 };
