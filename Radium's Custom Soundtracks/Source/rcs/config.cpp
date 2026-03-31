@@ -1520,7 +1520,7 @@ class CfgMusic
     };
     class RCS_rangersLeadTheWay
     {
-        name = "Rangers Lead the Way - Door Kickers 2";
+        name = "Door Kickers 2 - Rangers Lead the Way";
         sound[] = {"\rcs\ACTION\RCS_rangersLeadTheWay.ogg", 1, 1};
         theme = "Lead";
         duration = 172;
@@ -1528,7 +1528,7 @@ class CfgMusic
     };
     class RCS_kickingDoors
     {
-        name = "Kicking Doors - Door Kickers 2";
+        name = "Door Kickers 2 - Kicking Doors";
         sound[] = {"\rcs\ACTION\RCS_kickingDoors.ogg", 1, 1};
         theme = "Lead";
         duration = 224;
@@ -1536,7 +1536,7 @@ class CfgMusic
     };
     class RCS_slingAndDraw
     {
-        name = "Sling 'n Draw - Door Kickers 2";
+        name = "Door Kickers 2 - Sling 'n Draw";
         sound[] = {"\rcs\ACTION\RCS_slingAndDraw.ogg", 1, 1};
         theme = "Lead";
         duration = 182;
@@ -1544,7 +1544,7 @@ class CfgMusic
     };
     class RCS_alphaGo
     {
-        name = "Alpha, Go - Door Kickers 2";
+        name = "Door Kickers 2 - Alpha, Go";
         sound[] = {"\rcs\ACTION\RCS_alphaGo.ogg", 1, 1};
         theme = "Lead";
         duration = 234;
@@ -1552,7 +1552,7 @@ class CfgMusic
     };
     class RCS_domeOrGoHome
     {
-        name = "Dome Or Go Home - Door Kickers 2";
+        name = "Door Kickers 2 - Dome Or Go Home";
         sound[] = {"\rcs\ACTION\RCS_domeOrGoHome.ogg", 1, 1};
         theme = "Lead";
         duration = 213;
@@ -1560,7 +1560,7 @@ class CfgMusic
     };
     class RCS_marketCrash
     {
-        name = "Market Crash - Door Kickers 2";
+        name = "Door Kickers 2 - Market Crash";
         sound[] = {"\rcs\ACTION\RCS_marketCrash.ogg", 1, 1};
         theme = "Lead";
         duration = 185;
@@ -4171,8 +4171,6 @@ class CfgMusic
         duration = 439;
         musicClass = "RCTSTEALTH";
     };
-
-
     class RCS_iv2WoeCalm
     {
         name = "IV2 - Woe (Calm)";
@@ -4196,5 +4194,151 @@ class CfgMusic
         theme = "Lead";
         duration = 375;
         musicClass = "RCTSTEALTH";
+    };
+
+
+    class RCS_dk2DaughtersOfNowheraki
+    {
+        name = "Door Kickers 2 - Daughters Of Nowheraki";
+        sound[] = {"\rcs\ACTION\RCS_dk2DaughtersOfNowheraki.ogg", 1, 1};
+        theme = "Lead";
+        duration = 301;
+        musicClass = "RCTACTION";
+    };
+    class RCS_dk2SonsOfNowheraki
+    {
+        name = "Door Kickers 2 - Sons Of Nowheraki";
+        sound[] = {"\rcs\ACTION\RCS_dk2SonsOfNowheraki.ogg", 1, 1};
+        theme = "Lead";
+        duration = 223;
+        musicClass = "RCTACTION";
+    };
+    class RCS_noHarmonySands
+    {
+        name = "Nuclear Option - Harmony Sands";
+        sound[] = {"\rcs\ACTION\RCS_noHarmonySands.ogg", 1, 1};
+        theme = "Lead";
+        duration = 246;
+        musicClass = "RCTACTION";
+    };
+    class RCS_noIgnus
+    {
+        name = "Nuclear Option - Ignus";
+        sound[] = {"\rcs\ACTION\RCS_noIgnus.ogg", 1, 1};
+        theme = "Lead";
+        duration = 280;
+        musicClass = "RCTACTION";
+    };
+    class RCS_noTerminal
+    {
+        name = "Nuclear Option - Terminal";
+        sound[] = {"\rcs\ACTION\RCS_noTerminal.ogg", 1, 1};
+        theme = "Lead";
+        duration = 278;
+        musicClass = "RCTACTION";
+    };
+    class RCS_noVortex
+    {
+        name = "Nuclear Option - Vortex";
+        sound[] = {"\rcs\ACTION\RCS_noVortex.ogg", 1, 1};
+        theme = "Lead";
+        duration = 195;
+        musicClass = "RCTACTION";
+    };
+    class RCS_re9BaptismByBlood
+    {
+        name = "Resident Evil 9 - Baptism By Blood";
+        sound[] = {"\rcs\ACTION\RCS_re9BaptismByBlood.ogg", 1, 1};
+        theme = "Lead";
+        duration = 296;
+        musicClass = "RCTACTION";
+    };
+    class RCS_re9Contact
+    {
+        name = "Resident Evil 9 - Contact";
+        sound[] = {"\rcs\ACTION\RCS_re9Contact.ogg", 1, 1};
+        theme = "Lead";
+        duration = 418;
+        musicClass = "RCTACTION";
+    };
+    class RCS_re9LoomingDeath
+    {
+        name = "Resident Evil 9 - Looming Death";
+        sound[] = {"\rcs\ACTION\RCS_re9LoomingDeath.ogg", 1, 1};
+        theme = "Lead";
+        duration = 132;
+        musicClass = "RCTACTION";
+    };
+    class RCS_re9LoomingDread
+    {
+        name = "Resident Evil 9 - Looming Dread";
+        sound[] = {"\rcs\ACTION\RCS_re9LoomingDread.ogg", 1, 1};
+        theme = "Lead";
+        duration = 374;
+        musicClass = "RCTACTION";
+    };
+    class RCS_re9Ravenous
+    {
+        name = "Resident Evil 9 - Ravenous";
+        sound[] = {"\rcs\ACTION\RCS_re9Ravenous.ogg", 1, 1};
+        theme = "Lead";
+        duration = 205;
+        musicClass = "RCTACTION";
+    };
+    class RCS_w3SilverForMonsters
+    {
+        name = "The Witcher 3 - Silver For Monsters";
+        sound[] = {"\rcs\ACTION\RCS_w3SilverForMonsters.ogg", 1, 1};
+        theme = "Lead";
+        duration = 268;
+        musicClass = "RCTACTION";
+    };
+    class RCS_w3SilverForMonsters
+    {
+        name = "The Witcher 3 - Silver For Monsters";
+        sound[] = {"\rcs\ACTION\RCS_w3SilverForMonsters.ogg", 1, 1};
+        theme = "Lead";
+        duration = 268;
+        musicClass = "RCTACTION";
+    };
+    class RCS_w3SteelForHumans
+    {
+        name = "The Witcher 3 - Steel For Humans";
+        sound[] = {"\rcs\ACTION\RCS_w3SteelForHumans.ogg", 1, 1};
+        theme = "Lead";
+        duration = 170;
+        musicClass = "RCTACTION";
+    };
+    class RCS_w3SteelForHumans
+    {
+        name = "The Witcher 3 - Steel For Humans";
+        sound[] = {"\rcs\ACTION\RCS_w3SteelForHumans.ogg", 1, 1};
+        theme = "Lead";
+        duration = 170;
+        musicClass = "RCTACTION";
+    };
+    class RCS_theCitadelWhirlwind
+    {
+        name = "The Citadel - Whirlwind";
+        sound[] = {"\rcs\ACTION\RCS_theCitadelWhirlwind.ogg", 1, 1};
+        theme = "Lead";
+        duration = 216;
+        musicClass = "RCTACTION";
+    };
+    class RCS_theCitadelDevastatorEngine
+    {
+        name = "The Citadel - Devastator Engine";
+        sound[] = {"\rcs\ACTION\RCS_theCitadelDevastatorEngine.ogg", 1, 1};
+        theme = "Lead";
+        duration = 232;
+        musicClass = "RCTACTION";
+    };
+    class RCS_ricochetLove
+    {
+        name = "Ricochet Love";
+        sound[] = {"\rcs\ACTION\RCS_ricochetLove.ogg", 1, 1};
+        theme = "Lead";
+        duration = 249;
+        musicClass = "RCTACTION";
     };
 };
