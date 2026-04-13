@@ -4341,4 +4341,20 @@ class CfgMusic
         duration = 249;
         musicClass = "RCTACTION";
     };
+    class RCS_pd2DeathWish
+    {
+        name = "Payday 2 - Death Wish";
+        sound[] = {"\rcs\ACTION\RCS_pd2DeathWish.ogg", 1, 1};
+        theme = "Lead";
+        duration = 191;
+        musicClass = "RCTACTION";
+    };
+    class RCS_pd2DeathWishMetal
+    {
+        name = "Payday 2 - Death Wish (Metal)";
+        sound[] = {"\rcs\ACTION\RCS_pd2DeathWishMetal.ogg", 1, 1};
+        theme = "Lead";
+        duration = 137;
+        musicClass = "RCTACTION";
+    };
 };
